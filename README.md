@@ -2,7 +2,7 @@
 
 The completed ungrouped 10,000-drop dataset contains **780,000 simulated drops across all 39 workpieces**. Each workpiece has **10,000 trials with the belt stationary from release** and **10,000 trials on the moving belt**. The original twelve-workpiece paper study contributes 240,000 drops; the same-settings extension adds 540,000 drops for the remaining 27 workpieces. All 78 runs are complete and validated.
 
-The linked runs preserve individual orientations, trial outcomes, configurations, execution timings, and validation records. Earlier pose catalogues and 1,000-drop comparisons remain separate historical datasets.
+The linked runs preserve individual orientations, trial outcomes, configurations, execution timings, and validation records. All 39 primary pose catalogues now use 10,000 trials; previous catalogue snapshots and 1,000-drop comparisons remain available as historical datasets.
 
 The moving series records the outcome at the virtual exit while the belt runs. The post-exit braking and rest check produces a separate result. The reported moving incidence uses the exit outcomes, and moving-series wall times include the follow-up observation.
 
@@ -51,7 +51,7 @@ Both batches used the same archived simulator settings, revision, and dependency
 
 ## Workpieces
 
-Each count below is the number of settled outcomes out of **10,000 trials** in that condition. Moving counts use the virtual-exit outcome, separately from the post-braking observation. Catalogue pages describe the earlier saved pose catalogues; run links open the completed ungrouped 10,000-drop datasets.
+Each count below is the number of settled outcomes out of **10,000 trials** in that condition. Moving counts use the virtual-exit outcome, separately from the post-braking observation. Catalogue pages describe saved pose catalogues (Dk1i, Kf2a and Kf4i were refreshed from these source runs on 16 November 2026); run links open the completed ungrouped 10,000-drop datasets.
 
 | Workpiece catalogue | Stationary settled / 10,000 | Moving settled / 10,000 | Run records |
 | --- | ---: | ---: | --- |
@@ -142,7 +142,7 @@ Each of these six workpieces adds 100 stationary and 100 moving-belt drops (1,20
 
 A rounded support family ignores circumferential roll while retaining the extrusion-axis direction and broad cut-feature supports. The pinned meshes use source Z as their extrusion axis. Axis alignment uses 10°, and broad-support normals use 5°. A side hull facet is broad when its area is at least twice the median side-strip area. Kk2i retains broad wall/belt support distinctions. Kl2a also merges end-on-belt azimuths. Kk4a retains the signed axis direction; tilted observations stay separate for review. This simple geometric classification does not claim a 0.5 mm energy barrier or add rotational recognition symmetry.
 
-Only Kk2i, Kl2a and Kk4a were regrouped. Kf4i, Kl4i, Kf2a and all other workpieces retain exactly the previous grouping, numbering and representative behavior. All 39 workpieces passed fresh 100 stationary and 100 moving-drop checks (7,800 drops). The three revised workpieces' 600 drops were published first. The remaining 7,200 validation drops are now published below; existing catalogue files and grouping assignments remain unchanged.
+The support-family rule refinement applied only to Kk2i, Kl2a and Kk4a. Grouping rules and representative-selection behavior for the remaining workpieces were unchanged by that refinement. Kf2a and Kf4i catalogue data were subsequently refreshed from the 10,000-trial source runs, as documented below. All 39 workpieces passed fresh 100 stationary and 100 moving-drop checks (7,800 drops). The three revised workpieces' 600 drops were published first. The remaining 7,200 validation drops are now published below; existing catalogue files and grouping assignments remain unchanged.
 
 | Workpiece | Current groups and evidence | New validation |
 | --- | --- | --- |
@@ -197,3 +197,13 @@ The remaining 36 workpieces' paired 100-drop validation runs are now available: 
 | Rl4i | 99 | 100 | [Results](Rl4i/simulations/20261113_contact_100/README.md) |
 
 Kf1i's saved transport catalogue and moving transport sample contain no settled poses, so their comparisons are empty. Its separate post-braking outcomes remain available in the archived run; no occupied transport-group validation is inferred.
+
+## Catalogue refresh (16 November 2026)
+
+Dk1i, Kf2a and Kf4i were rebuilt from their verified 10,000-drop moving-belt runs, replacing the older 1,000-trial catalogues. Transport and post-braking phases are kept separate. No physics trials were rerun, and the published grouping algorithms and recognition tolerances are unchanged. Earlier catalogue snapshots, registry anchors and original simulation archives are preserved. The other 36 workpiece directories are unchanged.
+
+| Catalogue | Trials | Transport settled | After-stop settled | Provenance |
+| --- | ---: | ---: | ---: | --- |
+| [Kf2a](Kf2a/README.md) | 10000 | 8763 | 9959 | [Derivation](Kf2a/catalogue/20261116_10000/provenance.json) |
+| [Kf4i](Kf4i/README.md) | 10000 | 8997 | 9636 | [Derivation](Kf4i/catalogue/20261116_10000/provenance.json) |
+| [Dk1i](Dk1i/README.md) | 10000 | 9950 | 10000 | [Derivation](Dk1i/catalogue/20261116_10000/provenance.json) |

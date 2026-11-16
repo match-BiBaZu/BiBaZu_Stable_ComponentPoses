@@ -185,6 +185,12 @@
       "workpiece": "Df4a"
     },
     {
+      "catalogue_derivation": {
+        "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+        "provenance": "Dk1i/catalogue/20261116_10000/provenance.json",
+        "source_path": "Dk1i/simulations/20261107_10000/100mm_s",
+        "source_trials": 10000
+      },
       "grouping_validation": {
         "conditions": [
           "static",
@@ -197,14 +203,14 @@
       },
       "length_mm": 500.0,
       "poses": 8,
-      "run_id": "3ffd71e16cc8d1a02d46484ed06d15e8345497e4e847ba4b42886f13204685a6",
-      "settled": 998,
+      "run_id": "bb872a97c730e85f364af092d6c2f326d77c312672fc6b3db4a51958d7787690",
+      "settled": 9950,
       "status": "complete",
       "stop_catalogue": "Dk1i/poses_after_stop.json",
-      "stop_observed": 1000,
+      "stop_observed": 10000,
       "stop_poses": 8,
-      "stop_settled": 999,
-      "trials": 1000,
+      "stop_settled": 10000,
+      "trials": 10000,
       "ungrouped_10000_simulations": {
         "100mm_s": {
           "belt_mode": "running",
@@ -643,6 +649,12 @@
       "workpiece": "Kf1i"
     },
     {
+      "catalogue_derivation": {
+        "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+        "provenance": "Kf2a/catalogue/20261116_10000/provenance.json",
+        "source_path": "Kf2a/simulations/20261110_10000/100mm_s",
+        "source_trials": 10000
+      },
       "grouping_validation": {
         "conditions": [
           "static",
@@ -653,18 +665,23 @@
         "study": "20261113_contact_100",
         "trials": 200
       },
-      "length_mm": 500,
-      "poses": 3,
+      "length_mm": 500.0,
+      "poses": 52,
       "rolling_surface_grouping": {
+        "evidence_path": "Kf2a/catalogue/20261116_10000/transport_grouping.json.gz",
         "model": "scoped-persistent-seated-energy-basins-v2",
-        "path": "Kf2a/grouping/20261113/README.md",
+        "path": "Kf2a/README.md",
         "validation_path": "Kf2a/simulations/20261113_rolling_100/README.md",
         "validation_trials": 200
       },
-      "run_id": "e9aeef0f4b454ccd4db3a3b87525affbf342ac5f7209657cb0a266b8031c32e2",
-      "settled": 762,
+      "run_id": "94d2b2c8b9029422272a5d405297319b5c239d4a375dad53cf0a556d9d8c6535",
+      "settled": 8763,
       "status": "complete",
-      "trials": 1000,
+      "stop_catalogue": "Kf2a/poses_after_stop.json",
+      "stop_observed": 10000,
+      "stop_poses": 78,
+      "stop_settled": 9959,
+      "trials": 10000,
       "ungrouped_10000_simulations": {
         "100mm_s": {
           "belt_mode": "running",
@@ -700,6 +717,12 @@
       "workpiece": "Kf2a"
     },
     {
+      "catalogue_derivation": {
+        "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+        "provenance": "Kf4i/catalogue/20261116_10000/provenance.json",
+        "source_path": "Kf4i/simulations/20261110_10000/100mm_s",
+        "source_trials": 10000
+      },
       "grouping_validation": {
         "conditions": [
           "static",
@@ -710,18 +733,23 @@
         "study": "20261113_contact_100",
         "trials": 200
       },
-      "length_mm": 500,
-      "poses": 26,
+      "length_mm": 500.0,
+      "poses": 98,
       "rolling_surface_grouping": {
+        "evidence_path": "Kf4i/catalogue/20261116_10000/transport_grouping.json.gz",
         "model": "scoped-persistent-seated-energy-basins-v2",
-        "path": "Kf4i/grouping/20261113/README.md",
+        "path": "Kf4i/README.md",
         "validation_path": "Kf4i/simulations/20261113_rolling_100/README.md",
         "validation_trials": 200
       },
-      "run_id": "57c484fdd84eedc7ee55cc3c7cfb8f7890d7333a831a94231dc722dd39169517",
-      "settled": 132,
+      "run_id": "dcf12982d35890843f6fda018dd7cf182a0f03fb6080327cc7f3838ab9dc440b",
+      "settled": 8997,
       "status": "complete",
-      "trials": 1000,
+      "stop_catalogue": "Kf4i/poses_after_stop.json",
+      "stop_observed": 9999,
+      "stop_poses": 107,
+      "stop_settled": 9636,
+      "trials": 10000,
       "ungrouped_10000_simulations": {
         "100mm_s": {
           "belt_mode": "running",

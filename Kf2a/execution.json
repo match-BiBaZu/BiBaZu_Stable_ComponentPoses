@@ -1,0 +1,9 @@
+{
+  "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+  "new_simulation_trials": 0,
+  "operation": "derive_catalogue_from_completed_run",
+  "previous_catalogue_commit": "21b23e91c03406c01e7437c84e48021ad6c6f47f",
+  "source_archive_sha256": "5f52b55ece2ce971b33c69aeaeb14bbe1abad7cbfa4695e1aafe54e4133b7795",
+  "source_path": "Kf2a/simulations/20261110_10000/100mm_s",
+  "source_trials": 10000
+}

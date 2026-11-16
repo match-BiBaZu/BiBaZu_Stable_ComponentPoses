@@ -1,4 +1,5 @@
 {
+  "belt_mode": "running",
   "belt_speed_variation": {
     "control_point_clock": "elapsed time from start of observation (after reseating for stability trials)",
     "control_point_interval_s": 0.2,
@@ -42,13 +43,18 @@
   },
   "contact_response": {
     "damping_ratio": 0.19,
+    "friction_cone": "elliptic",
     "interpretation": "Solver contact parameters, not a directly specified restitution coefficient. Uncalibrated material response.",
     "model": "mujoco_positive_solref_time_constant_damping_ratio",
     "rolling_friction_mm": 0.1,
     "time_constant_s": 0.005,
     "torsional_friction_mm": 5.0
   },
-  "created_utc": "2026-10-18T20:46:04.563770+00:00",
+  "created_utc": "2026-11-07T18:03:08.030485+00:00",
+  "effective_belt_speed_mm_s": 100.0,
+  "friction_cone": "elliptic",
+  "group_ordering": null,
+  "group_poses": false,
   "inertia_com_kg_m2": [
     [
       4.116821755995805e-07,
@@ -121,7 +127,7 @@
     "scipy": "1.18.1",
     "trimesh": "5.1.0"
   },
-  "software_commit": "82f8bd43c70a0eb160d27dc0f7232849842efe9c",
+  "software_commit": "72b1ba08aa9b317804cd60e1e2ae6e636910f3fd",
   "surface_roughness": {
     "active_window": {
       "clock": "elapsed observation time; includes release for drops, starts after reseating for stability trials",

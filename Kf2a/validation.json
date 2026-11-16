@@ -1,0 +1,17 @@
+{
+  "after_stop_classes": 78,
+  "after_stop_settled": 9959,
+  "all_settled_trials_assigned_once": true,
+  "disturbance_sweeps": 0,
+  "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+  "grouping_rules_unchanged": true,
+  "historical_registry_anchors_preserved": true,
+  "json_yaml_equal": true,
+  "new_simulations": 0,
+  "passed": true,
+  "source_archive_sha256": "5f52b55ece2ce971b33c69aeaeb14bbe1abad7cbfa4695e1aafe54e4133b7795",
+  "source_path": "Kf2a/simulations/20261110_10000/100mm_s",
+  "transport_classes": 52,
+  "transport_settled": 8763,
+  "trials": 10000
+}

@@ -1,25 +1,17 @@
 {
-  "trials": 1000,
-  "workers": 16,
-  "run_directory": "run_20261018T204602_527463Z_42",
-  "transport_status_counts": {
-    "settled": 998,
-    "unsettled": 2
-  },
-  "stop_status_counts": {
-    "settled": 999,
-    "unsettled": 1
-  },
-  "rest_classes": 8,
-  "top5_counts": [
-    188,
-    180,
-    159,
-    151,
-    113
-  ],
-  "same_pose_images_as_displayed_in_chat": true,
-  "previous_catalogue_commit": "0006791c9f77c2359f04abf01035d9d78e18d456",
-  "trial_numbers_and_seeds_verified": true,
-  "impulse_cutoff_verified_s": 1.0
+  "after_stop_classes": 8,
+  "after_stop_settled": 10000,
+  "all_settled_trials_assigned_once": true,
+  "disturbance_sweeps": 0,
+  "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+  "grouping_rules_unchanged": true,
+  "historical_registry_anchors_preserved": true,
+  "json_yaml_equal": true,
+  "new_simulations": 0,
+  "passed": true,
+  "source_archive_sha256": "d9f974e43d45480363ae2718835d53efa7b66cde8e3e37029c1d902538df27aa",
+  "source_path": "Dk1i/simulations/20261107_10000/100mm_s",
+  "transport_classes": 8,
+  "transport_settled": 9950,
+  "trials": 10000
 }

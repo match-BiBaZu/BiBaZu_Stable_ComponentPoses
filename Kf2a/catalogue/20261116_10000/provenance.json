@@ -1,0 +1,46 @@
+{
+  "after_stop_classes": 78,
+  "after_stop_settled": 9959,
+  "all_settled_trials_assigned_once": true,
+  "disturbance_sweeps": 0,
+  "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+  "grouping_rules_unchanged": true,
+  "historical_registry_anchors_preserved": true,
+  "json_yaml_equal": true,
+  "new_simulations": 0,
+  "passed": true,
+  "previous_catalogue_commit": "21b23e91c03406c01e7437c84e48021ad6c6f47f",
+  "previous_catalogue_trials": 1000,
+  "rebuild_date": "2026-11-16",
+  "recognition": {
+    "ambiguity_margin_deg": 1.0,
+    "continuous_axis_part": null,
+    "quaternion_order": "xyzw",
+    "rotation": "part_to_chute",
+    "symmetry_available": true,
+    "symmetry_composition": "q_part_to_chute * q_symmetry_part",
+    "symmetry_quaternions_xyzw": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.9999999999999988,
+        5.0229749973172673e-08,
+        0.0,
+        1.6081226496766366e-16
+      ]
+    ],
+    "symmetry_symbol": "C2",
+    "tolerance_deg": 5.0
+  },
+  "source_archive_sha256": "5f52b55ece2ce971b33c69aeaeb14bbe1abad7cbfa4695e1aafe54e4133b7795",
+  "source_path": "Kf2a/simulations/20261110_10000/100mm_s",
+  "source_phase": "moving-belt transport with separate post-braking observations",
+  "source_simulator_commit": "72b1ba08aa9b317804cd60e1e2ae6e636910f3fd",
+  "transport_classes": 52,
+  "transport_settled": 8763,
+  "trials": 10000
+}
