@@ -2,3 +2,6 @@
 Kf1i/** -text
 */simulations/** -text
 */README.md text eol=lf
+*/catalogue/grouped_10000/** -text
+*/catalogue/grouped_10000/**/grouping-evidence.json -diff
+*/catalogue/grouped_10000/**/catalogue.json -diff

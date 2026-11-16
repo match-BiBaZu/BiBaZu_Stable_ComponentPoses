@@ -1,0 +1,2384 @@
+{
+  "model": "observed-seated-geodesic-basins-v1",
+  "barrier_mm": 0.5,
+  "max_angle_deg": 60,
+  "sampling_step_deg": 0.1,
+  "paths": [
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0002",
+      "angle_deg": 29.5873038559715,
+      "forward_barrier_mm": 4.386085983296766,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0003",
+      "angle_deg": 44.589357881968745,
+      "forward_barrier_mm": 4.823728813871632,
+      "reverse_barrier_mm": 0.08547920697598954
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0004",
+      "angle_deg": 89.99819353883098,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0005",
+      "angle_deg": 90.0009380749818,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0006",
+      "angle_deg": 89.99906315897098,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0007",
+      "angle_deg": 90.0039956757796,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0008",
+      "angle_deg": 92.83211415786786,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0009",
+      "angle_deg": 94.11994639545856,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0010",
+      "angle_deg": 95.77894546874934,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0011",
+      "angle_deg": 97.4462788677416,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0012",
+      "angle_deg": 116.04827339330991,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0013",
+      "angle_deg": 119.99616700017025,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0014",
+      "angle_deg": 119.99719387084036,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0015",
+      "angle_deg": 119.99926592771781,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0016",
+      "angle_deg": 120.0007193920621,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0017",
+      "angle_deg": 113.05588070405362,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0018",
+      "angle_deg": 148.89007625622912,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0019",
+      "angle_deg": 153.00335497551436,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0020",
+      "angle_deg": 155.46760532742604,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0021",
+      "angle_deg": 158.13952402666106,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0022",
+      "angle_deg": 161.88859289601507,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0023",
+      "angle_deg": 90.257083668595,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0024",
+      "angle_deg": 179.99597051506464,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0025",
+      "angle_deg": 179.9965043701061,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0001",
+      "target": "Rf2i_0026",
+      "angle_deg": 89.99600435952316,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0003",
+      "angle_deg": 15.002054138763397,
+      "forward_barrier_mm": 0.43739756568985655,
+      "reverse_barrier_mm": 0.08523394209098001
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0004",
+      "angle_deg": 93.73842981846127,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0005",
+      "angle_deg": 119.58824153020417,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0006",
+      "angle_deg": 60.411759536626306,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0007",
+      "angle_deg": 93.73843652496787,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0008",
+      "angle_deg": 90.06746490556392,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0009",
+      "angle_deg": 90.01002359729898,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0010",
+      "angle_deg": 90.23961830694012,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0011",
+      "angle_deg": 90.69204504154212,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0012",
+      "angle_deg": 135.73111627155222,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0013",
+      "angle_deg": 104.66206906089555,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0014",
+      "angle_deg": 104.6620974643081,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0015",
+      "angle_deg": 138.32095567718548,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0016",
+      "angle_deg": 104.66212085363162,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0017",
+      "angle_deg": 133.7890085382302,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0018",
+      "angle_deg": 119.30277269331006,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0019",
+      "angle_deg": 133.33289194914306,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0020",
+      "angle_deg": 125.88030177034507,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0021",
+      "angle_deg": 138.1373219178153,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0022",
+      "angle_deg": 141.68346181927134,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0023",
+      "angle_deg": 95.87851953327171,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0024",
+      "angle_deg": 150.41163975662735,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0025",
+      "angle_deg": 159.19554451097164,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0002",
+      "target": "Rf2i_0026",
+      "angle_deg": 93.73842009312142,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0004",
+      "angle_deg": 98.27516254994087,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0005",
+      "angle_deg": 134.59029566896754,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0006",
+      "angle_deg": 45.40970539786428,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 11.53130276676455
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0007",
+      "angle_deg": 98.27516477614013,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0008",
+      "angle_deg": 91.5441400738576,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0009",
+      "angle_deg": 90.78987149901172,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0010",
+      "angle_deg": 90.25075227260237,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0011",
+      "angle_deg": 90.02475026122582,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0012",
+      "angle_deg": 146.39596311544895,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0013",
+      "angle_deg": 98.5680030692782,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0014",
+      "angle_deg": 98.56802165761134,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0015",
+      "angle_deg": 148.32234791344254,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0016",
+      "angle_deg": 98.5680471955549,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0017",
+      "angle_deg": 144.95640422996058,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0018",
+      "angle_deg": 104.30071855454764,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0019",
+      "angle_deg": 124.04045387433851,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0020",
+      "angle_deg": 110.87824763158171,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0021",
+      "angle_deg": 128.5753578264934,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0022",
+      "angle_deg": 131.95010904338804,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0023",
+      "angle_deg": 101.21286483547749,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0024",
+      "angle_deg": 135.4095856178643,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0025",
+      "angle_deg": 148.8784080345811,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0003",
+      "target": "Rf2i_0026",
+      "angle_deg": 98.27515008662859,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0005",
+      "angle_deg": 119.99999962859403,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0006",
+      "angle_deg": 119.99996685998958,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0007",
+      "angle_deg": 119.99996315958977,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0008",
+      "angle_deg": 25.704214672121452,
+      "forward_barrier_mm": 4.297279920108796,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0009",
+      "angle_deg": 31.10472207196461,
+      "forward_barrier_mm": 4.389777184817948,
+      "reverse_barrier_mm": 0.005602845226135855
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0010",
+      "angle_deg": 37.00399209760132,
+      "forward_barrier_mm": 6.903371824956235,
+      "reverse_barrier_mm": 0.001338185969245842
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0011",
+      "angle_deg": 42.20754576601392,
+      "forward_barrier_mm": 4.8261626952121865,
+      "reverse_barrier_mm": 0.015076530407732491
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0012",
+      "angle_deg": 90.2133352716485,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0013",
+      "angle_deg": 89.99999084359462,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0014",
+      "angle_deg": 89.99998901522245,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0015",
+      "angle_deg": 90.0000092908851,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0016",
+      "angle_deg": 90.00001005770079,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0017",
+      "angle_deg": 90.680902702748,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0018",
+      "angle_deg": 158.1394309155762,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0019",
+      "angle_deg": 141.45481246978585,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0020",
+      "angle_deg": 162.72040082391473,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0021",
+      "angle_deg": 148.89552716445363,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0022",
+      "angle_deg": 154.28199020583236,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0023",
+      "angle_deg": 115.63588151918401,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0024",
+      "angle_deg": 179.99987840611672,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0025",
+      "angle_deg": 179.99998377861021,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0004",
+      "target": "Rf2i_0026",
+      "angle_deg": 119.99995613268793,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0006",
+      "angle_deg": 179.9999617198874,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0007",
+      "angle_deg": 120.00003721182564,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0008",
+      "angle_deg": 106.44612287485758,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0009",
+      "angle_deg": 103.98678135919144,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0010",
+      "angle_deg": 101.48228690372791,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0011",
+      "angle_deg": 99.44443841494594,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0012",
+      "angle_deg": 83.00811033828083,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0013",
+      "angle_deg": 179.9999293234596,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0014",
+      "angle_deg": 90.00000351314264,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0015",
+      "angle_deg": 89.99999855381272,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0016",
+      "angle_deg": 90.00000887710294,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0017",
+      "angle_deg": 77.479226413255,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0018",
+      "angle_deg": 121.10898577649289,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0019",
+      "angle_deg": 100.85975436353843,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0020",
+      "angle_deg": 114.53145669945077,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0021",
+      "angle_deg": 103.98691609394271,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0022",
+      "angle_deg": 106.4405661207821,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0023",
+      "angle_deg": 115.6358972073373,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0024",
+      "angle_deg": 90.00011871317254,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0025",
+      "angle_deg": 119.99999778793284,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0005",
+      "target": "Rf2i_0026",
+      "angle_deg": 120.00003122897863,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0007",
+      "angle_deg": 119.99998253338082,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0008",
+      "angle_deg": 106.44891761808742,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0009",
+      "angle_deg": 103.98674486485632,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0010",
+      "angle_deg": 101.4822905392543,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0011",
+      "angle_deg": 99.44437900910616,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0012",
+      "angle_deg": 179.99975984578063,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0013",
+      "angle_deg": 89.99999797834398,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0014",
+      "angle_deg": 89.99995820674482,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0015",
+      "angle_deg": 179.99995957268428,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0016",
+      "angle_deg": 90.00002940300976,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0017",
+      "angle_deg": 179.99957210325735,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0018",
+      "angle_deg": 58.891013156687634,
+      "forward_barrier_mm": 11.616559033678566,
+      "reverse_barrier_mm": 0.4416850984739398
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0019",
+      "angle_deg": 100.86305814581475,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0020",
+      "angle_deg": 65.46854223372516,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0021",
+      "angle_deg": 103.98684749216311,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0022",
+      "angle_deg": 106.44153347094633,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0023",
+      "angle_deg": 115.63582466448989,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0024",
+      "angle_deg": 89.99988022000242,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0025",
+      "angle_deg": 119.99997637423829,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0006",
+      "target": "Rf2i_0026",
+      "angle_deg": 119.99994418579178,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0008",
+      "angle_deg": 135.79488950024952,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0009",
+      "angle_deg": 139.31469005169492,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0010",
+      "angle_deg": 101.48224637936679,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0011",
+      "angle_deg": 146.71056776888344,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0012",
+      "angle_deg": 90.2131257200342,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0013",
+      "angle_deg": 89.99983410477319,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0014",
+      "angle_deg": 179.99994971819575,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0015",
+      "angle_deg": 90.00008456691506,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0016",
+      "angle_deg": 89.9999990002971,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0017",
+      "angle_deg": 90.68152067670871,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0018",
+      "angle_deg": 94.12355353632347,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0019",
+      "angle_deg": 144.24788852487265,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0020",
+      "angle_deg": 92.5868208185801,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0021",
+      "angle_deg": 139.31449850264414,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0022",
+      "angle_deg": 135.80458271870475,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0023",
+      "angle_deg": 179.99993037572472,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0024",
+      "angle_deg": 90.00003382596643,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0025",
+      "angle_deg": 119.9999627408436,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0007",
+      "target": "Rf2i_0026",
+      "angle_deg": 179.99987849930653,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0009",
+      "angle_deg": 5.400507724619439,
+      "forward_barrier_mm": 0.09272099481874108,
+      "reverse_barrier_mm": 0.005826575335746043
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0010",
+      "angle_deg": 62.70820673457546,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0011",
+      "angle_deg": 16.50333123780505,
+      "forward_barrier_mm": 0.5289762048206796,
+      "reverse_barrier_mm": 0.015169960125028581
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0012",
+      "angle_deg": 94.54376147246398,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0013",
+      "angle_deg": 92.83672623626781,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0014",
+      "angle_deg": 64.29577441921226,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0015",
+      "angle_deg": 92.83530879581747,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0016",
+      "angle_deg": 115.70422468195798,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0017",
+      "angle_deg": 90.75371416501626,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0018",
+      "angle_deg": 140.68676589733718,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0019",
+      "angle_deg": 115.75059783873158,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0020",
+      "angle_deg": 145.06708629855643,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0021",
+      "angle_deg": 123.19131255544501,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0022",
+      "angle_deg": 128.57777558928692,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0023",
+      "angle_deg": 100.75255804172258,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0024",
+      "angle_deg": 161.9008038461469,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0025",
+      "angle_deg": 154.29577226880306,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0008",
+      "target": "Rf2i_0026",
+      "angle_deg": 106.44698618483602,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0010",
+      "angle_deg": 68.10871416956451,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0011",
+      "angle_deg": 11.102823694058985,
+      "forward_barrier_mm": 0.4419827668048768,
+      "reverse_barrier_mm": 0.015071191127120187
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0012",
+      "angle_deg": 96.11468194115318,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0013",
+      "angle_deg": 94.12243981187072,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0014",
+      "angle_deg": 58.895266943258534,
+      "forward_barrier_mm": 0.44198109210139336,
+      "reverse_barrier_mm": 11.616550703145123
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0015",
+      "angle_deg": 94.12242709653027,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0016",
+      "angle_deg": 121.10473212966507,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0017",
+      "angle_deg": 91.49349170705378,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0018",
+      "angle_deg": 137.14580937017232,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0019",
+      "angle_deg": 110.35009040317021,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0020",
+      "angle_deg": 141.46453673794826,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0021",
+      "angle_deg": 117.7908050924911,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0022",
+      "angle_deg": 123.17726813445834,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0023",
+      "angle_deg": 98.0221137261664,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0024",
+      "angle_deg": 158.14231418845853,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0025",
+      "angle_deg": 148.8952648101916,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0009",
+      "target": "Rf2i_0026",
+      "angle_deg": 103.986744501568,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0011",
+      "angle_deg": 79.21153786361126,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0012",
+      "angle_deg": 93.84427194785214,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0013",
+      "angle_deg": 95.77962244909551,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0014",
+      "angle_deg": 127.00398111282303,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0015",
+      "angle_deg": 95.77967887294575,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0016",
+      "angle_deg": 52.99601796010109,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 14.253786949902217
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0017",
+      "angle_deg": 100.10393748103675,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0018",
+      "angle_deg": 133.34495919851736,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0019",
+      "angle_deg": 178.458804562108,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0020",
+      "angle_deg": 137.58744311265403,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0021",
+      "angle_deg": 174.10048073794528,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0022",
+      "angle_deg": 168.71401769719083,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0023",
+      "angle_deg": 140.72545209450476,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0024",
+      "angle_deg": 154.06573010560004,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0025",
+      "angle_deg": 142.99602102024392,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0010",
+      "target": "Rf2i_0026",
+      "angle_deg": 143.21945789968422,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0012",
+      "angle_deg": 99.97919296888632,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0013",
+      "angle_deg": 97.44891449298152,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0014",
+      "angle_deg": 47.79244324921759,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 11.601481186721507
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0015",
+      "angle_deg": 97.44892352374734,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0016",
+      "angle_deg": 132.20755582371132,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0017",
+      "angle_deg": 93.76244193619011,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0018",
+      "angle_deg": 130.05639149678854,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0019",
+      "angle_deg": 99.24726671183578,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0020",
+      "angle_deg": 134.22354602772626,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0021",
+      "angle_deg": 106.68798139844637,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0022",
+      "angle_deg": 112.07444444077811,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0023",
+      "angle_deg": 92.95171174467207,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0024",
+      "angle_deg": 150.50014149544518,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0025",
+      "angle_deg": 137.79244111614744,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0011",
+      "target": "Rf2i_0026",
+      "angle_deg": 99.44438287108694,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0013",
+      "angle_deg": 179.9997236194813,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0014",
+      "angle_deg": 116.04856827425549,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0015",
+      "angle_deg": 6.991888221616522,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.22004968693934046
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0016",
+      "angle_deg": 116.04892359820786,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0017",
+      "angle_deg": 19.512663263736478,
+      "forward_barrier_mm": 0.00013240783686541135,
+      "reverse_barrier_mm": 0.12627579848681592
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0018",
+      "angle_deg": 136.79545260072376,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0019",
+      "angle_deg": 94.23809240060378,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0020",
+      "angle_deg": 132.22164033108393,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0021",
+      "angle_deg": 92.5002328452394,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0022",
+      "angle_deg": 91.51621076762396,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0023",
+      "angle_deg": 90.00242054981763,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0024",
+      "angle_deg": 116.04868540520874,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0025",
+      "angle_deg": 90.21276808162257,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0012",
+      "target": "Rf2i_0026",
+      "angle_deg": 90.21308235249705,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0014",
+      "angle_deg": 120.00005511309638,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0015",
+      "angle_deg": 179.99991867168828,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0016",
+      "angle_deg": 119.99993660354866,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0017",
+      "angle_deg": 179.99956761948803,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0018",
+      "angle_deg": 103.98488223634901,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0019",
+      "angle_deg": 96.25521447686924,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0020",
+      "angle_deg": 107.00186343844538,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0021",
+      "angle_deg": 94.12235451921241,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0022",
+      "angle_deg": 92.83917586471738,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0023",
+      "angle_deg": 90.26117877221937,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0024",
+      "angle_deg": 119.99988459427715,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0025",
+      "angle_deg": 89.99999293512118,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0013",
+      "target": "Rf2i_0026",
+      "angle_deg": 90.00004439453328,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0015",
+      "angle_deg": 119.9999909293464,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0016",
+      "angle_deg": 179.99998760975456,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0017",
+      "angle_deg": 113.05395605427499,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0018",
+      "angle_deg": 103.98486382733965,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0019",
+      "angle_deg": 51.454823481321625,
+      "forward_barrier_mm": 11.617735151254983,
+      "reverse_barrier_mm": 0.01878686507604499
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0020",
+      "angle_deg": 107.00189673131194,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0021",
+      "angle_deg": 58.89553814923444,
+      "forward_barrier_mm": 11.616560580900263,
+      "reverse_barrier_mm": 0.4419762830796472
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0022",
+      "angle_deg": 64.28200119316551,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0023",
+      "angle_deg": 82.25876446642602,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0024",
+      "angle_deg": 119.99990201857206,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0025",
+      "angle_deg": 89.99999786693321,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0014",
+      "target": "Rf2i_0026",
+      "angle_deg": 89.99999999353071,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0016",
+      "angle_deg": 120.00001477804746,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0017",
+      "angle_deg": 12.52077504231412,
+      "forward_barrier_mm": 0.2201685931184727,
+      "reverse_barrier_mm": 0.12626229682907564
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0018",
+      "angle_deg": 139.31748806175398,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0019",
+      "angle_deg": 96.25340979198084,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0020",
+      "angle_deg": 135.03966288872618,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0021",
+      "angle_deg": 94.12237255808716,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0022",
+      "angle_deg": 92.83884226671941,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0023",
+      "angle_deg": 90.26106832776102,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0024",
+      "angle_deg": 120.00003040890807,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0025",
+      "angle_deg": 90.00000693050683,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0015",
+      "target": "Rf2i_0026",
+      "angle_deg": 90.00003693377845,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0017",
+      "angle_deg": 113.05463501825395,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0018",
+      "angle_deg": 103.98492875852713,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0019",
+      "angle_deg": 128.54517748546496,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0020",
+      "angle_deg": 107.00191736846112,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0021",
+      "angle_deg": 121.10446277784712,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0022",
+      "angle_deg": 115.71799973809578,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0023",
+      "angle_deg": 179.99996490177054,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0024",
+      "angle_deg": 119.99995315237649,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0025",
+      "angle_deg": 90.00000306014364,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0016",
+      "target": "Rf2i_0026",
+      "angle_deg": 179.99995458404823,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0018",
+      "angle_deg": 134.9058962268067,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0019",
+      "angle_deg": 100.70669914964725,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0020",
+      "angle_deg": 130.1063088397386,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0021",
+      "angle_deg": 97.93634150274569,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0022",
+      "angle_deg": 96.15889715323598,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0023",
+      "angle_deg": 91.77296060190385,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0024",
+      "angle_deg": 113.05453894835627,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0025",
+      "angle_deg": 90.68178411378486,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0017",
+      "target": "Rf2i_0026",
+      "angle_deg": 90.68127047892914,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0019",
+      "angle_deg": 90.2427425730939,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0020",
+      "angle_deg": 6.577529077145195,
+      "forward_barrier_mm": 0.005306826056084901,
+      "reverse_barrier_mm": 0.15107282035718583
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0021",
+      "angle_deg": 89.99996671403456,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0022",
+      "angle_deg": 90.12735529021697,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0023",
+      "angle_deg": 92.35033327612437,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0024",
+      "angle_deg": 31.108867063322258,
+      "forward_barrier_mm": 0.005309610067392612,
+      "reverse_barrier_mm": 4.3897565078431064
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0025",
+      "angle_deg": 94.12351985971569,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0018",
+      "target": "Rf2i_0026",
+      "angle_deg": 94.12346421586521,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0019",
+      "target": "Rf2i_0020",
+      "angle_deg": 90.85442951138594,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0019",
+      "target": "Rf2i_0021",
+      "angle_deg": 7.440714943306374,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.4243639883583157
+    },
+    {
+      "source": "Rf2i_0019",
+      "target": "Rf2i_0022",
+      "angle_deg": 12.827177802588649,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.5113912790984614
+    },
+    {
+      "source": "Rf2i_0019",
+      "target": "Rf2i_0023",
+      "angle_deg": 94.53823851001144,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0019",
+      "target": "Rf2i_0024",
+      "angle_deg": 96.25278274653355,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0019",
+      "target": "Rf2i_0025",
+      "angle_deg": 38.5451744621784,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 4.808557292493436
+    },
+    {
+      "source": "Rf2i_0019",
+      "target": "Rf2i_0026",
+      "angle_deg": 100.86094077500145,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0020",
+      "target": "Rf2i_0021",
+      "angle_deg": 90.18828354578608,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0020",
+      "target": "Rf2i_0022",
+      "angle_deg": 90.006787499708,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0020",
+      "target": "Rf2i_0023",
+      "angle_deg": 91.22133940440675,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0020",
+      "target": "Rf2i_0024",
+      "angle_deg": 24.531337986295082,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 4.238680903474609
+    },
+    {
+      "source": "Rf2i_0020",
+      "target": "Rf2i_0025",
+      "angle_deg": 92.58681758105205,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0020",
+      "target": "Rf2i_0026",
+      "angle_deg": 92.58680351973993,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0021",
+      "target": "Rf2i_0022",
+      "angle_deg": 5.386463082616538,
+      "forward_barrier_mm": 0.005658287413467633,
+      "reverse_barrier_mm": 0.09268557815361333
+    },
+    {
+      "source": "Rf2i_0021",
+      "target": "Rf2i_0023",
+      "angle_deg": 98.0222353140752,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0021",
+      "target": "Rf2i_0024",
+      "angle_deg": 94.1222935867294,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0021",
+      "target": "Rf2i_0025",
+      "angle_deg": 31.104459717709673,
+      "forward_barrier_mm": 0.005599458552410397,
+      "reverse_barrier_mm": 4.389792762687531
+    },
+    {
+      "source": "Rf2i_0021",
+      "target": "Rf2i_0026",
+      "angle_deg": 103.98686081100705,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0022",
+      "target": "Rf2i_0023",
+      "angle_deg": 100.74615372148884,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0022",
+      "target": "Rf2i_0024",
+      "angle_deg": 92.83840943250134,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0022",
+      "target": "Rf2i_0025",
+      "angle_deg": 25.717996684973066,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 4.297165709342053
+    },
+    {
+      "source": "Rf2i_0022",
+      "target": "Rf2i_0026",
+      "angle_deg": 106.44073817274968,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0023",
+      "target": "Rf2i_0024",
+      "angle_deg": 90.26100389535189,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0023",
+      "target": "Rf2i_0025",
+      "angle_deg": 115.63585944065444,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0023",
+      "target": "Rf2i_0026",
+      "angle_deg": 7.741235527358254,
+      "forward_barrier_mm": 0.0016494653468370757,
+      "reverse_barrier_mm": 0.22007970806055255
+    },
+    {
+      "source": "Rf2i_0024",
+      "target": "Rf2i_0025",
+      "angle_deg": 89.99999127302814,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0024",
+      "target": "Rf2i_0026",
+      "angle_deg": 89.99996617406664,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Rf2i_0025",
+      "target": "Rf2i_0026",
+      "angle_deg": 119.99995893912742,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    }
+  ],
+  "groups": [
+    [
+      "Rf2i_0001"
+    ],
+    [
+      "Rf2i_0002",
+      "Rf2i_0003"
+    ],
+    [
+      "Rf2i_0004"
+    ],
+    [
+      "Rf2i_0005"
+    ],
+    [
+      "Rf2i_0006"
+    ],
+    [
+      "Rf2i_0007"
+    ],
+    [
+      "Rf2i_0008",
+      "Rf2i_0009",
+      "Rf2i_0011"
+    ],
+    [
+      "Rf2i_0010"
+    ],
+    [
+      "Rf2i_0012",
+      "Rf2i_0015",
+      "Rf2i_0017"
+    ],
+    [
+      "Rf2i_0013"
+    ],
+    [
+      "Rf2i_0014"
+    ],
+    [
+      "Rf2i_0016"
+    ],
+    [
+      "Rf2i_0018",
+      "Rf2i_0020"
+    ],
+    [
+      "Rf2i_0019",
+      "Rf2i_0021",
+      "Rf2i_0022"
+    ],
+    [
+      "Rf2i_0023",
+      "Rf2i_0026"
+    ],
+    [
+      "Rf2i_0024"
+    ],
+    [
+      "Rf2i_0025"
+    ]
+  ],
+  "review": [
+    {
+      "members": [
+        "Rf2i_0002",
+        "Rf2i_0003"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    },
+    {
+      "members": [
+        "Rf2i_0008",
+        "Rf2i_0009",
+        "Rf2i_0011"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    },
+    {
+      "members": [
+        "Rf2i_0010"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    },
+    {
+      "members": [
+        "Rf2i_0018",
+        "Rf2i_0020"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    },
+    {
+      "members": [
+        "Rf2i_0019",
+        "Rf2i_0021",
+        "Rf2i_0022"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    }
+  ],
+  "interpretation": "Sampled seated shortest-rotation paths; barriers are geometric estimates, not minimum-action proofs."
+}

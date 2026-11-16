@@ -1,9 +1,0 @@
-{
-  "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
-  "new_simulation_trials": 0,
-  "operation": "derive_catalogue_from_completed_run",
-  "previous_catalogue_commit": "21b23e91c03406c01e7437c84e48021ad6c6f47f",
-  "source_archive_sha256": "d9f974e43d45480363ae2718835d53efa7b66cde8e3e37029c1d902538df27aa",
-  "source_path": "Dk1i/simulations/20261107_10000/100mm_s",
-  "source_trials": 10000
-}

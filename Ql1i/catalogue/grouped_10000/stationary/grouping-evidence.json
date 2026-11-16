@@ -1,0 +1,178 @@
+{
+  "model": "observed-seated-geodesic-basins-v1",
+  "barrier_mm": 0.5,
+  "max_angle_deg": 60,
+  "sampling_step_deg": 0.1,
+  "paths": [
+    {
+      "source": "Ql1i_0001",
+      "target": "Ql1i_0002",
+      "angle_deg": 89.9999861274688,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0001",
+      "target": "Ql1i_0003",
+      "angle_deg": 90.00086279352811,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0001",
+      "target": "Ql1i_0004",
+      "angle_deg": 89.99911742942825,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0001",
+      "target": "Ql1i_0005",
+      "angle_deg": 163.95145762818842,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0001",
+      "target": "Ql1i_0006",
+      "angle_deg": 179.99927242252394,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0001",
+      "target": "Ql1i_0007",
+      "angle_deg": 89.99999825944134,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0002",
+      "target": "Ql1i_0003",
+      "angle_deg": 89.9999646194161,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0002",
+      "target": "Ql1i_0004",
+      "angle_deg": 90.0000424238814,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0002",
+      "target": "Ql1i_0005",
+      "angle_deg": 91.116403863849,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0002",
+      "target": "Ql1i_0006",
+      "angle_deg": 89.99999375543558,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0002",
+      "target": "Ql1i_0007",
+      "angle_deg": 179.99995182567292,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0003",
+      "target": "Ql1i_0004",
+      "angle_deg": 179.999980222941,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0003",
+      "target": "Ql1i_0005",
+      "angle_deg": 106.04767959077095,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0003",
+      "target": "Ql1i_0006",
+      "angle_deg": 89.99986478432157,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0003",
+      "target": "Ql1i_0007",
+      "angle_deg": 89.99998720650245,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0004",
+      "target": "Ql1i_0005",
+      "angle_deg": 73.95234021471141,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0004",
+      "target": "Ql1i_0006",
+      "angle_deg": 90.00015499352642,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0004",
+      "target": "Ql1i_0007",
+      "angle_deg": 90.00000575059192,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0005",
+      "target": "Ql1i_0006",
+      "angle_deg": 16.04781492906088,
+      "forward_barrier_mm": 0.0001783332064135834,
+      "reverse_barrier_mm": 0.9833924981739912
+    },
+    {
+      "source": "Ql1i_0005",
+      "target": "Ql1i_0007",
+      "angle_deg": 91.11642932293898,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Ql1i_0006",
+      "target": "Ql1i_0007",
+      "angle_deg": 90.00002186843658,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    }
+  ],
+  "groups": [
+    [
+      "Ql1i_0001"
+    ],
+    [
+      "Ql1i_0002"
+    ],
+    [
+      "Ql1i_0003"
+    ],
+    [
+      "Ql1i_0004"
+    ],
+    [
+      "Ql1i_0005",
+      "Ql1i_0006"
+    ],
+    [
+      "Ql1i_0007"
+    ]
+  ],
+  "review": [],
+  "interpretation": "Sampled seated shortest-rotation paths; barriers are geometric estimates, not minimum-action proofs."
+}

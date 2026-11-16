@@ -1,0 +1,285 @@
+{
+  "model": "observed-seated-geodesic-basins-v1",
+  "barrier_mm": 0.5,
+  "max_angle_deg": 60,
+  "sampling_step_deg": 0.1,
+  "paths": [
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0002",
+      "angle_deg": 89.99926741222309,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0003",
+      "angle_deg": 89.99961757731724,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0004",
+      "angle_deg": 90.00081540773444,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0005",
+      "angle_deg": 90.00033957957562,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0006",
+      "angle_deg": 170.59449183857194,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0007",
+      "angle_deg": 174.40343234463543,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0008",
+      "angle_deg": 174.61144451969636,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0001",
+      "target": "Kf1i_0009",
+      "angle_deg": 177.0015863471088,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0002",
+      "target": "Kf1i_0003",
+      "angle_deg": 90.00000577748452,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0002",
+      "target": "Kf1i_0004",
+      "angle_deg": 179.99990936317099,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0002",
+      "target": "Kf1i_0005",
+      "angle_deg": 89.99981713933514,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0002",
+      "target": "Kf1i_0006",
+      "angle_deg": 80.59522489550774,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0002",
+      "target": "Kf1i_0007",
+      "angle_deg": 85.4415162501087,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0002",
+      "target": "Kf1i_0008",
+      "angle_deg": 90.00130177987695,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0002",
+      "target": "Kf1i_0009",
+      "angle_deg": 87.0943178953778,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0003",
+      "target": "Kf1i_0004",
+      "angle_deg": 90.00003103021275,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0003",
+      "target": "Kf1i_0005",
+      "angle_deg": 179.9998178158265,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0003",
+      "target": "Kf1i_0006",
+      "angle_deg": 89.99743413384078,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0003",
+      "target": "Kf1i_0007",
+      "angle_deg": 93.2393081682003,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0003",
+      "target": "Kf1i_0008",
+      "angle_deg": 84.61182697290553,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0003",
+      "target": "Kf1i_0009",
+      "angle_deg": 89.26396730663107,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0004",
+      "target": "Kf1i_0005",
+      "angle_deg": 90.00014605302954,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0004",
+      "target": "Kf1i_0006",
+      "angle_deg": 99.40469228644996,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0004",
+      "target": "Kf1i_0007",
+      "angle_deg": 94.55839897687402,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0004",
+      "target": "Kf1i_0008",
+      "angle_deg": 89.99861922270706,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0004",
+      "target": "Kf1i_0009",
+      "angle_deg": 92.90559976519556,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0005",
+      "target": "Kf1i_0006",
+      "angle_deg": 90.00257919431803,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0005",
+      "target": "Kf1i_0007",
+      "angle_deg": 86.76072044020822,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0005",
+      "target": "Kf1i_0008",
+      "angle_deg": 95.38821587195119,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0005",
+      "target": "Kf1i_0009",
+      "angle_deg": 90.73606650168145,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kf1i_0006",
+      "target": "Kf1i_0007",
+      "angle_deg": 5.822417024462876,
+      "forward_barrier_mm": 0.26905990106990885,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Kf1i_0006",
+      "target": "Kf1i_0008",
+      "angle_deg": 10.826706898990112,
+      "forward_barrier_mm": 0.16133710466355922,
+      "reverse_barrier_mm": 0.09241520535911008
+    },
+    {
+      "source": "Kf1i_0006",
+      "target": "Kf1i_0009",
+      "angle_deg": 6.53993348009093,
+      "forward_barrier_mm": 0.08807388205383404,
+      "reverse_barrier_mm": 0.017481321432718744
+    },
+    {
+      "source": "Kf1i_0007",
+      "target": "Kf1i_0008",
+      "angle_deg": 9.759356876407486,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.19141579455025948
+    },
+    {
+      "source": "Kf1i_0007",
+      "target": "Kf1i_0009",
+      "angle_deg": 4.307677819060677,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.18960499653576335
+    },
+    {
+      "source": "Kf1i_0008",
+      "target": "Kf1i_0009",
+      "angle_deg": 5.483210503074518,
+      "forward_barrier_mm": 0.03380866097604951,
+      "reverse_barrier_mm": 0.029532332778842374
+    }
+  ],
+  "groups": [
+    [
+      "Kf1i_0001"
+    ],
+    [
+      "Kf1i_0002"
+    ],
+    [
+      "Kf1i_0003"
+    ],
+    [
+      "Kf1i_0004"
+    ],
+    [
+      "Kf1i_0005"
+    ],
+    [
+      "Kf1i_0006",
+      "Kf1i_0007",
+      "Kf1i_0008",
+      "Kf1i_0009"
+    ]
+  ],
+  "review": [],
+  "interpretation": "Sampled seated shortest-rotation paths; barriers are geometric estimates, not minimum-action proofs."
+}

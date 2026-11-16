@@ -2,241 +2,336 @@
 
 [Workpiece index](../README.md#workpieces)
 
-## Catalogue rebuilt from 10,000 drops
+The two catalogues derive from the saved 10,000-drop runs. Moving outcomes are measured at the virtual exit. Stationary outcomes are measured after 10 s with the belt stopped from release.
 
-Rebuilt on 16 November 2026 from the completed [20261110_10000 moving-belt study](simulations/20261110_10000/100mm_s/README.md). No new simulation trials were run. The archived reference settings are used (belt/wall friction 0.10/0.05 and first-second weight impulses); the older 1,000-trial catalogue used an earlier protocol.
+Each condition has its own pose ranks (`P000` first) and group IDs (`G0` first), ordered by descending incidence. The source pose ID appears below its rank and the thumbnail links to the full preview. Incidence uses all trials in the condition. The group totals repeat on each member pose row.
 
-Pose classes retain the recorded symmetry, 5° tolerance and 1° ambiguity margin. Historical IDs are reused only for unique unambiguous anchor matches; all historical registry anchors remain reserved. Groups use the unchanged published simulator rules, ordered by combined incidence. Rare groups remain visible. Review rows remain separate. No disturbance stability representatives were inferred.
+## Moving belt
 
-[JSON](poses.json) · [YAML](poses.yaml) · [Memberships](group_memberships.csv) · [Trials](trials.csv) · [Configuration](config.json) · [Validation](validation.json)
+8,997 of 10,000 trials settled. The catalogue contains 98 poses in 7 groups. This condition uses persistent seated-energy minima with a local path angle limit.
 
-## Moving-belt transport poses
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
+| --- | --- | --- | ---: | ---: | ---: | ---: |
+| P000<br><code>Kf4i_0026</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/moving/poses/P000.png) | 1,622 | 16.22% | 2,680 | 26.80% |
+| P001<br><code>Kf4i_0077</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/moving/poses/P001.png) | 1,333 | 13.33% | 2,398 | 23.98% |
+| P002<br><code>Kf4i_0053</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/moving/poses/P002.png) | 763 | 7.63% | 2,053 | 20.53% |
+| P003<br><code>Kf4i_0001</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/moving/poses/P003.png) | 554 | 5.54% | 1,841 | 18.41% |
+| P004<br><code>Kf4i_0051</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/moving/poses/P004.png) | 371 | 3.71% | 2,053 | 20.53% |
+| P005<br><code>Kf4i_0085</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/moving/poses/P005.png) | 318 | 3.18% | 2,398 | 23.98% |
+| P006<br><code>Kf4i_0023</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/moving/poses/P006.png) | 272 | 2.72% | 2,680 | 26.80% |
+| P007<br><code>Kf4i_0017</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/moving/poses/P007.png) | 253 | 2.53% | 2,680 | 26.80% |
+| P008<br><code>Kf4i_0015</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/moving/poses/P008.png) | 245 | 2.45% | 1,841 | 18.41% |
+| P009<br><code>Kf4i_0079</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/moving/poses/P009.png) | 239 | 2.39% | 2,398 | 23.98% |
+| P010<br><code>Kf4i_0020</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/moving/poses/P010.png) | 228 | 2.28% | 2,680 | 26.80% |
+| P011<br><code>Kf4i_0008</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/moving/poses/P011.png) | 221 | 2.21% | 1,841 | 18.41% |
+| P012<br><code>Kf4i_0082</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/moving/poses/P012.png) | 217 | 2.17% | 2,398 | 23.98% |
+| P013<br><code>Kf4i_0052</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/moving/poses/P013.png) | 188 | 1.88% | 2,053 | 20.53% |
+| P014<br><code>Kf4i_0022</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/moving/poses/P014.png) | 169 | 1.69% | 1,841 | 18.41% |
+| P015<br><code>Kf4i_0028</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/moving/poses/P015.png) | 150 | 1.50% | 1,841 | 18.41% |
+| P016<br><code>Kf4i_0055</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P016.png" width="180" alt="P016">](catalogue/grouped_10000/moving/poses/P016.png) | 137 | 1.37% | 2,053 | 20.53% |
+| P017<br><code>Kf4i_0056</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P017.png" width="180" alt="P017">](catalogue/grouped_10000/moving/poses/P017.png) | 115 | 1.15% | 2,053 | 20.53% |
+| P018<br><code>Kf4i_0073</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P018.png" width="180" alt="P018">](catalogue/grouped_10000/moving/poses/P018.png) | 114 | 1.14% | 2,398 | 23.98% |
+| P019<br><code>Kf4i_0032</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P019.png" width="180" alt="P019">](catalogue/grouped_10000/moving/poses/P019.png) | 93 | 0.93% | 1,841 | 18.41% |
+| P020<br><code>Kf4i_0059</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P020.png" width="180" alt="P020">](catalogue/grouped_10000/moving/poses/P020.png) | 91 | 0.91% | 2,053 | 20.53% |
+| P021<br><code>Kf4i_0034</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P021.png" width="180" alt="P021">](catalogue/grouped_10000/moving/poses/P021.png) | 90 | 0.90% | 1,841 | 18.41% |
+| P022<br><code>Kf4i_0014</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P022.png" width="180" alt="P022">](catalogue/grouped_10000/moving/poses/P022.png) | 73 | 0.73% | 2,680 | 26.80% |
+| P023<br><code>Kf4i_0058</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P023.png" width="180" alt="P023">](catalogue/grouped_10000/moving/poses/P023.png) | 62 | 0.62% | 2,053 | 20.53% |
+| P024<br><code>Kf4i_0031</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P024.png" width="180" alt="P024">](catalogue/grouped_10000/moving/poses/P024.png) | 57 | 0.57% | 2,680 | 26.80% |
+| P025<br><code>Kf4i_0038</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P025.png" width="180" alt="P025">](catalogue/grouped_10000/moving/poses/P025.png) | 50 | 0.50% | 1,841 | 18.41% |
+| P026<br><code>Kf4i_0042</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P026.png" width="180" alt="P026">](catalogue/grouped_10000/moving/poses/P026.png) | 49 | 0.49% | 1,841 | 18.41% |
+| P027<br><code>Kf4i_0061</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P027.png" width="180" alt="P027">](catalogue/grouped_10000/moving/poses/P027.png) | 47 | 0.47% | 2,053 | 20.53% |
+| P028<br><code>Kf4i_0063</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P028.png" width="180" alt="P028">](catalogue/grouped_10000/moving/poses/P028.png) | 44 | 0.44% | 2,053 | 20.53% |
+| P029<br><code>Kf4i_0016</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P029.png" width="180" alt="P029">](catalogue/grouped_10000/moving/poses/P029.png) | 33 | 0.33% | 2,680 | 26.80% |
+| P030<br><code>Kf4i_0064</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P030.png" width="180" alt="P030">](catalogue/grouped_10000/moving/poses/P030.png) | 32 | 0.32% | 2,053 | 20.53% |
+| P031<br><code>Kf4i_0080</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P031.png" width="180" alt="P031">](catalogue/grouped_10000/moving/poses/P031.png) | 32 | 0.32% | 2,398 | 23.98% |
+| P032<br><code>Kf4i_0021</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P032.png" width="180" alt="P032">](catalogue/grouped_10000/moving/poses/P032.png) | 31 | 0.31% | 2,680 | 26.80% |
+| P033<br><code>Kf4i_0002</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P033.png" width="180" alt="P033">](catalogue/grouped_10000/moving/poses/P033.png) | 30 | 0.30% | 1,841 | 18.41% |
+| P034<br><code>Kf4i_0054</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P034.png" width="180" alt="P034">](catalogue/grouped_10000/moving/poses/P034.png) | 28 | 0.28% | 2,053 | 20.53% |
+| P035<br><code>Kf4i_0075</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P035.png" width="180" alt="P035">](catalogue/grouped_10000/moving/poses/P035.png) | 28 | 0.28% | 2,398 | 23.98% |
+| P036<br><code>Kf4i_0019</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P036.png" width="180" alt="P036">](catalogue/grouped_10000/moving/poses/P036.png) | 24 | 0.24% | 1,841 | 18.41% |
+| P037<br><code>Kf4i_0018</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P037.png" width="180" alt="P037">](catalogue/grouped_10000/moving/poses/P037.png) | 23 | 0.23% | 2,680 | 26.80% |
+| P038<br><code>Kf4i_0024</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P038.png" width="180" alt="P038">](catalogue/grouped_10000/moving/poses/P038.png) | 23 | 0.23% | 2,680 | 26.80% |
+| P039<br><code>Kf4i_0083</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P039.png" width="180" alt="P039">](catalogue/grouped_10000/moving/poses/P039.png) | 23 | 0.23% | 2,398 | 23.98% |
+| P040<br><code>Kf4i_0027</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P040.png" width="180" alt="P040">](catalogue/grouped_10000/moving/poses/P040.png) | 21 | 0.21% | 2,680 | 26.80% |
+| P041<br><code>Kf4i_0043</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P041.png" width="180" alt="P041">](catalogue/grouped_10000/moving/poses/P041.png) | 21 | 0.21% | 1,841 | 18.41% |
+| P042<br><code>Kf4i_0065</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P042.png" width="180" alt="P042">](catalogue/grouped_10000/moving/poses/P042.png) | 21 | 0.21% | 2,053 | 20.53% |
+| P043<br><code>Kf4i_0066</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P043.png" width="180" alt="P043">](catalogue/grouped_10000/moving/poses/P043.png) | 21 | 0.21% | 2,053 | 20.53% |
+| P044<br><code>Kf4i_0067</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P044.png" width="180" alt="P044">](catalogue/grouped_10000/moving/poses/P044.png) | 21 | 0.21% | 2,053 | 20.53% |
+| P045<br><code>Kf4i_0045</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P045.png" width="180" alt="P045">](catalogue/grouped_10000/moving/poses/P045.png) | 20 | 0.20% | 1,841 | 18.41% |
+| P046<br><code>Kf4i_0029</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P046.png" width="180" alt="P046">](catalogue/grouped_10000/moving/poses/P046.png) | 19 | 0.19% | 1,841 | 18.41% |
+| P047<br><code>Kf4i_0036</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P047.png" width="180" alt="P047">](catalogue/grouped_10000/moving/poses/P047.png) | 19 | 0.19% | 1,841 | 18.41% |
+| P048<br><code>Kf4i_0060</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P048.png" width="180" alt="P048">](catalogue/grouped_10000/moving/poses/P048.png) | 19 | 0.19% | 2,053 | 20.53% |
+| P049<br><code>Kf4i_0069</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P049.png" width="180" alt="P049">](catalogue/grouped_10000/moving/poses/P049.png) | 19 | 0.19% | 2,053 | 20.53% |
+| P050<br><code>Kf4i_0088</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P050.png" width="180" alt="P050">](catalogue/grouped_10000/moving/poses/P050.png) | 19 | 0.19% | 2,398 | 23.98% |
+| P051<br><code>Kf4i_0025</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P051.png" width="180" alt="P051">](catalogue/grouped_10000/moving/poses/P051.png) | 18 | 0.18% | 1,841 | 18.41% |
+| P052<br><code>Kf4i_0033</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P052.png" width="180" alt="P052">](catalogue/grouped_10000/moving/poses/P052.png) | 18 | 0.18% | 1,841 | 18.41% |
+| P053<br><code>Kf4i_0057</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P053.png" width="180" alt="P053">](catalogue/grouped_10000/moving/poses/P053.png) | 18 | 0.18% | 2,053 | 20.53% |
+| P054<br><code>Kf4i_0071</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P054.png" width="180" alt="P054">](catalogue/grouped_10000/moving/poses/P054.png) | 17 | 0.17% | 2,053 | 20.53% |
+| P055<br><code>Kf4i_0012</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P055.png" width="180" alt="P055">](catalogue/grouped_10000/moving/poses/P055.png) | 15 | 0.15% | 2,680 | 26.80% |
+| P056<br><code>Kf4i_0086</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P056.png" width="180" alt="P056">](catalogue/grouped_10000/moving/poses/P056.png) | 15 | 0.15% | 2,398 | 23.98% |
+| P057<br><code>Kf4i_0011</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P057.png" width="180" alt="P057">](catalogue/grouped_10000/moving/poses/P057.png) | 14 | 0.14% | 1,841 | 18.41% |
+| P058<br><code>Kf4i_0040</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P058.png" width="180" alt="P058">](catalogue/grouped_10000/moving/poses/P058.png) | 14 | 0.14% | 1,841 | 18.41% |
+| P059<br><code>Kf4i_0076</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P059.png" width="180" alt="P059">](catalogue/grouped_10000/moving/poses/P059.png) | 14 | 0.14% | 2,398 | 23.98% |
+| P060<br><code>Kf4i_0070</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P060.png" width="180" alt="P060">](catalogue/grouped_10000/moving/poses/P060.png) | 13 | 0.13% | 2,053 | 20.53% |
+| P061<br><code>Kf4i_0078</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P061.png" width="180" alt="P061">](catalogue/grouped_10000/moving/poses/P061.png) | 13 | 0.13% | 2,398 | 23.98% |
+| P062<br><code>Kf4i_0072</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P062.png" width="180" alt="P062">](catalogue/grouped_10000/moving/poses/P062.png) | 12 | 0.12% | 2,053 | 20.53% |
+| P063<br><code>Kf4i_0048</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P063.png" width="180" alt="P063">](catalogue/grouped_10000/moving/poses/P063.png) | 11 | 0.11% | 1,841 | 18.41% |
+| P064<br><code>Kf4i_0068</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P064.png" width="180" alt="P064">](catalogue/grouped_10000/moving/poses/P064.png) | 10 | 0.10% | 2,053 | 20.53% |
+| P065<br><code>Kf4i_0049</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P065.png" width="180" alt="P065">](catalogue/grouped_10000/moving/poses/P065.png) | 7 | 0.07% | 1,841 | 18.41% |
+| P066<br><code>Kf4i_0074</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P066.png" width="180" alt="P066">](catalogue/grouped_10000/moving/poses/P066.png) | 7 | 0.07% | 2,398 | 23.98% |
+| P067<br><code>Kf4i_0089</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P067.png" width="180" alt="P067">](catalogue/grouped_10000/moving/poses/P067.png) | 7 | 0.07% | 2,398 | 23.98% |
+| P068<br><code>Kf4i_0013</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P068.png" width="180" alt="P068">](catalogue/grouped_10000/moving/poses/P068.png) | 6 | 0.06% | 2,680 | 26.80% |
+| P069<br><code>Kf4i_0091</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P069.png" width="180" alt="P069">](catalogue/grouped_10000/moving/poses/P069.png) | 6 | 0.06% | 2,398 | 23.98% |
+| P070<br><code>Kf4i_0010</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P070.png" width="180" alt="P070">](catalogue/grouped_10000/moving/poses/P070.png) | 5 | 0.05% | 2,680 | 26.80% |
+| P071<br><code>Kf4i_0009</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P071.png" width="180" alt="P071">](catalogue/grouped_10000/moving/poses/P071.png) | 4 | 0.04% | 2,680 | 26.80% |
+| P072<br><code>Kf4i_0030</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P072.png" width="180" alt="P072">](catalogue/grouped_10000/moving/poses/P072.png) | 4 | 0.04% | 2,680 | 26.80% |
+| P073<br><code>Kf4i_0062</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P073.png" width="180" alt="P073">](catalogue/grouped_10000/moving/poses/P073.png) | 4 | 0.04% | 2,053 | 20.53% |
+| P074<br><code>Kf4i_0093</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P074.png" width="180" alt="P074">](catalogue/grouped_10000/moving/poses/P074.png) | 4 | 0.04% | 14 | 0.14% |
+| P075<br><code>Kf4i_0096</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P075.png" width="180" alt="P075">](catalogue/grouped_10000/moving/poses/P075.png) | 4 | 0.04% | 2,398 | 23.98% |
+| P076<br><code>Kf4i_0004</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P076.png" width="180" alt="P076">](catalogue/grouped_10000/moving/poses/P076.png) | 3 | 0.03% | 2,680 | 26.80% |
+| P077<br><code>Kf4i_0007</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P077.png" width="180" alt="P077">](catalogue/grouped_10000/moving/poses/P077.png) | 3 | 0.03% | 2,680 | 26.80% |
+| P078<br><code>Kf4i_0035</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P078.png" width="180" alt="P078">](catalogue/grouped_10000/moving/poses/P078.png) | 3 | 0.03% | 10 | 0.10% |
+| P079<br><code>Kf4i_0044</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P079.png" width="180" alt="P079">](catalogue/grouped_10000/moving/poses/P079.png) | 3 | 0.03% | 10 | 0.10% |
+| P080<br><code>Kf4i_0050</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P080.png" width="180" alt="P080">](catalogue/grouped_10000/moving/poses/P080.png) | 3 | 0.03% | 1,841 | 18.41% |
+| P081<br><code>Kf4i_0084</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P081.png" width="180" alt="P081">](catalogue/grouped_10000/moving/poses/P081.png) | 3 | 0.03% | 14 | 0.14% |
+| P082<br><code>Kf4i_0090</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P082.png" width="180" alt="P082">](catalogue/grouped_10000/moving/poses/P082.png) | 3 | 0.03% | 14 | 0.14% |
+| P083<br><code>Kf4i_0095</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P083.png" width="180" alt="P083">](catalogue/grouped_10000/moving/poses/P083.png) | 3 | 0.03% | 2,398 | 23.98% |
+| P084<br><code>Kf4i_0097</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P084.png" width="180" alt="P084">](catalogue/grouped_10000/moving/poses/P084.png) | 3 | 0.03% | 2,398 | 23.98% |
+| P085<br><code>Kf4i_0005</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P085.png" width="180" alt="P085">](catalogue/grouped_10000/moving/poses/P085.png) | 2 | 0.02% | 2,680 | 26.80% |
+| P086<br><code>Kf4i_0081</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P086.png" width="180" alt="P086">](catalogue/grouped_10000/moving/poses/P086.png) | 2 | 0.02% | 14 | 0.14% |
+| P087<br><code>Kf4i_0087</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P087.png" width="180" alt="P087">](catalogue/grouped_10000/moving/poses/P087.png) | 2 | 0.02% | 14 | 0.14% |
+| P088<br><code>Kf4i_0094</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P088.png" width="180" alt="P088">](catalogue/grouped_10000/moving/poses/P088.png) | 2 | 0.02% | 2,398 | 23.98% |
+| P089<br><code>Kf4i_0098</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P089.png" width="180" alt="P089">](catalogue/grouped_10000/moving/poses/P089.png) | 2 | 0.02% | 1,841 | 18.41% |
+| P090<br><code>Kf4i_0003</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P090.png" width="180" alt="P090">](catalogue/grouped_10000/moving/poses/P090.png) | 1 | 0.01% | 2,680 | 26.80% |
+| P091<br><code>Kf4i_0006</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P091.png" width="180" alt="P091">](catalogue/grouped_10000/moving/poses/P091.png) | 1 | 0.01% | 2,680 | 26.80% |
+| P092<br><code>Kf4i_0037</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P092.png" width="180" alt="P092">](catalogue/grouped_10000/moving/poses/P092.png) | 1 | 0.01% | 10 | 0.10% |
+| P093<br><code>Kf4i_0039</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P093.png" width="180" alt="P093">](catalogue/grouped_10000/moving/poses/P093.png) | 1 | 0.01% | 10 | 0.10% |
+| P094<br><code>Kf4i_0041</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P094.png" width="180" alt="P094">](catalogue/grouped_10000/moving/poses/P094.png) | 1 | 0.01% | 10 | 0.10% |
+| P095<br><code>Kf4i_0046</code> | G6 | [<img src="catalogue/grouped_10000/moving/poses/P095.png" width="180" alt="P095">](catalogue/grouped_10000/moving/poses/P095.png) | 1 | 0.01% | 1 | 0.01% |
+| P096<br><code>Kf4i_0047</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P096.png" width="180" alt="P096">](catalogue/grouped_10000/moving/poses/P096.png) | 1 | 0.01% | 10 | 0.10% |
+| P097<br><code>Kf4i_0092</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P097.png" width="180" alt="P097">](catalogue/grouped_10000/moving/poses/P097.png) | 1 | 0.01% | 2,398 | 23.98% |
 
-8,997 settled observations from 10,000 drops. Incidence uses all drops.
+Outcomes from the archived run: settled 8,997, stalled 1, unsettled 1,002.
 
-| Pose | Saved ID | Group | Image | Count | Incidence | 95% interval |
-| --- | --- | --- | --- | ---: | ---: | ---: |
-| 0 | Kf4i_0050 | Group 0 | ![Kf4i_0050](images/catalogue_20261116_10000/Kf4i_0050.png) | 1622 | 16.22% | 15.51–16.96% |
-| 1 | Kf4i_0079 | Group 1 | ![Kf4i_0079](images/catalogue_20261116_10000/Kf4i_0079.png) | 1333 | 13.33% | 12.68–14.01% |
-| 2 | Kf4i_0066 | Group 2 | ![Kf4i_0066](images/catalogue_20261116_10000/Kf4i_0066.png) | 763 | 7.63% | 7.13–8.17% |
-| 3 | Kf4i_0027 | Group 3 | ![Kf4i_0027](images/catalogue_20261116_10000/Kf4i_0027.png) | 554 | 5.54% | 5.11–6.01% |
-| 4 | Kf4i_0064 | Group 2 | ![Kf4i_0064](images/catalogue_20261116_10000/Kf4i_0064.png) | 371 | 3.71% | 3.36–4.10% |
-| 5 | Kf4i_0087 | Group 1 | ![Kf4i_0087](images/catalogue_20261116_10000/Kf4i_0087.png) | 318 | 3.18% | 2.85–3.54% |
-| 6 | Kf4i_0047 | Group 0 | ![Kf4i_0047](images/catalogue_20261116_10000/Kf4i_0047.png) | 272 | 2.72% | 2.42–3.06% |
-| 7 | Kf4i_0042 | Group 0 | ![Kf4i_0042](images/catalogue_20261116_10000/Kf4i_0042.png) | 253 | 2.53% | 2.24–2.86% |
-| 8 | Kf4i_0001 | Group 3 | ![Kf4i_0001](images/catalogue_20261116_10000/Kf4i_0001.png) | 245 | 2.45% | 2.16–2.77% |
-| 9 | Kf4i_0081 | Group 1 | ![Kf4i_0081](images/catalogue_20261116_10000/Kf4i_0081.png) | 239 | 2.39% | 2.11–2.71% |
-| 10 | Kf4i_0045 | Group 0 | ![Kf4i_0045](images/catalogue_20261116_10000/Kf4i_0045.png) | 228 | 2.28% | 2.01–2.59% |
-| 11 | Kf4i_0034 | Group 3 | ![Kf4i_0034](images/catalogue_20261116_10000/Kf4i_0034.png) | 221 | 2.21% | 1.94–2.52% |
-| 12 | Kf4i_0084 | Group 1 | ![Kf4i_0084](images/catalogue_20261116_10000/Kf4i_0084.png) | 217 | 2.17% | 1.90–2.47% |
-| 13 | Kf4i_0065 | Group 2 | ![Kf4i_0065](images/catalogue_20261116_10000/Kf4i_0065.png) | 188 | 1.88% | 1.63–2.17% |
-| 14 | Kf4i_0002 | Group 3 | ![Kf4i_0002](images/catalogue_20261116_10000/Kf4i_0002.png) | 169 | 1.69% | 1.46–1.96% |
-| 15 | Kf4i_0003 | Group 3 | ![Kf4i_0003](images/catalogue_20261116_10000/Kf4i_0003.png) | 150 | 1.50% | 1.28–1.76% |
-| 16 | Kf4i_0024 | Group 2 | ![Kf4i_0024](images/catalogue_20261116_10000/Kf4i_0024.png) | 137 | 1.37% | 1.16–1.62% |
-| 17 | Kf4i_0015 | Group 2 | ![Kf4i_0015](images/catalogue_20261116_10000/Kf4i_0015.png) | 115 | 1.15% | 0.96–1.38% |
-| 18 | Kf4i_0075 | Group 1 | ![Kf4i_0075](images/catalogue_20261116_10000/Kf4i_0075.png) | 114 | 1.14% | 0.95–1.37% |
-| 19 | Kf4i_0004 | Group 3 | ![Kf4i_0004](images/catalogue_20261116_10000/Kf4i_0004.png) | 93 | 0.93% | 0.76–1.14% |
-| 20 | Kf4i_0018 | Group 2 | ![Kf4i_0018](images/catalogue_20261116_10000/Kf4i_0018.png) | 91 | 0.91% | 0.74–1.12% |
-| 21 | Kf4i_0005 | Group 3 | ![Kf4i_0005](images/catalogue_20261116_10000/Kf4i_0005.png) | 90 | 0.90% | 0.73–1.10% |
-| 22 | Kf4i_0040 | Group 0 | ![Kf4i_0040](images/catalogue_20261116_10000/Kf4i_0040.png) | 73 | 0.73% | 0.58–0.92% |
-| 23 | Kf4i_0021 | Group 2 | ![Kf4i_0021](images/catalogue_20261116_10000/Kf4i_0021.png) | 62 | 0.62% | 0.48–0.79% |
-| 24 | Kf4i_0054 | Group 0 | ![Kf4i_0054](images/catalogue_20261116_10000/Kf4i_0054.png) | 57 | 0.57% | 0.44–0.74% |
-| 25 | Kf4i_0006 | Group 3 | ![Kf4i_0006](images/catalogue_20261116_10000/Kf4i_0006.png) | 50 | 0.50% | 0.38–0.66% |
-| 26 | Kf4i_0008 | Group 3 | ![Kf4i_0008](images/catalogue_20261116_10000/Kf4i_0008.png) | 49 | 0.49% | 0.37–0.65% |
-| 27 | Kf4i_0023 | Group 2 | ![Kf4i_0023](images/catalogue_20261116_10000/Kf4i_0023.png) | 47 | 0.47% | 0.35–0.62% |
-| 28 | Kf4i_0022 | Group 2 | ![Kf4i_0022](images/catalogue_20261116_10000/Kf4i_0022.png) | 44 | 0.44% | 0.33–0.59% |
-| 29 | Kf4i_0041 | Group 0 | ![Kf4i_0041](images/catalogue_20261116_10000/Kf4i_0041.png) | 33 | 0.33% | 0.24–0.46% |
-| 30 | Kf4i_0070 | Group 2 | ![Kf4i_0070](images/catalogue_20261116_10000/Kf4i_0070.png) | 32 | 0.32% | 0.23–0.45% |
-| 31 | Kf4i_0082 | Group 1 | ![Kf4i_0082](images/catalogue_20261116_10000/Kf4i_0082.png) | 32 | 0.32% | 0.23–0.45% |
-| 32 | Kf4i_0046 | Group 0 | ![Kf4i_0046](images/catalogue_20261116_10000/Kf4i_0046.png) | 31 | 0.31% | 0.22–0.44% |
-| 33 | Kf4i_0028 | Group 3 | ![Kf4i_0028](images/catalogue_20261116_10000/Kf4i_0028.png) | 30 | 0.30% | 0.21–0.43% |
-| 34 | Kf4i_0067 | Group 2 | ![Kf4i_0067](images/catalogue_20261116_10000/Kf4i_0067.png) | 28 | 0.28% | 0.19–0.40% |
-| 35 | Kf4i_0077 | Group 1 | ![Kf4i_0077](images/catalogue_20261116_10000/Kf4i_0077.png) | 28 | 0.28% | 0.19–0.40% |
-| 36 | Kf4i_0044 | Group 3 | ![Kf4i_0044](images/catalogue_20261116_10000/Kf4i_0044.png) | 24 | 0.24% | 0.16–0.36% |
-| 37 | Kf4i_0043 | Group 0 | ![Kf4i_0043](images/catalogue_20261116_10000/Kf4i_0043.png) | 23 | 0.23% | 0.15–0.34% |
-| 38 | Kf4i_0048 | Group 0 | ![Kf4i_0048](images/catalogue_20261116_10000/Kf4i_0048.png) | 23 | 0.23% | 0.15–0.34% |
-| 39 | Kf4i_0085 | Group 1 | ![Kf4i_0085](images/catalogue_20261116_10000/Kf4i_0085.png) | 23 | 0.23% | 0.15–0.34% |
-| 40 | Kf4i_0009 | Group 3 | ![Kf4i_0009](images/catalogue_20261116_10000/Kf4i_0009.png) | 21 | 0.21% | 0.14–0.32% |
-| 41 | Kf4i_0020 | Group 2 | ![Kf4i_0020](images/catalogue_20261116_10000/Kf4i_0020.png) | 21 | 0.21% | 0.14–0.32% |
-| 42 | Kf4i_0051 | Group 0 | ![Kf4i_0051](images/catalogue_20261116_10000/Kf4i_0051.png) | 21 | 0.21% | 0.14–0.32% |
-| 43 | Kf4i_0071 | Group 2 | ![Kf4i_0071](images/catalogue_20261116_10000/Kf4i_0071.png) | 21 | 0.21% | 0.14–0.32% |
-| 44 | Kf4i_0072 | Group 2 | ![Kf4i_0072](images/catalogue_20261116_10000/Kf4i_0072.png) | 21 | 0.21% | 0.14–0.32% |
-| 45 | Kf4i_0010 | Group 3 | ![Kf4i_0010](images/catalogue_20261116_10000/Kf4i_0010.png) | 20 | 0.20% | 0.13–0.31% |
-| 46 | Kf4i_0016 | Group 2 | ![Kf4i_0016](images/catalogue_20261116_10000/Kf4i_0016.png) | 19 | 0.19% | 0.12–0.30% |
-| 47 | Kf4i_0026 | Group 3 | ![Kf4i_0026](images/catalogue_20261116_10000/Kf4i_0026.png) | 19 | 0.19% | 0.12–0.30% |
-| 48 | Kf4i_0052 | Group 3 | ![Kf4i_0052](images/catalogue_20261116_10000/Kf4i_0052.png) | 19 | 0.19% | 0.12–0.30% |
-| 49 | Kf4i_0069 | Group 2 | ![Kf4i_0069](images/catalogue_20261116_10000/Kf4i_0069.png) | 19 | 0.19% | 0.12–0.30% |
-| 50 | Kf4i_0090 | Group 1 | ![Kf4i_0090](images/catalogue_20261116_10000/Kf4i_0090.png) | 19 | 0.19% | 0.12–0.30% |
-| 51 | Kf4i_0049 | Group 3 | ![Kf4i_0049](images/catalogue_20261116_10000/Kf4i_0049.png) | 18 | 0.18% | 0.11–0.28% |
-| 52 | Kf4i_0055 | Group 3 | ![Kf4i_0055](images/catalogue_20261116_10000/Kf4i_0055.png) | 18 | 0.18% | 0.11–0.28% |
-| 53 | Kf4i_0068 | Group 2 | ![Kf4i_0068](images/catalogue_20261116_10000/Kf4i_0068.png) | 18 | 0.18% | 0.11–0.28% |
-| 54 | Kf4i_0017 | Group 2 | ![Kf4i_0017](images/catalogue_20261116_10000/Kf4i_0017.png) | 17 | 0.17% | 0.11–0.27% |
-| 55 | Kf4i_0038 | Group 0 | ![Kf4i_0038](images/catalogue_20261116_10000/Kf4i_0038.png) | 15 | 0.15% | 0.09–0.25% |
-| 56 | Kf4i_0088 | Group 1 | ![Kf4i_0088](images/catalogue_20261116_10000/Kf4i_0088.png) | 15 | 0.15% | 0.09–0.25% |
-| 57 | Kf4i_0007 | Group 3 | ![Kf4i_0007](images/catalogue_20261116_10000/Kf4i_0007.png) | 14 | 0.14% | 0.08–0.23% |
-| 58 | Kf4i_0037 | Group 3 | ![Kf4i_0037](images/catalogue_20261116_10000/Kf4i_0037.png) | 14 | 0.14% | 0.08–0.23% |
-| 59 | Kf4i_0078 | Group 1 | ![Kf4i_0078](images/catalogue_20261116_10000/Kf4i_0078.png) | 14 | 0.14% | 0.08–0.23% |
-| 60 | Kf4i_0019 | Group 2 | ![Kf4i_0019](images/catalogue_20261116_10000/Kf4i_0019.png) | 13 | 0.13% | 0.08–0.22% |
-| 61 | Kf4i_0080 | Group 1 | ![Kf4i_0080](images/catalogue_20261116_10000/Kf4i_0080.png) | 13 | 0.13% | 0.08–0.22% |
-| 62 | Kf4i_0074 | Group 2 | ![Kf4i_0074](images/catalogue_20261116_10000/Kf4i_0074.png) | 12 | 0.12% | 0.07–0.21% |
-| 63 | Kf4i_0012 | Group 3 | ![Kf4i_0012](images/catalogue_20261116_10000/Kf4i_0012.png) | 11 | 0.11% | 0.06–0.20% |
-| 64 | Kf4i_0073 | Group 2 | ![Kf4i_0073](images/catalogue_20261116_10000/Kf4i_0073.png) | 10 | 0.10% | 0.05–0.18% |
-| 65 | Kf4i_0063 | Group 3 | ![Kf4i_0063](images/catalogue_20261116_10000/Kf4i_0063.png) | 7 | 0.07% | 0.03–0.14% |
-| 66 | Kf4i_0076 | Group 1 | ![Kf4i_0076](images/catalogue_20261116_10000/Kf4i_0076.png) | 7 | 0.07% | 0.03–0.14% |
-| 67 | Kf4i_0091 | Group 1 | ![Kf4i_0091](images/catalogue_20261116_10000/Kf4i_0091.png) | 7 | 0.07% | 0.03–0.14% |
-| 68 | Kf4i_0039 | Group 0 | ![Kf4i_0039](images/catalogue_20261116_10000/Kf4i_0039.png) | 6 | 0.06% | 0.03–0.13% |
-| 69 | Kf4i_0093 | Group 1 | ![Kf4i_0093](images/catalogue_20261116_10000/Kf4i_0093.png) | 6 | 0.06% | 0.03–0.13% |
-| 70 | Kf4i_0036 | Group 0 | ![Kf4i_0036](images/catalogue_20261116_10000/Kf4i_0036.png) | 5 | 0.05% | 0.02–0.12% |
-| 71 | Kf4i_0014 | Group 2 | ![Kf4i_0014](images/catalogue_20261116_10000/Kf4i_0014.png) | 4 | 0.04% | 0.02–0.10% |
-| 72 | Kf4i_0035 | Group 0 | ![Kf4i_0035](images/catalogue_20261116_10000/Kf4i_0035.png) | 4 | 0.04% | 0.02–0.10% |
-| 73 | Kf4i_0053 | Group 0 | ![Kf4i_0053](images/catalogue_20261116_10000/Kf4i_0053.png) | 4 | 0.04% | 0.02–0.10% |
-| 74 | Kf4i_0095 | Group 4 | ![Kf4i_0095](images/catalogue_20261116_10000/Kf4i_0095.png) | 4 | 0.04% | 0.02–0.10% |
-| 75 | Kf4i_0098 | Group 1 | ![Kf4i_0098](images/catalogue_20261116_10000/Kf4i_0098.png) | 4 | 0.04% | 0.02–0.10% |
-| 76 | Kf4i_0013 | Group 3 | ![Kf4i_0013](images/catalogue_20261116_10000/Kf4i_0013.png) | 3 | 0.03% | 0.01–0.09% |
-| 77 | Kf4i_0030 | Group 0 | ![Kf4i_0030](images/catalogue_20261116_10000/Kf4i_0030.png) | 3 | 0.03% | 0.01–0.09% |
-| 78 | Kf4i_0033 | Group 0 | ![Kf4i_0033](images/catalogue_20261116_10000/Kf4i_0033.png) | 3 | 0.03% | 0.01–0.09% |
-| 79 | Kf4i_0056 | Group 5 | ![Kf4i_0056](images/catalogue_20261116_10000/Kf4i_0056.png) | 3 | 0.03% | 0.01–0.09% |
-| 80 | Kf4i_0060 | Group 5 | ![Kf4i_0060](images/catalogue_20261116_10000/Kf4i_0060.png) | 3 | 0.03% | 0.01–0.09% |
-| 81 | Kf4i_0086 | Group 4 | ![Kf4i_0086](images/catalogue_20261116_10000/Kf4i_0086.png) | 3 | 0.03% | 0.01–0.09% |
-| 82 | Kf4i_0092 | Group 4 | ![Kf4i_0092](images/catalogue_20261116_10000/Kf4i_0092.png) | 3 | 0.03% | 0.01–0.09% |
-| 83 | Kf4i_0097 | Group 1 | ![Kf4i_0097](images/catalogue_20261116_10000/Kf4i_0097.png) | 3 | 0.03% | 0.01–0.09% |
-| 84 | Kf4i_0099 | Group 1 | ![Kf4i_0099](images/catalogue_20261116_10000/Kf4i_0099.png) | 3 | 0.03% | 0.01–0.09% |
-| 85 | Kf4i_0031 | Group 0 | ![Kf4i_0031](images/catalogue_20261116_10000/Kf4i_0031.png) | 2 | 0.02% | 0.01–0.07% |
-| 86 | Kf4i_0083 | Group 4 | ![Kf4i_0083](images/catalogue_20261116_10000/Kf4i_0083.png) | 2 | 0.02% | 0.01–0.07% |
-| 87 | Kf4i_0089 | Group 4 | ![Kf4i_0089](images/catalogue_20261116_10000/Kf4i_0089.png) | 2 | 0.02% | 0.01–0.07% |
-| 88 | Kf4i_0096 | Group 1 | ![Kf4i_0096](images/catalogue_20261116_10000/Kf4i_0096.png) | 2 | 0.02% | 0.01–0.07% |
-| 89 | Kf4i_0100 | Group 3 | ![Kf4i_0100](images/catalogue_20261116_10000/Kf4i_0100.png) | 2 | 0.02% | 0.01–0.07% |
-| 90 | Kf4i_0029 | Group 0 | ![Kf4i_0029](images/catalogue_20261116_10000/Kf4i_0029.png) | 1 | 0.01% | 0.00–0.06% |
-| 91 | Kf4i_0032 | Group 0 | ![Kf4i_0032](images/catalogue_20261116_10000/Kf4i_0032.png) | 1 | 0.01% | 0.00–0.06% |
-| 92 | Kf4i_0057 | Group 5 | ![Kf4i_0057](images/catalogue_20261116_10000/Kf4i_0057.png) | 1 | 0.01% | 0.00–0.06% |
-| 93 | Kf4i_0058 | Group 5 | ![Kf4i_0058](images/catalogue_20261116_10000/Kf4i_0058.png) | 1 | 0.01% | 0.00–0.06% |
-| 94 | Kf4i_0059 | Group 5 | ![Kf4i_0059](images/catalogue_20261116_10000/Kf4i_0059.png) | 1 | 0.01% | 0.00–0.06% |
-| 95 | Kf4i_0061 | Group 6 | ![Kf4i_0061](images/catalogue_20261116_10000/Kf4i_0061.png) | 1 | 0.01% | 0.00–0.06% |
-| 96 | Kf4i_0062 | Group 5 | ![Kf4i_0062](images/catalogue_20261116_10000/Kf4i_0062.png) | 1 | 0.01% | 0.00–0.06% |
-| 97 | Kf4i_0094 | Group 1 | ![Kf4i_0094](images/catalogue_20261116_10000/Kf4i_0094.png) | 1 | 0.01% | 0.00–0.06% |
+## Stationary belt
 
-[Post-braking JSON](poses_after_stop.json) · [Post-braking YAML](poses_after_stop.yaml) · [Post-braking trials](trials_after_stop.csv)
+8,982 of 10,000 trials settled. The catalogue contains 209 poses in 19 groups. This condition uses persistent seated-energy minima with a local path angle limit.
 
-## Resting poses after belt stop
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
+| --- | --- | --- | ---: | ---: | ---: | ---: |
+| P000<br><code>Kf4i_0063</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/stationary/poses/P000.png) | 260 | 2.60% | 2,493 | 24.93% |
+| P001<br><code>Kf4i_0099</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/stationary/poses/P001.png) | 247 | 2.47% | 2,256 | 22.56% |
+| P002<br><code>Kf4i_0051</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/stationary/poses/P002.png) | 244 | 2.44% | 2,493 | 24.93% |
+| P003<br><code>Kf4i_0180</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/stationary/poses/P003.png) | 243 | 2.43% | 2,197 | 21.97% |
+| P004<br><code>Kf4i_0174</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/stationary/poses/P004.png) | 240 | 2.40% | 2,197 | 21.97% |
+| P005<br><code>Kf4i_0115</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/stationary/poses/P005.png) | 234 | 2.34% | 2,256 | 22.56% |
+| P006<br><code>Kf4i_0171</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/stationary/poses/P006.png) | 214 | 2.14% | 2,197 | 21.97% |
+| P007<br><code>Kf4i_0036</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/stationary/poses/P007.png) | 212 | 2.12% | 1,995 | 19.95% |
+| P008<br><code>Kf4i_0019</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/stationary/poses/P008.png) | 211 | 2.11% | 1,995 | 19.95% |
+| P009<br><code>Kf4i_0067</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/stationary/poses/P009.png) | 204 | 2.04% | 2,493 | 24.93% |
+| P010<br><code>Kf4i_0113</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/stationary/poses/P010.png) | 203 | 2.03% | 2,256 | 22.56% |
+| P011<br><code>Kf4i_0184</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/stationary/poses/P011.png) | 187 | 1.87% | 2,197 | 21.97% |
+| P012<br><code>Kf4i_0074</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/stationary/poses/P012.png) | 183 | 1.83% | 2,493 | 24.93% |
+| P013<br><code>Kf4i_0047</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/stationary/poses/P013.png) | 182 | 1.82% | 2,493 | 24.93% |
+| P014<br><code>Kf4i_0045</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/stationary/poses/P014.png) | 175 | 1.75% | 1,995 | 19.95% |
+| P015<br><code>Kf4i_0016</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/stationary/poses/P015.png) | 167 | 1.67% | 1,995 | 19.95% |
+| P016<br><code>Kf4i_0168</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P016.png" width="180" alt="P016">](catalogue/grouped_10000/stationary/poses/P016.png) | 165 | 1.65% | 2,197 | 21.97% |
+| P017<br><code>Kf4i_0043</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P017.png" width="180" alt="P017">](catalogue/grouped_10000/stationary/poses/P017.png) | 159 | 1.59% | 2,493 | 24.93% |
+| P018<br><code>Kf4i_0134</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P018.png" width="180" alt="P018">](catalogue/grouped_10000/stationary/poses/P018.png) | 155 | 1.55% | 2,256 | 22.56% |
+| P019<br><code>Kf4i_0189</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P019.png" width="180" alt="P019">](catalogue/grouped_10000/stationary/poses/P019.png) | 151 | 1.51% | 2,197 | 21.97% |
+| P020<br><code>Kf4i_0119</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P020.png" width="180" alt="P020">](catalogue/grouped_10000/stationary/poses/P020.png) | 148 | 1.48% | 2,256 | 22.56% |
+| P021<br><code>Kf4i_0163</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P021.png" width="180" alt="P021">](catalogue/grouped_10000/stationary/poses/P021.png) | 138 | 1.38% | 2,197 | 21.97% |
+| P022<br><code>Kf4i_0013</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P022.png" width="180" alt="P022">](catalogue/grouped_10000/stationary/poses/P022.png) | 136 | 1.36% | 1,995 | 19.95% |
+| P023<br><code>Kf4i_0078</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P023.png" width="180" alt="P023">](catalogue/grouped_10000/stationary/poses/P023.png) | 136 | 1.36% | 2,493 | 24.93% |
+| P024<br><code>Kf4i_0055</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P024.png" width="180" alt="P024">](catalogue/grouped_10000/stationary/poses/P024.png) | 133 | 1.33% | 2,493 | 24.93% |
+| P025<br><code>Kf4i_0177</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P025.png" width="180" alt="P025">](catalogue/grouped_10000/stationary/poses/P025.png) | 132 | 1.32% | 2,197 | 21.97% |
+| P026<br><code>Kf4i_0061</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P026.png" width="180" alt="P026">](catalogue/grouped_10000/stationary/poses/P026.png) | 125 | 1.25% | 1,995 | 19.95% |
+| P027<br><code>Kf4i_0146</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P027.png" width="180" alt="P027">](catalogue/grouped_10000/stationary/poses/P027.png) | 125 | 1.25% | 2,256 | 22.56% |
+| P028<br><code>Kf4i_0057</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P028.png" width="180" alt="P028">](catalogue/grouped_10000/stationary/poses/P028.png) | 122 | 1.22% | 2,493 | 24.93% |
+| P029<br><code>Kf4i_0052</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P029.png" width="180" alt="P029">](catalogue/grouped_10000/stationary/poses/P029.png) | 118 | 1.18% | 1,995 | 19.95% |
+| P030<br><code>Kf4i_0176</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P030.png" width="180" alt="P030">](catalogue/grouped_10000/stationary/poses/P030.png) | 114 | 1.14% | 2,197 | 21.97% |
+| P031<br><code>Kf4i_0117</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P031.png" width="180" alt="P031">](catalogue/grouped_10000/stationary/poses/P031.png) | 105 | 1.05% | 2,256 | 22.56% |
+| P032<br><code>Kf4i_0121</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P032.png" width="180" alt="P032">](catalogue/grouped_10000/stationary/poses/P032.png) | 102 | 1.02% | 2,256 | 22.56% |
+| P033<br><code>Kf4i_0123</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P033.png" width="180" alt="P033">](catalogue/grouped_10000/stationary/poses/P033.png) | 102 | 1.02% | 2,256 | 22.56% |
+| P034<br><code>Kf4i_0010</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P034.png" width="180" alt="P034">](catalogue/grouped_10000/stationary/poses/P034.png) | 101 | 1.01% | 1,995 | 19.95% |
+| P035<br><code>Kf4i_0021</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P035.png" width="180" alt="P035">](catalogue/grouped_10000/stationary/poses/P035.png) | 101 | 1.01% | 1,995 | 19.95% |
+| P036<br><code>Kf4i_0038</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P036.png" width="180" alt="P036">](catalogue/grouped_10000/stationary/poses/P036.png) | 100 | 1.00% | 2,493 | 24.93% |
+| P037<br><code>Kf4i_0025</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P037.png" width="180" alt="P037">](catalogue/grouped_10000/stationary/poses/P037.png) | 97 | 0.97% | 1,995 | 19.95% |
+| P038<br><code>Kf4i_0111</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P038.png" width="180" alt="P038">](catalogue/grouped_10000/stationary/poses/P038.png) | 95 | 0.95% | 2,256 | 22.56% |
+| P039<br><code>Kf4i_0194</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P039.png" width="180" alt="P039">](catalogue/grouped_10000/stationary/poses/P039.png) | 92 | 0.92% | 2,197 | 21.97% |
+| P040<br><code>Kf4i_0160</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P040.png" width="180" alt="P040">](catalogue/grouped_10000/stationary/poses/P040.png) | 86 | 0.86% | 2,197 | 21.97% |
+| P041<br><code>Kf4i_0082</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P041.png" width="180" alt="P041">](catalogue/grouped_10000/stationary/poses/P041.png) | 83 | 0.83% | 2,493 | 24.93% |
+| P042<br><code>Kf4i_0034</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P042.png" width="180" alt="P042">](catalogue/grouped_10000/stationary/poses/P042.png) | 75 | 0.75% | 2,493 | 24.93% |
+| P043<br><code>Kf4i_0098</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P043.png" width="180" alt="P043">](catalogue/grouped_10000/stationary/poses/P043.png) | 63 | 0.63% | 2,256 | 22.56% |
+| P044<br><code>Kf4i_0197</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P044.png" width="180" alt="P044">](catalogue/grouped_10000/stationary/poses/P044.png) | 60 | 0.60% | 2,197 | 21.97% |
+| P045<br><code>Kf4i_0007</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P045.png" width="180" alt="P045">](catalogue/grouped_10000/stationary/poses/P045.png) | 56 | 0.56% | 1,995 | 19.95% |
+| P046<br><code>Kf4i_0005</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P046.png" width="180" alt="P046">](catalogue/grouped_10000/stationary/poses/P046.png) | 49 | 0.49% | 1,995 | 19.95% |
+| P047<br><code>Kf4i_0095</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P047.png" width="180" alt="P047">](catalogue/grouped_10000/stationary/poses/P047.png) | 48 | 0.48% | 2,493 | 24.93% |
+| P048<br><code>Kf4i_0127</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P048.png" width="180" alt="P048">](catalogue/grouped_10000/stationary/poses/P048.png) | 46 | 0.46% | 2,256 | 22.56% |
+| P049<br><code>Kf4i_0071</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P049.png" width="180" alt="P049">](catalogue/grouped_10000/stationary/poses/P049.png) | 45 | 0.45% | 1,995 | 19.95% |
+| P050<br><code>Kf4i_0107</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P050.png" width="180" alt="P050">](catalogue/grouped_10000/stationary/poses/P050.png) | 43 | 0.43% | 2,256 | 22.56% |
+| P051<br><code>Kf4i_0109</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P051.png" width="180" alt="P051">](catalogue/grouped_10000/stationary/poses/P051.png) | 43 | 0.43% | 2,256 | 22.56% |
+| P052<br><code>Kf4i_0158</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P052.png" width="180" alt="P052">](catalogue/grouped_10000/stationary/poses/P052.png) | 36 | 0.36% | 2,197 | 21.97% |
+| P053<br><code>Kf4i_0087</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P053.png" width="180" alt="P053">](catalogue/grouped_10000/stationary/poses/P053.png) | 35 | 0.35% | 2,493 | 24.93% |
+| P054<br><code>Kf4i_0125</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P054.png" width="180" alt="P054">](catalogue/grouped_10000/stationary/poses/P054.png) | 34 | 0.34% | 2,256 | 22.56% |
+| P055<br><code>Kf4i_0030</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P055.png" width="180" alt="P055">](catalogue/grouped_10000/stationary/poses/P055.png) | 32 | 0.32% | 2,493 | 24.93% |
+| P056<br><code>Kf4i_0054</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P056.png" width="180" alt="P056">](catalogue/grouped_10000/stationary/poses/P056.png) | 31 | 0.31% | 2,493 | 24.93% |
+| P057<br><code>Kf4i_0128</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P057.png" width="180" alt="P057">](catalogue/grouped_10000/stationary/poses/P057.png) | 30 | 0.30% | 2,256 | 22.56% |
+| P058<br><code>Kf4i_0141</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P058.png" width="180" alt="P058">](catalogue/grouped_10000/stationary/poses/P058.png) | 30 | 0.30% | 2,256 | 22.56% |
+| P059<br><code>Kf4i_0179</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P059.png" width="180" alt="P059">](catalogue/grouped_10000/stationary/poses/P059.png) | 30 | 0.30% | 2,197 | 21.97% |
+| P060<br><code>Kf4i_0100</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P060.png" width="180" alt="P060">](catalogue/grouped_10000/stationary/poses/P060.png) | 29 | 0.29% | 2,256 | 22.56% |
+| P061<br><code>Kf4i_0049</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P061.png" width="180" alt="P061">](catalogue/grouped_10000/stationary/poses/P061.png) | 28 | 0.28% | 2,493 | 24.93% |
+| P062<br><code>Kf4i_0062</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P062.png" width="180" alt="P062">](catalogue/grouped_10000/stationary/poses/P062.png) | 28 | 0.28% | 2,493 | 24.93% |
+| P063<br><code>Kf4i_0072</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P063.png" width="180" alt="P063">](catalogue/grouped_10000/stationary/poses/P063.png) | 28 | 0.28% | 2,493 | 24.93% |
+| P064<br><code>Kf4i_0079</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P064.png" width="180" alt="P064">](catalogue/grouped_10000/stationary/poses/P064.png) | 28 | 0.28% | 1,995 | 19.95% |
+| P065<br><code>Kf4i_0175</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P065.png" width="180" alt="P065">](catalogue/grouped_10000/stationary/poses/P065.png) | 28 | 0.28% | 2,197 | 21.97% |
+| P066<br><code>Kf4i_0076</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P066.png" width="180" alt="P066">](catalogue/grouped_10000/stationary/poses/P066.png) | 27 | 0.27% | 1,995 | 19.95% |
+| P067<br><code>Kf4i_0110</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P067.png" width="180" alt="P067">](catalogue/grouped_10000/stationary/poses/P067.png) | 26 | 0.26% | 2,256 | 22.56% |
+| P068<br><code>Kf4i_0142</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P068.png" width="180" alt="P068">](catalogue/grouped_10000/stationary/poses/P068.png) | 26 | 0.26% | 2,256 | 22.56% |
+| P069<br><code>Kf4i_0044</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P069.png" width="180" alt="P069">](catalogue/grouped_10000/stationary/poses/P069.png) | 25 | 0.25% | 2,493 | 24.93% |
+| P070<br><code>Kf4i_0046</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P070.png" width="180" alt="P070">](catalogue/grouped_10000/stationary/poses/P070.png) | 25 | 0.25% | 2,493 | 24.93% |
+| P071<br><code>Kf4i_0172</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P071.png" width="180" alt="P071">](catalogue/grouped_10000/stationary/poses/P071.png) | 25 | 0.25% | 2,197 | 21.97% |
+| P072<br><code>Kf4i_0069</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P072.png" width="180" alt="P072">](catalogue/grouped_10000/stationary/poses/P072.png) | 24 | 0.24% | 1,995 | 19.95% |
+| P073<br><code>Kf4i_0003</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P073.png" width="180" alt="P073">](catalogue/grouped_10000/stationary/poses/P073.png) | 23 | 0.23% | 1,995 | 19.95% |
+| P074<br><code>Kf4i_0065</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P074.png" width="180" alt="P074">](catalogue/grouped_10000/stationary/poses/P074.png) | 23 | 0.23% | 2,493 | 24.93% |
+| P075<br><code>Kf4i_0081</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P075.png" width="180" alt="P075">](catalogue/grouped_10000/stationary/poses/P075.png) | 23 | 0.23% | 2,493 | 24.93% |
+| P076<br><code>Kf4i_0116</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P076.png" width="180" alt="P076">](catalogue/grouped_10000/stationary/poses/P076.png) | 23 | 0.23% | 2,256 | 22.56% |
+| P077<br><code>Kf4i_0139</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P077.png" width="180" alt="P077">](catalogue/grouped_10000/stationary/poses/P077.png) | 23 | 0.23% | 2,256 | 22.56% |
+| P078<br><code>Kf4i_0156</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P078.png" width="180" alt="P078">](catalogue/grouped_10000/stationary/poses/P078.png) | 23 | 0.23% | 2,197 | 21.97% |
+| P079<br><code>Kf4i_0201</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P079.png" width="180" alt="P079">](catalogue/grouped_10000/stationary/poses/P079.png) | 23 | 0.23% | 2,197 | 21.97% |
+| P080<br><code>Kf4i_0183</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P080.png" width="180" alt="P080">](catalogue/grouped_10000/stationary/poses/P080.png) | 22 | 0.22% | 2,197 | 21.97% |
+| P081<br><code>Kf4i_0028</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P081.png" width="180" alt="P081">](catalogue/grouped_10000/stationary/poses/P081.png) | 21 | 0.21% | 1,995 | 19.95% |
+| P082<br><code>Kf4i_0035</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P082.png" width="180" alt="P082">](catalogue/grouped_10000/stationary/poses/P082.png) | 21 | 0.21% | 2,493 | 24.93% |
+| P083<br><code>Kf4i_0042</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P083.png" width="180" alt="P083">](catalogue/grouped_10000/stationary/poses/P083.png) | 21 | 0.21% | 1,995 | 19.95% |
+| P084<br><code>Kf4i_0118</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P084.png" width="180" alt="P084">](catalogue/grouped_10000/stationary/poses/P084.png) | 21 | 0.21% | 2,256 | 22.56% |
+| P085<br><code>Kf4i_0136</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P085.png" width="180" alt="P085">](catalogue/grouped_10000/stationary/poses/P085.png) | 21 | 0.21% | 2,256 | 22.56% |
+| P086<br><code>Kf4i_0085</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P086.png" width="180" alt="P086">](catalogue/grouped_10000/stationary/poses/P086.png) | 20 | 0.20% | 2,493 | 24.93% |
+| P087<br><code>Kf4i_0015</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P087.png" width="180" alt="P087">](catalogue/grouped_10000/stationary/poses/P087.png) | 19 | 0.19% | 1,995 | 19.95% |
+| P088<br><code>Kf4i_0018</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P088.png" width="180" alt="P088">](catalogue/grouped_10000/stationary/poses/P088.png) | 19 | 0.19% | 1,995 | 19.95% |
+| P089<br><code>Kf4i_0077</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P089.png" width="180" alt="P089">](catalogue/grouped_10000/stationary/poses/P089.png) | 19 | 0.19% | 2,493 | 24.93% |
+| P090<br><code>Kf4i_0089</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P090.png" width="180" alt="P090">](catalogue/grouped_10000/stationary/poses/P090.png) | 19 | 0.19% | 2,493 | 24.93% |
+| P091<br><code>Kf4i_0112</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P091.png" width="180" alt="P091">](catalogue/grouped_10000/stationary/poses/P091.png) | 19 | 0.19% | 2,256 | 22.56% |
+| P092<br><code>Kf4i_0140</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P092.png" width="180" alt="P092">](catalogue/grouped_10000/stationary/poses/P092.png) | 19 | 0.19% | 2,256 | 22.56% |
+| P093<br><code>Kf4i_0020</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P093.png" width="180" alt="P093">](catalogue/grouped_10000/stationary/poses/P093.png) | 18 | 0.18% | 1,995 | 19.95% |
+| P094<br><code>Kf4i_0039</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P094.png" width="180" alt="P094">](catalogue/grouped_10000/stationary/poses/P094.png) | 18 | 0.18% | 2,493 | 24.93% |
+| P095<br><code>Kf4i_0048</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P095.png" width="180" alt="P095">](catalogue/grouped_10000/stationary/poses/P095.png) | 18 | 0.18% | 2,493 | 24.93% |
+| P096<br><code>Kf4i_0053</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P096.png" width="180" alt="P096">](catalogue/grouped_10000/stationary/poses/P096.png) | 18 | 0.18% | 2,493 | 24.93% |
+| P097<br><code>Kf4i_0105</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P097.png" width="180" alt="P097">](catalogue/grouped_10000/stationary/poses/P097.png) | 18 | 0.18% | 2,256 | 22.56% |
+| P098<br><code>Kf4i_0108</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P098.png" width="180" alt="P098">](catalogue/grouped_10000/stationary/poses/P098.png) | 18 | 0.18% | 2,256 | 22.56% |
+| P099<br><code>Kf4i_0132</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P099.png" width="180" alt="P099">](catalogue/grouped_10000/stationary/poses/P099.png) | 18 | 0.18% | 2,256 | 22.56% |
+| P100<br><code>Kf4i_0133</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P100.png" width="180" alt="P100">](catalogue/grouped_10000/stationary/poses/P100.png) | 18 | 0.18% | 2,256 | 22.56% |
+| P101<br><code>Kf4i_0165</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P101.png" width="180" alt="P101">](catalogue/grouped_10000/stationary/poses/P101.png) | 18 | 0.18% | 2,197 | 21.97% |
+| P102<br><code>Kf4i_0169</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P102.png" width="180" alt="P102">](catalogue/grouped_10000/stationary/poses/P102.png) | 18 | 0.18% | 2,197 | 21.97% |
+| P103<br><code>Kf4i_0011</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P103.png" width="180" alt="P103">](catalogue/grouped_10000/stationary/poses/P103.png) | 17 | 0.17% | 1,995 | 19.95% |
+| P104<br><code>Kf4i_0014</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P104.png" width="180" alt="P104">](catalogue/grouped_10000/stationary/poses/P104.png) | 17 | 0.17% | 1,995 | 19.95% |
+| P105<br><code>Kf4i_0037</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P105.png" width="180" alt="P105">](catalogue/grouped_10000/stationary/poses/P105.png) | 17 | 0.17% | 2,493 | 24.93% |
+| P106<br><code>Kf4i_0060</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P106.png" width="180" alt="P106">](catalogue/grouped_10000/stationary/poses/P106.png) | 17 | 0.17% | 1,995 | 19.95% |
+| P107<br><code>Kf4i_0104</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P107.png" width="180" alt="P107">](catalogue/grouped_10000/stationary/poses/P107.png) | 17 | 0.17% | 2,256 | 22.56% |
+| P108<br><code>Kf4i_0050</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P108.png" width="180" alt="P108">](catalogue/grouped_10000/stationary/poses/P108.png) | 16 | 0.16% | 1,995 | 19.95% |
+| P109<br><code>Kf4i_0129</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P109.png" width="180" alt="P109">](catalogue/grouped_10000/stationary/poses/P109.png) | 16 | 0.16% | 2,256 | 22.56% |
+| P110<br><code>Kf4i_0188</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P110.png" width="180" alt="P110">](catalogue/grouped_10000/stationary/poses/P110.png) | 16 | 0.16% | 2,197 | 21.97% |
+| P111<br><code>Kf4i_0009</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P111.png" width="180" alt="P111">](catalogue/grouped_10000/stationary/poses/P111.png) | 15 | 0.15% | 1,995 | 19.95% |
+| P112<br><code>Kf4i_0040</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P112.png" width="180" alt="P112">](catalogue/grouped_10000/stationary/poses/P112.png) | 15 | 0.15% | 2,493 | 24.93% |
+| P113<br><code>Kf4i_0101</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P113.png" width="180" alt="P113">](catalogue/grouped_10000/stationary/poses/P113.png) | 14 | 0.14% | 2,256 | 22.56% |
+| P114<br><code>Kf4i_0103</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P114.png" width="180" alt="P114">](catalogue/grouped_10000/stationary/poses/P114.png) | 14 | 0.14% | 2,256 | 22.56% |
+| P115<br><code>Kf4i_0114</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P115.png" width="180" alt="P115">](catalogue/grouped_10000/stationary/poses/P115.png) | 14 | 0.14% | 2,256 | 22.56% |
+| P116<br><code>Kf4i_0192</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P116.png" width="180" alt="P116">](catalogue/grouped_10000/stationary/poses/P116.png) | 14 | 0.14% | 2,197 | 21.97% |
+| P117<br><code>Kf4i_0004</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P117.png" width="180" alt="P117">](catalogue/grouped_10000/stationary/poses/P117.png) | 13 | 0.13% | 1,995 | 19.95% |
+| P118<br><code>Kf4i_0027</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P118.png" width="180" alt="P118">](catalogue/grouped_10000/stationary/poses/P118.png) | 13 | 0.13% | 2,493 | 24.93% |
+| P119<br><code>Kf4i_0075</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P119.png" width="180" alt="P119">](catalogue/grouped_10000/stationary/poses/P119.png) | 13 | 0.13% | 2,493 | 24.93% |
+| P120<br><code>Kf4i_0086</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P120.png" width="180" alt="P120">](catalogue/grouped_10000/stationary/poses/P120.png) | 13 | 0.13% | 2,493 | 24.93% |
+| P121<br><code>Kf4i_0122</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P121.png" width="180" alt="P121">](catalogue/grouped_10000/stationary/poses/P121.png) | 13 | 0.13% | 2,256 | 22.56% |
+| P122<br><code>Kf4i_0196</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P122.png" width="180" alt="P122">](catalogue/grouped_10000/stationary/poses/P122.png) | 13 | 0.13% | 2,197 | 21.97% |
+| P123<br><code>Kf4i_0130</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P123.png" width="180" alt="P123">](catalogue/grouped_10000/stationary/poses/P123.png) | 12 | 0.12% | 2,256 | 22.56% |
+| P124<br><code>Kf4i_0135</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P124.png" width="180" alt="P124">](catalogue/grouped_10000/stationary/poses/P124.png) | 12 | 0.12% | 2,256 | 22.56% |
+| P125<br><code>Kf4i_0161</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P125.png" width="180" alt="P125">](catalogue/grouped_10000/stationary/poses/P125.png) | 12 | 0.12% | 2,197 | 21.97% |
+| P126<br><code>Kf4i_0193</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P126.png" width="180" alt="P126">](catalogue/grouped_10000/stationary/poses/P126.png) | 12 | 0.12% | 2,197 | 21.97% |
+| P127<br><code>Kf4i_0070</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P127.png" width="180" alt="P127">](catalogue/grouped_10000/stationary/poses/P127.png) | 11 | 0.11% | 2,493 | 24.93% |
+| P128<br><code>Kf4i_0080</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P128.png" width="180" alt="P128">](catalogue/grouped_10000/stationary/poses/P128.png) | 11 | 0.11% | 2,493 | 24.93% |
+| P129<br><code>Kf4i_0091</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P129.png" width="180" alt="P129">](catalogue/grouped_10000/stationary/poses/P129.png) | 11 | 0.11% | 1,995 | 19.95% |
+| P130<br><code>Kf4i_0026</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P130.png" width="180" alt="P130">](catalogue/grouped_10000/stationary/poses/P130.png) | 10 | 0.10% | 2,493 | 24.93% |
+| P131<br><code>Kf4i_0083</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P131.png" width="180" alt="P131">](catalogue/grouped_10000/stationary/poses/P131.png) | 10 | 0.10% | 1,995 | 19.95% |
+| P132<br><code>Kf4i_0102</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P132.png" width="180" alt="P132">](catalogue/grouped_10000/stationary/poses/P132.png) | 10 | 0.10% | 2,256 | 22.56% |
+| P133<br><code>Kf4i_0182</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P133.png" width="180" alt="P133">](catalogue/grouped_10000/stationary/poses/P133.png) | 10 | 0.10% | 2,197 | 21.97% |
+| P134<br><code>Kf4i_0200</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P134.png" width="180" alt="P134">](catalogue/grouped_10000/stationary/poses/P134.png) | 10 | 0.10% | 2,197 | 21.97% |
+| P135<br><code>Kf4i_0066</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P135.png" width="180" alt="P135">](catalogue/grouped_10000/stationary/poses/P135.png) | 9 | 0.09% | 1,995 | 19.95% |
+| P136<br><code>Kf4i_0090</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P136.png" width="180" alt="P136">](catalogue/grouped_10000/stationary/poses/P136.png) | 9 | 0.09% | 2,493 | 24.93% |
+| P137<br><code>Kf4i_0092</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P137.png" width="180" alt="P137">](catalogue/grouped_10000/stationary/poses/P137.png) | 9 | 0.09% | 2,493 | 24.93% |
+| P138<br><code>Kf4i_0164</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P138.png" width="180" alt="P138">](catalogue/grouped_10000/stationary/poses/P138.png) | 9 | 0.09% | 1,995 | 19.95% |
+| P139<br><code>Kf4i_0012</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P139.png" width="180" alt="P139">](catalogue/grouped_10000/stationary/poses/P139.png) | 8 | 0.08% | 1,995 | 19.95% |
+| P140<br><code>Kf4i_0031</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P140.png" width="180" alt="P140">](catalogue/grouped_10000/stationary/poses/P140.png) | 8 | 0.08% | 1,995 | 19.95% |
+| P141<br><code>Kf4i_0064</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P141.png" width="180" alt="P141">](catalogue/grouped_10000/stationary/poses/P141.png) | 8 | 0.08% | 2,493 | 24.93% |
+| P142<br><code>Kf4i_0106</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P142.png" width="180" alt="P142">](catalogue/grouped_10000/stationary/poses/P142.png) | 8 | 0.08% | 2,256 | 22.56% |
+| P143<br><code>Kf4i_0120</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P143.png" width="180" alt="P143">](catalogue/grouped_10000/stationary/poses/P143.png) | 8 | 0.08% | 2,256 | 22.56% |
+| P144<br><code>Kf4i_0131</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P144.png" width="180" alt="P144">](catalogue/grouped_10000/stationary/poses/P144.png) | 8 | 0.08% | 2,256 | 22.56% |
+| P145<br><code>Kf4i_0166</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P145.png" width="180" alt="P145">](catalogue/grouped_10000/stationary/poses/P145.png) | 8 | 0.08% | 2,197 | 21.97% |
+| P146<br><code>Kf4i_0084</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P146.png" width="180" alt="P146">](catalogue/grouped_10000/stationary/poses/P146.png) | 7 | 0.07% | 1,995 | 19.95% |
+| P147<br><code>Kf4i_0178</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P147.png" width="180" alt="P147">](catalogue/grouped_10000/stationary/poses/P147.png) | 7 | 0.07% | 2,197 | 21.97% |
+| P148<br><code>Kf4i_0186</code> | G4 | [<img src="catalogue/grouped_10000/stationary/poses/P148.png" width="180" alt="P148">](catalogue/grouped_10000/stationary/poses/P148.png) | 7 | 0.07% | 7 | 0.07% |
+| P149<br><code>Kf4i_0032</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P149.png" width="180" alt="P149">](catalogue/grouped_10000/stationary/poses/P149.png) | 6 | 0.06% | 2,493 | 24.93% |
+| P150<br><code>Kf4i_0068</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P150.png" width="180" alt="P150">](catalogue/grouped_10000/stationary/poses/P150.png) | 6 | 0.06% | 6 | 0.06% |
+| P151<br><code>Kf4i_0157</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P151.png" width="180" alt="P151">](catalogue/grouped_10000/stationary/poses/P151.png) | 6 | 0.06% | 2,197 | 21.97% |
+| P152<br><code>Kf4i_0159</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P152.png" width="180" alt="P152">](catalogue/grouped_10000/stationary/poses/P152.png) | 6 | 0.06% | 2,197 | 21.97% |
+| P153<br><code>Kf4i_0162</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P153.png" width="180" alt="P153">](catalogue/grouped_10000/stationary/poses/P153.png) | 6 | 0.06% | 1,995 | 19.95% |
+| P154<br><code>Kf4i_0170</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P154.png" width="180" alt="P154">](catalogue/grouped_10000/stationary/poses/P154.png) | 6 | 0.06% | 2,197 | 21.97% |
+| P155<br><code>Kf4i_0187</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P155.png" width="180" alt="P155">](catalogue/grouped_10000/stationary/poses/P155.png) | 6 | 0.06% | 2,197 | 21.97% |
+| P156<br><code>Kf4i_0002</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P156.png" width="180" alt="P156">](catalogue/grouped_10000/stationary/poses/P156.png) | 5 | 0.05% | 1,995 | 19.95% |
+| P157<br><code>Kf4i_0017</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P157.png" width="180" alt="P157">](catalogue/grouped_10000/stationary/poses/P157.png) | 5 | 0.05% | 1,995 | 19.95% |
+| P158<br><code>Kf4i_0024</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P158.png" width="180" alt="P158">](catalogue/grouped_10000/stationary/poses/P158.png) | 5 | 0.05% | 2,493 | 24.93% |
+| P159<br><code>Kf4i_0041</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P159.png" width="180" alt="P159">](catalogue/grouped_10000/stationary/poses/P159.png) | 5 | 0.05% | 1,995 | 19.95% |
+| P160<br><code>Kf4i_0056</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P160.png" width="180" alt="P160">](catalogue/grouped_10000/stationary/poses/P160.png) | 5 | 0.05% | 1,995 | 19.95% |
+| P161<br><code>Kf4i_0204</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P161.png" width="180" alt="P161">](catalogue/grouped_10000/stationary/poses/P161.png) | 5 | 0.05% | 2,197 | 21.97% |
+| P162<br><code>Kf4i_0006</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P162.png" width="180" alt="P162">](catalogue/grouped_10000/stationary/poses/P162.png) | 4 | 0.04% | 1,995 | 19.95% |
+| P163<br><code>Kf4i_0008</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P163.png" width="180" alt="P163">](catalogue/grouped_10000/stationary/poses/P163.png) | 4 | 0.04% | 1,995 | 19.95% |
+| P164<br><code>Kf4i_0073</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P164.png" width="180" alt="P164">](catalogue/grouped_10000/stationary/poses/P164.png) | 4 | 0.04% | 4 | 0.04% |
+| P165<br><code>Kf4i_0093</code> | G7 | [<img src="catalogue/grouped_10000/stationary/poses/P165.png" width="180" alt="P165">](catalogue/grouped_10000/stationary/poses/P165.png) | 4 | 0.04% | 4 | 0.04% |
+| P166<br><code>Kf4i_0124</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P166.png" width="180" alt="P166">](catalogue/grouped_10000/stationary/poses/P166.png) | 4 | 0.04% | 2,256 | 22.56% |
+| P167<br><code>Kf4i_0154</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P167.png" width="180" alt="P167">](catalogue/grouped_10000/stationary/poses/P167.png) | 4 | 0.04% | 2,197 | 21.97% |
+| P168<br><code>Kf4i_0195</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P168.png" width="180" alt="P168">](catalogue/grouped_10000/stationary/poses/P168.png) | 4 | 0.04% | 4 | 0.04% |
+| P169<br><code>Kf4i_0205</code> | G9 | [<img src="catalogue/grouped_10000/stationary/poses/P169.png" width="180" alt="P169">](catalogue/grouped_10000/stationary/poses/P169.png) | 4 | 0.04% | 4 | 0.04% |
+| P170<br><code>Kf4i_0001</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P170.png" width="180" alt="P170">](catalogue/grouped_10000/stationary/poses/P170.png) | 3 | 0.03% | 1,995 | 19.95% |
+| P171<br><code>Kf4i_0022</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P171.png" width="180" alt="P171">](catalogue/grouped_10000/stationary/poses/P171.png) | 3 | 0.03% | 1,995 | 19.95% |
+| P172<br><code>Kf4i_0023</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P172.png" width="180" alt="P172">](catalogue/grouped_10000/stationary/poses/P172.png) | 3 | 0.03% | 2,493 | 24.93% |
+| P173<br><code>Kf4i_0033</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P173.png" width="180" alt="P173">](catalogue/grouped_10000/stationary/poses/P173.png) | 3 | 0.03% | 2,493 | 24.93% |
+| P174<br><code>Kf4i_0097</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P174.png" width="180" alt="P174">](catalogue/grouped_10000/stationary/poses/P174.png) | 3 | 0.03% | 2,493 | 24.93% |
+| P175<br><code>Kf4i_0137</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P175.png" width="180" alt="P175">](catalogue/grouped_10000/stationary/poses/P175.png) | 3 | 0.03% | 2,256 | 22.56% |
+| P176<br><code>Kf4i_0143</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P176.png" width="180" alt="P176">](catalogue/grouped_10000/stationary/poses/P176.png) | 3 | 0.03% | 2,256 | 22.56% |
+| P177<br><code>Kf4i_0147</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P177.png" width="180" alt="P177">](catalogue/grouped_10000/stationary/poses/P177.png) | 3 | 0.03% | 2,256 | 22.56% |
+| P178<br><code>Kf4i_0149</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P178.png" width="180" alt="P178">](catalogue/grouped_10000/stationary/poses/P178.png) | 3 | 0.03% | 2,256 | 22.56% |
+| P179<br><code>Kf4i_0155</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P179.png" width="180" alt="P179">](catalogue/grouped_10000/stationary/poses/P179.png) | 3 | 0.03% | 2,197 | 21.97% |
+| P180<br><code>Kf4i_0167</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P180.png" width="180" alt="P180">](catalogue/grouped_10000/stationary/poses/P180.png) | 3 | 0.03% | 1,995 | 19.95% |
+| P181<br><code>Kf4i_0173</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P181.png" width="180" alt="P181">](catalogue/grouped_10000/stationary/poses/P181.png) | 3 | 0.03% | 2,197 | 21.97% |
+| P182<br><code>Kf4i_0199</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P182.png" width="180" alt="P182">](catalogue/grouped_10000/stationary/poses/P182.png) | 3 | 0.03% | 3 | 0.03% |
+| P183<br><code>Kf4i_0206</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P183.png" width="180" alt="P183">](catalogue/grouped_10000/stationary/poses/P183.png) | 3 | 0.03% | 2,197 | 21.97% |
+| P184<br><code>Kf4i_0126</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P184.png" width="180" alt="P184">](catalogue/grouped_10000/stationary/poses/P184.png) | 2 | 0.02% | 2,256 | 22.56% |
+| P185<br><code>Kf4i_0138</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P185.png" width="180" alt="P185">](catalogue/grouped_10000/stationary/poses/P185.png) | 2 | 0.02% | 2,256 | 22.56% |
+| P186<br><code>Kf4i_0144</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P186.png" width="180" alt="P186">](catalogue/grouped_10000/stationary/poses/P186.png) | 2 | 0.02% | 2,256 | 22.56% |
+| P187<br><code>Kf4i_0150</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P187.png" width="180" alt="P187">](catalogue/grouped_10000/stationary/poses/P187.png) | 2 | 0.02% | 2,256 | 22.56% |
+| P188<br><code>Kf4i_0153</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P188.png" width="180" alt="P188">](catalogue/grouped_10000/stationary/poses/P188.png) | 2 | 0.02% | 1,995 | 19.95% |
+| P189<br><code>Kf4i_0190</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P189.png" width="180" alt="P189">](catalogue/grouped_10000/stationary/poses/P189.png) | 2 | 0.02% | 2,197 | 21.97% |
+| P190<br><code>Kf4i_0198</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P190.png" width="180" alt="P190">](catalogue/grouped_10000/stationary/poses/P190.png) | 2 | 0.02% | 2 | 0.02% |
+| P191<br><code>Kf4i_0207</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P191.png" width="180" alt="P191">](catalogue/grouped_10000/stationary/poses/P191.png) | 2 | 0.02% | 2,197 | 21.97% |
+| P192<br><code>Kf4i_0029</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P192.png" width="180" alt="P192">](catalogue/grouped_10000/stationary/poses/P192.png) | 1 | 0.01% | 2,493 | 24.93% |
+| P193<br><code>Kf4i_0058</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P193.png" width="180" alt="P193">](catalogue/grouped_10000/stationary/poses/P193.png) | 1 | 0.01% | 2,493 | 24.93% |
+| P194<br><code>Kf4i_0059</code> | G12 | [<img src="catalogue/grouped_10000/stationary/poses/P194.png" width="180" alt="P194">](catalogue/grouped_10000/stationary/poses/P194.png) | 1 | 0.01% | 1 | 0.01% |
+| P195<br><code>Kf4i_0088</code> | G13 | [<img src="catalogue/grouped_10000/stationary/poses/P195.png" width="180" alt="P195">](catalogue/grouped_10000/stationary/poses/P195.png) | 1 | 0.01% | 1 | 0.01% |
+| P196<br><code>Kf4i_0094</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P196.png" width="180" alt="P196">](catalogue/grouped_10000/stationary/poses/P196.png) | 1 | 0.01% | 2,493 | 24.93% |
+| P197<br><code>Kf4i_0096</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P197.png" width="180" alt="P197">](catalogue/grouped_10000/stationary/poses/P197.png) | 1 | 0.01% | 2,493 | 24.93% |
+| P198<br><code>Kf4i_0145</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P198.png" width="180" alt="P198">](catalogue/grouped_10000/stationary/poses/P198.png) | 1 | 0.01% | 2,256 | 22.56% |
+| P199<br><code>Kf4i_0148</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P199.png" width="180" alt="P199">](catalogue/grouped_10000/stationary/poses/P199.png) | 1 | 0.01% | 2,256 | 22.56% |
+| P200<br><code>Kf4i_0151</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P200.png" width="180" alt="P200">](catalogue/grouped_10000/stationary/poses/P200.png) | 1 | 0.01% | 2,197 | 21.97% |
+| P201<br><code>Kf4i_0152</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P201.png" width="180" alt="P201">](catalogue/grouped_10000/stationary/poses/P201.png) | 1 | 0.01% | 2,197 | 21.97% |
+| P202<br><code>Kf4i_0181</code> | G14 | [<img src="catalogue/grouped_10000/stationary/poses/P202.png" width="180" alt="P202">](catalogue/grouped_10000/stationary/poses/P202.png) | 1 | 0.01% | 1 | 0.01% |
+| P203<br><code>Kf4i_0185</code> | G15 | [<img src="catalogue/grouped_10000/stationary/poses/P203.png" width="180" alt="P203">](catalogue/grouped_10000/stationary/poses/P203.png) | 1 | 0.01% | 1 | 0.01% |
+| P204<br><code>Kf4i_0191</code> | G16 | [<img src="catalogue/grouped_10000/stationary/poses/P204.png" width="180" alt="P204">](catalogue/grouped_10000/stationary/poses/P204.png) | 1 | 0.01% | 1 | 0.01% |
+| P205<br><code>Kf4i_0202</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P205.png" width="180" alt="P205">](catalogue/grouped_10000/stationary/poses/P205.png) | 1 | 0.01% | 1 | 0.01% |
+| P206<br><code>Kf4i_0203</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P206.png" width="180" alt="P206">](catalogue/grouped_10000/stationary/poses/P206.png) | 1 | 0.01% | 2,197 | 21.97% |
+| P207<br><code>Kf4i_0208</code> | G18 | [<img src="catalogue/grouped_10000/stationary/poses/P207.png" width="180" alt="P207">](catalogue/grouped_10000/stationary/poses/P207.png) | 1 | 0.01% | 1 | 0.01% |
+| P208<br><code>Kf4i_0209</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P208.png" width="180" alt="P208">](catalogue/grouped_10000/stationary/poses/P208.png) | 1 | 0.01% | 2,197 | 21.97% |
 
-9,636 settled observations from 10,000 drops. Incidence uses all drops.
+Outcomes from the archived run: settled stationary 8,982, unsettled stationary 1,018.
 
-| Pose | Saved ID | Group | Image | Count | Incidence | 95% interval |
-| --- | --- | --- | --- | ---: | ---: | ---: |
-| 0 | Kf4i_stop_0031 | Group 0 | ![Kf4i_stop_0031](images/catalogue_20261116_10000/Kf4i_stop_0031.png) | 1650 | 16.50% | 15.79–17.24% |
-| 1 | Kf4i_stop_0091 | Group 1 | ![Kf4i_stop_0091](images/catalogue_20261116_10000/Kf4i_stop_0091.png) | 1394 | 13.94% | 13.27–14.63% |
-| 2 | Kf4i_stop_0056 | Group 2 | ![Kf4i_stop_0056](images/catalogue_20261116_10000/Kf4i_stop_0056.png) | 917 | 9.17% | 8.62–9.75% |
-| 3 | Kf4i_stop_0010 | Group 3 | ![Kf4i_stop_0010](images/catalogue_20261116_10000/Kf4i_stop_0010.png) | 762 | 7.62% | 7.12–8.16% |
-| 4 | Kf4i_stop_0057 | Group 2 | ![Kf4i_stop_0057](images/catalogue_20261116_10000/Kf4i_stop_0057.png) | 444 | 4.44% | 4.05–4.86% |
-| 5 | Kf4i_stop_0098 | Group 1 | ![Kf4i_stop_0098](images/catalogue_20261116_10000/Kf4i_stop_0098.png) | 326 | 3.26% | 2.93–3.63% |
-| 6 | Kf4i_stop_0021 | Group 0 | ![Kf4i_stop_0021](images/catalogue_20261116_10000/Kf4i_stop_0021.png) | 294 | 2.94% | 2.63–3.29% |
-| 7 | Kf4i_stop_0028 | Group 0 | ![Kf4i_stop_0028](images/catalogue_20261116_10000/Kf4i_stop_0028.png) | 272 | 2.72% | 2.42–3.06% |
-| 8 | Kf4i_stop_0020 | Group 3 | ![Kf4i_stop_0020](images/catalogue_20261116_10000/Kf4i_stop_0020.png) | 245 | 2.45% | 2.16–2.77% |
-| 9 | Kf4i_stop_0093 | Group 1 | ![Kf4i_stop_0093](images/catalogue_20261116_10000/Kf4i_stop_0093.png) | 239 | 2.39% | 2.11–2.71% |
-| 10 | Kf4i_stop_0025 | Group 0 | ![Kf4i_stop_0025](images/catalogue_20261116_10000/Kf4i_stop_0025.png) | 229 | 2.29% | 2.01–2.60% |
-| 11 | Kf4i_stop_0012 | Group 3 | ![Kf4i_stop_0012](images/catalogue_20261116_10000/Kf4i_stop_0012.png) | 225 | 2.25% | 1.98–2.56% |
-| 12 | Kf4i_stop_0096 | Group 1 | ![Kf4i_stop_0096](images/catalogue_20261116_10000/Kf4i_stop_0096.png) | 220 | 2.20% | 1.93–2.51% |
-| 13 | Kf4i_stop_0079 | Group 2 | ![Kf4i_stop_0079](images/catalogue_20261116_10000/Kf4i_stop_0079.png) | 188 | 1.88% | 1.63–2.17% |
-| 14 | Kf4i_stop_0027 | Group 3 | ![Kf4i_stop_0027](images/catalogue_20261116_10000/Kf4i_stop_0027.png) | 169 | 1.69% | 1.46–1.96% |
-| 15 | Kf4i_stop_0033 | Group 3 | ![Kf4i_stop_0033](images/catalogue_20261116_10000/Kf4i_stop_0033.png) | 150 | 1.50% | 1.28–1.76% |
-| 16 | Kf4i_stop_0054 | Group 2 | ![Kf4i_stop_0054](images/catalogue_20261116_10000/Kf4i_stop_0054.png) | 137 | 1.37% | 1.16–1.62% |
-| 17 | Kf4i_stop_0019 | Group 0 | ![Kf4i_stop_0019](images/catalogue_20261116_10000/Kf4i_stop_0019.png) | 130 | 1.30% | 1.10–1.54% |
-| 18 | Kf4i_stop_0059 | Group 2 | ![Kf4i_stop_0059](images/catalogue_20261116_10000/Kf4i_stop_0059.png) | 116 | 1.16% | 0.97–1.39% |
-| 19 | Kf4i_stop_0086 | Group 1 | ![Kf4i_stop_0086](images/catalogue_20261116_10000/Kf4i_stop_0086.png) | 116 | 1.16% | 0.97–1.39% |
-| 20 | Kf4i_stop_0038 | Group 3 | ![Kf4i_stop_0038](images/catalogue_20261116_10000/Kf4i_stop_0038.png) | 94 | 0.94% | 0.77–1.15% |
-| 21 | Kf4i_stop_0060 | Group 2 | ![Kf4i_stop_0060](images/catalogue_20261116_10000/Kf4i_stop_0060.png) | 92 | 0.92% | 0.75–1.13% |
-| 22 | Kf4i_stop_0040 | Group 3 | ![Kf4i_stop_0040](images/catalogue_20261116_10000/Kf4i_stop_0040.png) | 90 | 0.90% | 0.73–1.10% |
-| 23 | Kf4i_stop_0008 | Group 3 | ![Kf4i_stop_0008](images/catalogue_20261116_10000/Kf4i_stop_0008.png) | 69 | 0.69% | 0.55–0.87% |
-| 24 | Kf4i_stop_0053 | Group 2 | ![Kf4i_stop_0053](images/catalogue_20261116_10000/Kf4i_stop_0053.png) | 67 | 0.67% | 0.53–0.85% |
-| 25 | Kf4i_stop_0063 | Group 2 | ![Kf4i_stop_0063](images/catalogue_20261116_10000/Kf4i_stop_0063.png) | 63 | 0.63% | 0.49–0.81% |
-| 26 | Kf4i_stop_0037 | Group 0 | ![Kf4i_stop_0037](images/catalogue_20261116_10000/Kf4i_stop_0037.png) | 57 | 0.57% | 0.44–0.74% |
-| 27 | Kf4i_stop_0052 | Group 2 | ![Kf4i_stop_0052](images/catalogue_20261116_10000/Kf4i_stop_0052.png) | 52 | 0.52% | 0.40–0.68% |
-| 28 | Kf4i_stop_0043 | Group 3 | ![Kf4i_stop_0043](images/catalogue_20261116_10000/Kf4i_stop_0043.png) | 44 | 0.44% | 0.33–0.59% |
-| 29 | Kf4i_stop_0089 | Group 1 | ![Kf4i_stop_0089](images/catalogue_20261116_10000/Kf4i_stop_0089.png) | 41 | 0.41% | 0.30–0.56% |
-| 30 | Kf4i_stop_0094 | Group 1 | ![Kf4i_stop_0094](images/catalogue_20261116_10000/Kf4i_stop_0094.png) | 32 | 0.32% | 0.23–0.45% |
-| 31 | Kf4i_stop_0018 | Group 0 | ![Kf4i_stop_0018](images/catalogue_20261116_10000/Kf4i_stop_0018.png) | 31 | 0.31% | 0.22–0.44% |
-| 32 | Kf4i_stop_0026 | Group 0 | ![Kf4i_stop_0026](images/catalogue_20261116_10000/Kf4i_stop_0026.png) | 31 | 0.31% | 0.22–0.44% |
-| 33 | Kf4i_stop_0011 | Review 4 | ![Kf4i_stop_0011](images/catalogue_20261116_10000/Kf4i_stop_0011.png) | 30 | 0.30% | 0.21–0.43% |
-| 34 | Kf4i_stop_0061 | Group 2 | ![Kf4i_stop_0061](images/catalogue_20261116_10000/Kf4i_stop_0061.png) | 28 | 0.28% | 0.19–0.40% |
-| 35 | Kf4i_stop_0024 | Review 5 | ![Kf4i_stop_0024](images/catalogue_20261116_10000/Kf4i_stop_0024.png) | 24 | 0.24% | 0.16–0.36% |
-| 36 | Kf4i_stop_0022 | Group 0 | ![Kf4i_stop_0022](images/catalogue_20261116_10000/Kf4i_stop_0022.png) | 23 | 0.23% | 0.15–0.34% |
-| 37 | Kf4i_stop_0029 | Group 0 | ![Kf4i_stop_0029](images/catalogue_20261116_10000/Kf4i_stop_0029.png) | 23 | 0.23% | 0.15–0.34% |
-| 38 | Kf4i_stop_0097 | Group 1 | ![Kf4i_stop_0097](images/catalogue_20261116_10000/Kf4i_stop_0097.png) | 23 | 0.23% | 0.15–0.34% |
-| 39 | Kf4i_stop_0009 | Group 3 | ![Kf4i_stop_0009](images/catalogue_20261116_10000/Kf4i_stop_0009.png) | 22 | 0.22% | 0.15–0.33% |
-| 40 | Kf4i_stop_0032 | Group 0 | ![Kf4i_stop_0032](images/catalogue_20261116_10000/Kf4i_stop_0032.png) | 21 | 0.21% | 0.14–0.32% |
-| 41 | Kf4i_stop_0062 | Group 2 | ![Kf4i_stop_0062](images/catalogue_20261116_10000/Kf4i_stop_0062.png) | 21 | 0.21% | 0.14–0.32% |
-| 42 | Kf4i_stop_0075 | Group 2 | ![Kf4i_stop_0075](images/catalogue_20261116_10000/Kf4i_stop_0075.png) | 21 | 0.21% | 0.14–0.32% |
-| 43 | Kf4i_stop_0100 | Group 1 | ![Kf4i_stop_0100](images/catalogue_20261116_10000/Kf4i_stop_0100.png) | 21 | 0.21% | 0.14–0.32% |
-| 44 | Kf4i_stop_0064 | Group 2 | ![Kf4i_stop_0064](images/catalogue_20261116_10000/Kf4i_stop_0064.png) | 20 | 0.20% | 0.13–0.31% |
-| 45 | Kf4i_stop_0035 | Group 3 | ![Kf4i_stop_0035](images/catalogue_20261116_10000/Kf4i_stop_0035.png) | 19 | 0.19% | 0.12–0.30% |
-| 46 | Kf4i_stop_0042 | Group 3 | ![Kf4i_stop_0042](images/catalogue_20261116_10000/Kf4i_stop_0042.png) | 19 | 0.19% | 0.12–0.30% |
-| 47 | Kf4i_stop_0073 | Group 2 | ![Kf4i_stop_0073](images/catalogue_20261116_10000/Kf4i_stop_0073.png) | 19 | 0.19% | 0.12–0.30% |
-| 48 | Kf4i_stop_0030 | Review 6 | ![Kf4i_stop_0030](images/catalogue_20261116_10000/Kf4i_stop_0030.png) | 18 | 0.18% | 0.11–0.28% |
-| 49 | Kf4i_stop_0039 | Group 3 | ![Kf4i_stop_0039](images/catalogue_20261116_10000/Kf4i_stop_0039.png) | 18 | 0.18% | 0.11–0.28% |
-| 50 | Kf4i_stop_0074 | Group 2 | ![Kf4i_stop_0074](images/catalogue_20261116_10000/Kf4i_stop_0074.png) | 18 | 0.18% | 0.11–0.28% |
-| 51 | Kf4i_stop_0006 | Group 3 | ![Kf4i_stop_0006](images/catalogue_20261116_10000/Kf4i_stop_0006.png) | 15 | 0.15% | 0.09–0.25% |
-| 52 | Kf4i_stop_0101 | Group 1 | ![Kf4i_stop_0101](images/catalogue_20261116_10000/Kf4i_stop_0101.png) | 15 | 0.15% | 0.09–0.25% |
-| 53 | Kf4i_stop_0016 | Review 7 | ![Kf4i_stop_0016](images/catalogue_20261116_10000/Kf4i_stop_0016.png) | 14 | 0.14% | 0.08–0.23% |
-| 54 | Kf4i_stop_0049 | Group 3 | ![Kf4i_stop_0049](images/catalogue_20261116_10000/Kf4i_stop_0049.png) | 14 | 0.14% | 0.08–0.23% |
-| 55 | Kf4i_stop_0090 | Group 1 | ![Kf4i_stop_0090](images/catalogue_20261116_10000/Kf4i_stop_0090.png) | 14 | 0.14% | 0.08–0.23% |
-| 56 | Kf4i_stop_0066 | Group 2 | ![Kf4i_stop_0066](images/catalogue_20261116_10000/Kf4i_stop_0066.png) | 13 | 0.13% | 0.08–0.22% |
-| 57 | Kf4i_stop_0092 | Group 1 | ![Kf4i_stop_0092](images/catalogue_20261116_10000/Kf4i_stop_0092.png) | 13 | 0.13% | 0.08–0.22% |
-| 58 | Kf4i_stop_0046 | Group 3 | ![Kf4i_stop_0046](images/catalogue_20261116_10000/Kf4i_stop_0046.png) | 12 | 0.12% | 0.07–0.21% |
-| 59 | Kf4i_stop_0072 | Group 2 | ![Kf4i_stop_0072](images/catalogue_20261116_10000/Kf4i_stop_0072.png) | 12 | 0.12% | 0.07–0.21% |
-| 60 | Kf4i_stop_0076 | Group 2 | ![Kf4i_stop_0076](images/catalogue_20261116_10000/Kf4i_stop_0076.png) | 10 | 0.10% | 0.05–0.18% |
-| 61 | Kf4i_stop_0058 | Group 2 | ![Kf4i_stop_0058](images/catalogue_20261116_10000/Kf4i_stop_0058.png) | 8 | 0.08% | 0.04–0.16% |
-| 62 | Kf4i_stop_0067 | Group 2 | ![Kf4i_stop_0067](images/catalogue_20261116_10000/Kf4i_stop_0067.png) | 8 | 0.08% | 0.04–0.16% |
-| 63 | Kf4i_stop_0017 | Group 0 | ![Kf4i_stop_0017](images/catalogue_20261116_10000/Kf4i_stop_0017.png) | 7 | 0.07% | 0.03–0.14% |
-| 64 | Kf4i_stop_0087 | Group 1 | ![Kf4i_stop_0087](images/catalogue_20261116_10000/Kf4i_stop_0087.png) | 7 | 0.07% | 0.03–0.14% |
-| 65 | Kf4i_stop_0034 | Group 0 | ![Kf4i_stop_0034](images/catalogue_20261116_10000/Kf4i_stop_0034.png) | 6 | 0.06% | 0.03–0.13% |
-| 66 | Kf4i_stop_0004 | Group 3 | ![Kf4i_stop_0004](images/catalogue_20261116_10000/Kf4i_stop_0004.png) | 5 | 0.05% | 0.02–0.12% |
-| 67 | Kf4i_stop_0007 | Group 3 | ![Kf4i_stop_0007](images/catalogue_20261116_10000/Kf4i_stop_0007.png) | 5 | 0.05% | 0.02–0.12% |
-| 68 | Kf4i_stop_0068 | Group 2 | ![Kf4i_stop_0068](images/catalogue_20261116_10000/Kf4i_stop_0068.png) | 5 | 0.05% | 0.02–0.12% |
-| 69 | Kf4i_stop_0084 | Group 3 | ![Kf4i_stop_0084](images/catalogue_20261116_10000/Kf4i_stop_0084.png) | 5 | 0.05% | 0.02–0.12% |
-| 70 | Kf4i_stop_0036 | Group 0 | ![Kf4i_stop_0036](images/catalogue_20261116_10000/Kf4i_stop_0036.png) | 4 | 0.04% | 0.02–0.10% |
-| 71 | Kf4i_stop_0088 | Group 1 | ![Kf4i_stop_0088](images/catalogue_20261116_10000/Kf4i_stop_0088.png) | 4 | 0.04% | 0.02–0.10% |
-| 72 | Kf4i_stop_0003 | Group 3 | ![Kf4i_stop_0003](images/catalogue_20261116_10000/Kf4i_stop_0003.png) | 3 | 0.03% | 0.01–0.09% |
-| 73 | Kf4i_stop_0013 | Group 0 | ![Kf4i_stop_0013](images/catalogue_20261116_10000/Kf4i_stop_0013.png) | 3 | 0.03% | 0.01–0.09% |
-| 74 | Kf4i_stop_0023 | Group 0 | ![Kf4i_stop_0023](images/catalogue_20261116_10000/Kf4i_stop_0023.png) | 3 | 0.03% | 0.01–0.09% |
-| 75 | Kf4i_stop_0041 | Group 9 | ![Kf4i_stop_0041](images/catalogue_20261116_10000/Kf4i_stop_0041.png) | 3 | 0.03% | 0.01–0.09% |
-| 76 | Kf4i_stop_0048 | Group 9 | ![Kf4i_stop_0048](images/catalogue_20261116_10000/Kf4i_stop_0048.png) | 3 | 0.03% | 0.01–0.09% |
-| 77 | Kf4i_stop_0070 | Group 2 | ![Kf4i_stop_0070](images/catalogue_20261116_10000/Kf4i_stop_0070.png) | 3 | 0.03% | 0.01–0.09% |
-| 78 | Kf4i_stop_0077 | Group 2 | ![Kf4i_stop_0077](images/catalogue_20261116_10000/Kf4i_stop_0077.png) | 3 | 0.03% | 0.01–0.09% |
-| 79 | Kf4i_stop_0081 | Group 2 | ![Kf4i_stop_0081](images/catalogue_20261116_10000/Kf4i_stop_0081.png) | 3 | 0.03% | 0.01–0.09% |
-| 80 | Kf4i_stop_0085 | Group 3 | ![Kf4i_stop_0085](images/catalogue_20261116_10000/Kf4i_stop_0085.png) | 3 | 0.03% | 0.01–0.09% |
-| 81 | Kf4i_stop_0099 | Group 8 | ![Kf4i_stop_0099](images/catalogue_20261116_10000/Kf4i_stop_0099.png) | 3 | 0.03% | 0.01–0.09% |
-| 82 | Kf4i_stop_0103 | Group 8 | ![Kf4i_stop_0103](images/catalogue_20261116_10000/Kf4i_stop_0103.png) | 3 | 0.03% | 0.01–0.09% |
-| 83 | Kf4i_stop_0105 | Group 8 | ![Kf4i_stop_0105](images/catalogue_20261116_10000/Kf4i_stop_0105.png) | 3 | 0.03% | 0.01–0.09% |
-| 84 | Kf4i_stop_0001 | Group 10 | ![Kf4i_stop_0001](images/catalogue_20261116_10000/Kf4i_stop_0001.png) | 2 | 0.02% | 0.01–0.07% |
-| 85 | Kf4i_stop_0005 | Group 3 | ![Kf4i_stop_0005](images/catalogue_20261116_10000/Kf4i_stop_0005.png) | 2 | 0.02% | 0.01–0.07% |
-| 86 | Kf4i_stop_0015 | Group 0 | ![Kf4i_stop_0015](images/catalogue_20261116_10000/Kf4i_stop_0015.png) | 2 | 0.02% | 0.01–0.07% |
-| 87 | Kf4i_stop_0065 | Group 2 | ![Kf4i_stop_0065](images/catalogue_20261116_10000/Kf4i_stop_0065.png) | 2 | 0.02% | 0.01–0.07% |
-| 88 | Kf4i_stop_0095 | Group 8 | ![Kf4i_stop_0095](images/catalogue_20261116_10000/Kf4i_stop_0095.png) | 2 | 0.02% | 0.01–0.07% |
-| 89 | Kf4i_stop_0102 | Group 8 | ![Kf4i_stop_0102](images/catalogue_20261116_10000/Kf4i_stop_0102.png) | 2 | 0.02% | 0.01–0.07% |
-| 90 | Kf4i_stop_0104 | Group 1 | ![Kf4i_stop_0104](images/catalogue_20261116_10000/Kf4i_stop_0104.png) | 2 | 0.02% | 0.01–0.07% |
-| 91 | Kf4i_stop_0002 | Group 10 | ![Kf4i_stop_0002](images/catalogue_20261116_10000/Kf4i_stop_0002.png) | 1 | 0.01% | 0.00–0.06% |
-| 92 | Kf4i_stop_0014 | Group 0 | ![Kf4i_stop_0014](images/catalogue_20261116_10000/Kf4i_stop_0014.png) | 1 | 0.01% | 0.00–0.06% |
-| 93 | Kf4i_stop_0044 | Group 9 | ![Kf4i_stop_0044](images/catalogue_20261116_10000/Kf4i_stop_0044.png) | 1 | 0.01% | 0.00–0.06% |
-| 94 | Kf4i_stop_0045 | Group 9 | ![Kf4i_stop_0045](images/catalogue_20261116_10000/Kf4i_stop_0045.png) | 1 | 0.01% | 0.00–0.06% |
-| 95 | Kf4i_stop_0047 | Group 9 | ![Kf4i_stop_0047](images/catalogue_20261116_10000/Kf4i_stop_0047.png) | 1 | 0.01% | 0.00–0.06% |
-| 96 | Kf4i_stop_0050 | Group 11 | ![Kf4i_stop_0050](images/catalogue_20261116_10000/Kf4i_stop_0050.png) | 1 | 0.01% | 0.00–0.06% |
-| 97 | Kf4i_stop_0051 | Group 9 | ![Kf4i_stop_0051](images/catalogue_20261116_10000/Kf4i_stop_0051.png) | 1 | 0.01% | 0.00–0.06% |
-| 98 | Kf4i_stop_0055 | Group 2 | ![Kf4i_stop_0055](images/catalogue_20261116_10000/Kf4i_stop_0055.png) | 1 | 0.01% | 0.00–0.06% |
-| 99 | Kf4i_stop_0069 | Group 2 | ![Kf4i_stop_0069](images/catalogue_20261116_10000/Kf4i_stop_0069.png) | 1 | 0.01% | 0.00–0.06% |
-| 100 | Kf4i_stop_0071 | Group 2 | ![Kf4i_stop_0071](images/catalogue_20261116_10000/Kf4i_stop_0071.png) | 1 | 0.01% | 0.00–0.06% |
-| 101 | Kf4i_stop_0078 | Group 2 | ![Kf4i_stop_0078](images/catalogue_20261116_10000/Kf4i_stop_0078.png) | 1 | 0.01% | 0.00–0.06% |
-| 102 | Kf4i_stop_0080 | Group 2 | ![Kf4i_stop_0080](images/catalogue_20261116_10000/Kf4i_stop_0080.png) | 1 | 0.01% | 0.00–0.06% |
-| 103 | Kf4i_stop_0082 | Group 2 | ![Kf4i_stop_0082](images/catalogue_20261116_10000/Kf4i_stop_0082.png) | 1 | 0.01% | 0.00–0.06% |
-| 104 | Kf4i_stop_0083 | Group 2 | ![Kf4i_stop_0083](images/catalogue_20261116_10000/Kf4i_stop_0083.png) | 1 | 0.01% | 0.00–0.06% |
-| 105 | Kf4i_stop_0106 | Group 1 | ![Kf4i_stop_0106](images/catalogue_20261116_10000/Kf4i_stop_0106.png) | 1 | 0.01% | 0.00–0.06% |
-| 106 | Kf4i_stop_0107 | Group 1 | ![Kf4i_stop_0107](images/catalogue_20261116_10000/Kf4i_stop_0107.png) | 1 | 0.01% | 0.00–0.06% |
+## Data and source runs
 
-## Preserved history and source data
-
-The original 10,000-drop simulation archives and all earlier grouping/validation studies are unchanged. The prior 1,000-trial catalogue's top-level files and images are preserved in the history snapshot.
-
-[Previous catalogue snapshot](history/catalogue_before_10000_20261116.tar.xz) · [Snapshot checksums](history/catalogue_before_10000_20261116.contents.json) · [Derivation provenance](catalogue/20261116_10000/provenance.json) · [Transport grouping evidence](catalogue/20261116_10000/transport_grouping.json.gz) · [Post-braking grouping evidence](catalogue/20261116_10000/after_stop_grouping.json.gz)
-
-[Stationary and moving source runs](simulations/20261110_10000/README.md). The existing simulation_results.zip, when present, is the preserved historical 1,000-trial run.
-
-Checksums refer to committed Git bytes; Windows checkout line endings may differ.
+- **Moving belt** · [Catalogue JSON](catalogue/grouped_10000/moving/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/moving/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/moving/files.sha256.json) · [Source run and validation](simulations/20261110_10000/100mm_s/README.md) · [Raw run archive](simulations/20261110_10000/100mm_s/simulation_results.tar.xz)
+- **Stationary belt** · [Catalogue JSON](catalogue/grouped_10000/stationary/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/stationary/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/stationary/files.sha256.json) · [Source run and validation](simulations/20261110_10000/static/README.md) · [Raw run archive](simulations/20261110_10000/static/simulation_results.tar.xz)
