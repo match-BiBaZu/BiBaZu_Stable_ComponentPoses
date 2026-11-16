@@ -1,10 +1,106 @@
 # BiBaZu Stable Component Poses
 
-The completed ungrouped 10,000-drop dataset contains **780,000 simulated drops across all 39 workpieces**. Each workpiece has **10,000 trials with the belt stationary from release** and **10,000 trials on the moving belt**. The original twelve-workpiece paper study contributes 240,000 drops; the same-settings extension adds 540,000 drops for the remaining 27 workpieces. All 78 runs are complete and validated.
+The catalogue covers **39 workpieces** and **780,000 simulated drops** across 78 completed runs. Each workpiece has 10,000 trials with the belt moving and 10,000 trials with the belt stationary from release.
 
-The linked runs preserve individual orientations, trial outcomes, configurations, execution timings, and validation records. All 39 primary pose catalogues now use 10,000 trials; previous catalogue snapshots and 1,000-drop comparisons remain available as historical datasets.
+Moving outcomes are recorded at the virtual exit. Stationary outcomes are recorded after 10 s. The separate post-braking observations remain in the moving raw run archives.
 
-The moving series records the outcome at the virtual exit while the belt runs. The post-exit braking and rest check produces a separate result. The reported moving incidence uses the exit outcomes, and moving-series wall times include the follow-up observation.
+[Workpiece results](#workpieces) · [Grouping method](#catalogue-grouping) · [Simulator settings](#simulator-settings) · [Batch timings](#completed-batches-and-timings) · [Contact validation](#complete-grouping-validation-publication-16-november-2026)
+
+## Workpieces
+
+### Moving belt
+
+| Workpiece catalogue | Settled drops | Observed poses | Groups | Source run |
+| --- | ---: | ---: | ---: | --- |
+| [Df1a](Df1a/README.md#moving-belt) | 9,999 / 10,000 | 10 | 10 | [Results and validation](Df1a/simulations/20261107_10000/100mm_s/README.md) |
+| [Df2i](Df2i/README.md#moving-belt) | 9,999 / 10,000 | 11 | 11 | [Results and validation](Df2i/simulations/20261110_10000/100mm_s/README.md) |
+| [Df4a](Df4a/README.md#moving-belt) | 10,000 / 10,000 | 18 | 18 | [Results and validation](Df4a/simulations/20261110_10000/100mm_s/README.md) |
+| [Dk1i](Dk1i/README.md#moving-belt) | 9,950 / 10,000 | 8 | 6 | [Results and validation](Dk1i/simulations/20261107_10000/100mm_s/README.md) |
+| [Dk2a](Dk2a/README.md#moving-belt) | 9,998 / 10,000 | 18 | 12 | [Results and validation](Dk2a/simulations/20261110_10000/100mm_s/README.md) |
+| [Dk4i](Dk4i/README.md#moving-belt) | 9,906 / 10,000 | 24 | 18 | [Results and validation](Dk4i/simulations/20261110_10000/100mm_s/README.md) |
+| [Dl1a](Dl1a/README.md#moving-belt) | 10,000 / 10,000 | 16 | 6 | [Results and validation](Dl1a/simulations/20261107_10000/100mm_s/README.md) |
+| [Dl2i](Dl2i/README.md#moving-belt) | 9,999 / 10,000 | 12 | 9 | [Results and validation](Dl2i/simulations/20261110_10000/100mm_s/README.md) |
+| [Dl4a](Dl4a/README.md#moving-belt) | 9,999 / 10,000 | 24 | 18 | [Results and validation](Dl4a/simulations/20261110_10000/100mm_s/README.md) |
+| [Kf1i](Kf1i/README.md#moving-belt) | 9 / 10,000 | 2 | 2 | [Results and validation](Kf1i/simulations/20261107_10000/100mm_s/README.md) |
+| [Kf2a](Kf2a/README.md#moving-belt) | 8,763 / 10,000 | 52 | 9 | [Results and validation](Kf2a/simulations/20261110_10000/100mm_s/README.md) |
+| [Kf4i](Kf4i/README.md#moving-belt) | 8,997 / 10,000 | 98 | 7 | [Results and validation](Kf4i/simulations/20261110_10000/100mm_s/README.md) |
+| [Kk1a](Kk1a/README.md#moving-belt) | 8,201 / 10,000 | 6 | 6 | [Results and validation](Kk1a/simulations/20261107_10000/100mm_s/README.md) |
+| [Kk2i](Kk2i/README.md#moving-belt) | 9,385 / 10,000 | 64 | 7 | [Results and validation](Kk2i/simulations/20261110_10000/100mm_s/README.md) |
+| [Kk4a](Kk4a/README.md#moving-belt) | 9,988 / 10,000 | 190 | 8 | [Results and validation](Kk4a/simulations/20261110_10000/100mm_s/README.md) |
+| [Kl1i](Kl1i/README.md#moving-belt) | 9,999 / 10,000 | 6 | 6 | [Results and validation](Kl1i/simulations/20261107_10000/100mm_s/README.md) |
+| [Kl2a](Kl2a/README.md#moving-belt) | 9,994 / 10,000 | 53 | 6 | [Results and validation](Kl2a/simulations/20261110_10000/100mm_s/README.md) |
+| [Kl4i](Kl4i/README.md#moving-belt) | 9,939 / 10,000 | 87 | 8 | [Results and validation](Kl4i/simulations/20261110_10000/100mm_s/README.md) |
+| [Qf1i](Qf1i/README.md#moving-belt) | 9,991 / 10,000 | 6 | 6 | [Results and validation](Qf1i/simulations/20261107_10000/100mm_s/README.md) |
+| [Qf2a](Qf2a/README.md#moving-belt) | 9,997 / 10,000 | 12 | 12 | [Results and validation](Qf2a/simulations/20261110_10000/100mm_s/README.md) |
+| [Qf4i](Qf4i/README.md#moving-belt) | 9,997 / 10,000 | 21 | 21 | [Results and validation](Qf4i/simulations/20261110_10000/100mm_s/README.md) |
+| [Qk1a](Qk1a/README.md#moving-belt) | 9,953 / 10,000 | 21 | 8 | [Results and validation](Qk1a/simulations/20261107_10000/100mm_s/README.md) |
+| [Qk2i](Qk2i/README.md#moving-belt) | 9,998 / 10,000 | 19 | 19 | [Results and validation](Qk2i/simulations/20261110_10000/100mm_s/README.md) |
+| [Qk4a](Qk4a/README.md#moving-belt) | 9,993 / 10,000 | 27 | 27 | [Results and validation](Qk4a/simulations/20261110_10000/100mm_s/README.md) |
+| [Ql1i](Ql1i/README.md#moving-belt) | 9,992 / 10,000 | 6 | 6 | [Results and validation](Ql1i/simulations/20261107_10000/100mm_s/README.md) |
+| [Ql2a](Ql2a/README.md#moving-belt) | 9,997 / 10,000 | 14 | 14 | [Results and validation](Ql2a/simulations/20261110_10000/100mm_s/README.md) |
+| [Ql4i](Ql4i/README.md#moving-belt) | 10,000 / 10,000 | 24 | 24 | [Results and validation](Ql4i/simulations/20261110_10000/100mm_s/README.md) |
+| [Rf1a](Rf1a/README.md#moving-belt) | 10,000 / 10,000 | 23 | 21 | [Results and validation](Rf1a/simulations/20261107_10000/100mm_s/README.md) |
+| [Rf2i](Rf2i/README.md#moving-belt) | 9,999 / 10,000 | 14 | 14 | [Results and validation](Rf2i/simulations/20261110_10000/100mm_s/README.md) |
+| [Rf3a](Rf3a/README.md#moving-belt) | 10,000 / 10,000 | 16 | 14 | [Results and validation](Rf3a/simulations/20261110_10000/100mm_s/README.md) |
+| [Rf4i](Rf4i/README.md#moving-belt) | 10,000 / 10,000 | 20 | 20 | [Results and validation](Rf4i/simulations/20261110_10000/100mm_s/README.md) |
+| [Rk1a](Rk1a/README.md#moving-belt) | 9,998 / 10,000 | 42 | 34 | [Results and validation](Rk1a/simulations/20261107_10000/100mm_s/README.md) |
+| [Rk2i](Rk2i/README.md#moving-belt) | 9,997 / 10,000 | 12 | 12 | [Results and validation](Rk2i/simulations/20261110_10000/100mm_s/README.md) |
+| [Rk3a](Rk3a/README.md#moving-belt) | 9,995 / 10,000 | 21 | 17 | [Results and validation](Rk3a/simulations/20261110_10000/100mm_s/README.md) |
+| [Rk4i](Rk4i/README.md#moving-belt) | 9,996 / 10,000 | 24 | 24 | [Results and validation](Rk4i/simulations/20261110_10000/100mm_s/README.md) |
+| [Rl1a](Rl1a/README.md#moving-belt) | 9,996 / 10,000 | 31 | 27 | [Results and validation](Rl1a/simulations/20261107_10000/100mm_s/README.md) |
+| [Rl2i](Rl2i/README.md#moving-belt) | 9,985 / 10,000 | 12 | 12 | [Results and validation](Rl2i/simulations/20261110_10000/100mm_s/README.md) |
+| [Rl3a](Rl3a/README.md#moving-belt) | 10,000 / 10,000 | 20 | 15 | [Results and validation](Rl3a/simulations/20261110_10000/100mm_s/README.md) |
+| [Rl4i](Rl4i/README.md#moving-belt) | 10,000 / 10,000 | 22 | 21 | [Results and validation](Rl4i/simulations/20261110_10000/100mm_s/README.md) |
+
+### Stationary belt
+
+| Workpiece catalogue | Settled drops | Observed poses | Groups | Source run |
+| --- | ---: | ---: | ---: | --- |
+| [Df1a](Df1a/README.md#stationary-belt) | 9,975 / 10,000 | 13 | 10 | [Results and validation](Df1a/simulations/20261107_10000/static/README.md) |
+| [Df2i](Df2i/README.md#stationary-belt) | 9,998 / 10,000 | 16 | 12 | [Results and validation](Df2i/simulations/20261110_10000/static/README.md) |
+| [Df4a](Df4a/README.md#stationary-belt) | 9,998 / 10,000 | 20 | 20 | [Results and validation](Df4a/simulations/20261110_10000/static/README.md) |
+| [Dk1i](Dk1i/README.md#stationary-belt) | 10,000 / 10,000 | 32 | 21 | [Results and validation](Dk1i/simulations/20261107_10000/static/README.md) |
+| [Dk2a](Dk2a/README.md#stationary-belt) | 9,962 / 10,000 | 47 | 41 | [Results and validation](Dk2a/simulations/20261110_10000/static/README.md) |
+| [Dk4i](Dk4i/README.md#stationary-belt) | 9,995 / 10,000 | 53 | 39 | [Results and validation](Dk4i/simulations/20261110_10000/static/README.md) |
+| [Dl1a](Dl1a/README.md#stationary-belt) | 9,992 / 10,000 | 28 | 6 | [Results and validation](Dl1a/simulations/20261107_10000/static/README.md) |
+| [Dl2i](Dl2i/README.md#stationary-belt) | 10,000 / 10,000 | 13 | 9 | [Results and validation](Dl2i/simulations/20261110_10000/static/README.md) |
+| [Dl4a](Dl4a/README.md#stationary-belt) | 9,999 / 10,000 | 30 | 18 | [Results and validation](Dl4a/simulations/20261110_10000/static/README.md) |
+| [Kf1i](Kf1i/README.md#stationary-belt) | 10,000 / 10,000 | 9 | 6 | [Results and validation](Kf1i/simulations/20261107_10000/static/README.md) |
+| [Kf2a](Kf2a/README.md#stationary-belt) | 9,936 / 10,000 | 120 | 49 | [Results and validation](Kf2a/simulations/20261110_10000/static/README.md) |
+| [Kf4i](Kf4i/README.md#stationary-belt) | 8,982 / 10,000 | 209 | 19 | [Results and validation](Kf4i/simulations/20261110_10000/static/README.md) |
+| [Kk1a](Kk1a/README.md#stationary-belt) | 9,676 / 10,000 | 15 | 14 | [Results and validation](Kk1a/simulations/20261107_10000/static/README.md) |
+| [Kk2i](Kk2i/README.md#stationary-belt) | 9,978 / 10,000 | 134 | 17 | [Results and validation](Kk2i/simulations/20261110_10000/static/README.md) |
+| [Kk4a](Kk4a/README.md#stationary-belt) | 9,995 / 10,000 | 242 | 12 | [Results and validation](Kk4a/simulations/20261110_10000/static/README.md) |
+| [Kl1i](Kl1i/README.md#stationary-belt) | 9,997 / 10,000 | 7 | 6 | [Results and validation](Kl1i/simulations/20261107_10000/static/README.md) |
+| [Kl2a](Kl2a/README.md#stationary-belt) | 9,989 / 10,000 | 79 | 16 | [Results and validation](Kl2a/simulations/20261110_10000/static/README.md) |
+| [Kl4i](Kl4i/README.md#stationary-belt) | 9,995 / 10,000 | 174 | 39 | [Results and validation](Kl4i/simulations/20261110_10000/static/README.md) |
+| [Qf1i](Qf1i/README.md#stationary-belt) | 9,943 / 10,000 | 10 | 6 | [Results and validation](Qf1i/simulations/20261107_10000/static/README.md) |
+| [Qf2a](Qf2a/README.md#stationary-belt) | 9,971 / 10,000 | 29 | 22 | [Results and validation](Qf2a/simulations/20261110_10000/static/README.md) |
+| [Qf4i](Qf4i/README.md#stationary-belt) | 9,994 / 10,000 | 29 | 29 | [Results and validation](Qf4i/simulations/20261110_10000/static/README.md) |
+| [Qk1a](Qk1a/README.md#stationary-belt) | 9,899 / 10,000 | 75 | 41 | [Results and validation](Qk1a/simulations/20261107_10000/static/README.md) |
+| [Qk2i](Qk2i/README.md#stationary-belt) | 9,977 / 10,000 | 46 | 34 | [Results and validation](Qk2i/simulations/20261110_10000/static/README.md) |
+| [Qk4a](Qk4a/README.md#stationary-belt) | 9,984 / 10,000 | 46 | 40 | [Results and validation](Qk4a/simulations/20261110_10000/static/README.md) |
+| [Ql1i](Ql1i/README.md#stationary-belt) | 9,995 / 10,000 | 7 | 6 | [Results and validation](Ql1i/simulations/20261107_10000/static/README.md) |
+| [Ql2a](Ql2a/README.md#stationary-belt) | 9,997 / 10,000 | 22 | 18 | [Results and validation](Ql2a/simulations/20261110_10000/static/README.md) |
+| [Ql4i](Ql4i/README.md#stationary-belt) | 9,997 / 10,000 | 40 | 26 | [Results and validation](Ql4i/simulations/20261110_10000/static/README.md) |
+| [Rf1a](Rf1a/README.md#stationary-belt) | 9,988 / 10,000 | 33 | 27 | [Results and validation](Rf1a/simulations/20261107_10000/static/README.md) |
+| [Rf2i](Rf2i/README.md#stationary-belt) | 9,989 / 10,000 | 26 | 17 | [Results and validation](Rf2i/simulations/20261110_10000/static/README.md) |
+| [Rf3a](Rf3a/README.md#stationary-belt) | 9,993 / 10,000 | 17 | 15 | [Results and validation](Rf3a/simulations/20261110_10000/static/README.md) |
+| [Rf4i](Rf4i/README.md#stationary-belt) | 9,995 / 10,000 | 26 | 25 | [Results and validation](Rf4i/simulations/20261110_10000/static/README.md) |
+| [Rk1a](Rk1a/README.md#stationary-belt) | 9,970 / 10,000 | 107 | 89 | [Results and validation](Rk1a/simulations/20261107_10000/static/README.md) |
+| [Rk2i](Rk2i/README.md#stationary-belt) | 9,985 / 10,000 | 24 | 18 | [Results and validation](Rk2i/simulations/20261110_10000/static/README.md) |
+| [Rk3a](Rk3a/README.md#stationary-belt) | 9,975 / 10,000 | 48 | 29 | [Results and validation](Rk3a/simulations/20261110_10000/static/README.md) |
+| [Rk4i](Rk4i/README.md#stationary-belt) | 9,965 / 10,000 | 63 | 43 | [Results and validation](Rk4i/simulations/20261110_10000/static/README.md) |
+| [Rl1a](Rl1a/README.md#stationary-belt) | 9,994 / 10,000 | 46 | 39 | [Results and validation](Rl1a/simulations/20261107_10000/static/README.md) |
+| [Rl2i](Rl2i/README.md#stationary-belt) | 9,995 / 10,000 | 27 | 12 | [Results and validation](Rl2i/simulations/20261110_10000/static/README.md) |
+| [Rl3a](Rl3a/README.md#stationary-belt) | 9,997 / 10,000 | 30 | 15 | [Results and validation](Rl3a/simulations/20261110_10000/static/README.md) |
+| [Rl4i](Rl4i/README.md#stationary-belt) | 9,999 / 10,000 | 29 | 24 | [Results and validation](Rl4i/simulations/20261110_10000/static/README.md) |
+
+## Catalogue grouping
+
+Each belt condition is processed independently from its saved trial outcomes. Pose recognition accounts for the recorded workpiece symmetry with a 5° tolerance and a 1° ambiguity margin. The seated tipping-barrier method uses directed absorption with a 0.5 mm equivalent lift threshold, a 60° whole-group diameter limit, and 0.1° path sampling. Kf2a, Kf4i and Kl4i use persistent seated-energy minima with a 60° local path limit. Kk2i, Kk4a and Kl2a use the rounded support-family rules described below.
+
+Pose ranks follow individual incidence and group ranks follow combined incidence. Ties follow the source pose IDs. The denominator includes all 10,000 trials for each condition, and the results include groups below 1%. The case catalogue JSON records the original pose IDs, group memberships and run provenance. The adjacent evidence file records the grouping analysis. [Simulator and grouping code](https://github.com/match-BiBaZu/BiBaZu_PoseFindingDropSim)
 
 ## Simulator settings
 
@@ -49,70 +145,6 @@ Both batches used the same archived simulator settings, revision, and dependency
 | Remaining-workpiece extension (`20261110_10000`) | 27 | 54 | 540,000 | 42 h 30 min 01 s | [Plan](timing/20261110_10000/run_plan.json) · [Timings](timing/20261110_10000/status.json) · [Validation](timing/20261110_10000/batch_validation.json) |
 | **Total** | **39** | **78** | **780,000** | **55 h 16 min 43 s** | Both batches |
 
-## Grouped 10,000-drop results for the paper workpieces
-
-Saved outcomes from the paper runs were classified with recorded workpiece symmetry and grouped using the seated tipping-barrier procedure. Counts include every observed group. See each workpiece for memberships and incidence.
-
-| Workpiece | Moving poses | Moving groups | Stationary poses | Stationary groups |
-| --- | ---: | ---: | ---: | ---: |
-| [Df1a](Df1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 10 | 10 | 13 | 10 |
-| [Dk1i](Dk1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 8 | 6 | 32 | 21 |
-| [Dl1a](Dl1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 16 | 6 | 28 | 6 |
-| [Kf1i](Kf1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | — | — | 9 | 6 |
-| [Kk1a](Kk1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 15 | 14 |
-| [Kl1i](Kl1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 7 | 6 |
-| [Qf1i](Qf1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 10 | 6 |
-| [Qk1a](Qk1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 21 | 8 | 75 | 41 |
-| [Ql1i](Ql1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 7 | 6 |
-
-Kf1i moving was excluded from the experimental comparison (9 settled drops).
-
-## Workpieces
-
-Each count below is the number of settled outcomes out of **10,000 trials** in that condition. Moving counts use the virtual-exit outcome, separately from the post-braking observation. Catalogue pages describe saved pose catalogues (Dk1i, Kf2a and Kf4i were refreshed from these source runs on 16 November 2026); run links open the completed ungrouped 10,000-drop datasets.
-
-| Workpiece catalogue | Stationary settled / 10,000 | Moving settled / 10,000 | Run records |
-| --- | ---: | ---: | --- |
-| [Df1a](Df1a/README.md) | 9,975 | 9,999 | [Moving and stationary runs](Df1a/simulations/20261107_10000/README.md) |
-| [Df2i](Df2i/README.md) | 9,998 | 9,999 | [Moving and stationary runs](Df2i/simulations/20261110_10000/README.md) |
-| [Df4a](Df4a/README.md) | 9,998 | 10,000 | [Moving and stationary runs](Df4a/simulations/20261110_10000/README.md) |
-| [Dk1i](Dk1i/README.md) | 10,000 | 9,950 | [Moving and stationary runs](Dk1i/simulations/20261107_10000/README.md) |
-| [Dk2a](Dk2a/README.md) | 9,962 | 9,998 | [Moving and stationary runs](Dk2a/simulations/20261110_10000/README.md) |
-| [Dk4i](Dk4i/README.md) | 9,995 | 9,906 | [Moving and stationary runs](Dk4i/simulations/20261110_10000/README.md) |
-| [Dl1a](Dl1a/README.md) | 9,992 | 10,000 | [Moving and stationary runs](Dl1a/simulations/20261107_10000/README.md) |
-| [Dl2i](Dl2i/README.md) | 10,000 | 9,999 | [Moving and stationary runs](Dl2i/simulations/20261110_10000/README.md) |
-| [Dl4a](Dl4a/README.md) | 9,999 | 9,999 | [Moving and stationary runs](Dl4a/simulations/20261110_10000/README.md) |
-| [Kf1i](Kf1i/README.md) | 10,000 | 9 | [Moving and stationary runs](Kf1i/simulations/20261107_10000/README.md) |
-| [Kf2a](Kf2a/README.md) | 9,936 | 8,763 | [Moving and stationary runs](Kf2a/simulations/20261110_10000/README.md) |
-| [Kf4i](Kf4i/README.md) | 8,982 | 8,997 | [Moving and stationary runs](Kf4i/simulations/20261110_10000/README.md) |
-| [Kk1a](Kk1a/README.md) | 9,676 | 8,201 | [Moving and stationary runs](Kk1a/simulations/20261107_10000/README.md) |
-| [Kk2i](Kk2i/README.md) | 9,978 | 9,385 | [Moving and stationary runs](Kk2i/simulations/20261110_10000/README.md) |
-| [Kk4a](Kk4a/README.md) | 9,995 | 9,988 | [Moving and stationary runs](Kk4a/simulations/20261110_10000/README.md) |
-| [Kl1i](Kl1i/README.md) | 9,997 | 9,999 | [Moving and stationary runs](Kl1i/simulations/20261107_10000/README.md) |
-| [Kl2a](Kl2a/README.md) | 9,989 | 9,994 | [Moving and stationary runs](Kl2a/simulations/20261110_10000/README.md) |
-| [Kl4i](Kl4i/README.md) | 9,995 | 9,939 | [Moving and stationary runs](Kl4i/simulations/20261110_10000/README.md) |
-| [Qf1i](Qf1i/README.md) | 9,943 | 9,991 | [Moving and stationary runs](Qf1i/simulations/20261107_10000/README.md) |
-| [Qf2a](Qf2a/README.md) | 9,971 | 9,997 | [Moving and stationary runs](Qf2a/simulations/20261110_10000/README.md) |
-| [Qf4i](Qf4i/README.md) | 9,994 | 9,997 | [Moving and stationary runs](Qf4i/simulations/20261110_10000/README.md) |
-| [Qk1a](Qk1a/README.md) | 9,899 | 9,953 | [Moving and stationary runs](Qk1a/simulations/20261107_10000/README.md) |
-| [Qk2i](Qk2i/README.md) | 9,977 | 9,998 | [Moving and stationary runs](Qk2i/simulations/20261110_10000/README.md) |
-| [Qk4a](Qk4a/README.md) | 9,984 | 9,993 | [Moving and stationary runs](Qk4a/simulations/20261110_10000/README.md) |
-| [Ql1i](Ql1i/README.md) | 9,995 | 9,992 | [Moving and stationary runs](Ql1i/simulations/20261107_10000/README.md) |
-| [Ql2a](Ql2a/README.md) | 9,997 | 9,997 | [Moving and stationary runs](Ql2a/simulations/20261110_10000/README.md) |
-| [Ql4i](Ql4i/README.md) | 9,997 | 10,000 | [Moving and stationary runs](Ql4i/simulations/20261110_10000/README.md) |
-| [Rf1a](Rf1a/README.md) | 9,988 | 10,000 | [Moving and stationary runs](Rf1a/simulations/20261107_10000/README.md) |
-| [Rf2i](Rf2i/README.md) | 9,989 | 9,999 | [Moving and stationary runs](Rf2i/simulations/20261110_10000/README.md) |
-| [Rf3a](Rf3a/README.md) | 9,993 | 10,000 | [Moving and stationary runs](Rf3a/simulations/20261110_10000/README.md) |
-| [Rf4i](Rf4i/README.md) | 9,995 | 10,000 | [Moving and stationary runs](Rf4i/simulations/20261110_10000/README.md) |
-| [Rk1a](Rk1a/README.md) | 9,970 | 9,998 | [Moving and stationary runs](Rk1a/simulations/20261107_10000/README.md) |
-| [Rk2i](Rk2i/README.md) | 9,985 | 9,997 | [Moving and stationary runs](Rk2i/simulations/20261110_10000/README.md) |
-| [Rk3a](Rk3a/README.md) | 9,975 | 9,995 | [Moving and stationary runs](Rk3a/simulations/20261110_10000/README.md) |
-| [Rk4i](Rk4i/README.md) | 9,965 | 9,996 | [Moving and stationary runs](Rk4i/simulations/20261110_10000/README.md) |
-| [Rl1a](Rl1a/README.md) | 9,994 | 9,996 | [Moving and stationary runs](Rl1a/simulations/20261107_10000/README.md) |
-| [Rl2i](Rl2i/README.md) | 9,995 | 9,985 | [Moving and stationary runs](Rl2i/simulations/20261110_10000/README.md) |
-| [Rl3a](Rl3a/README.md) | 9,997 | 10,000 | [Moving and stationary runs](Rl3a/simulations/20261110_10000/README.md) |
-| [Rl4i](Rl4i/README.md) | 9,999 | 10,000 | [Moving and stationary runs](Rl4i/simulations/20261110_10000/README.md) |
-
 ## Run files
 
 Each condition folder contains a lossless `simulation_results.tar.xz` archive and the following records:
@@ -135,17 +167,9 @@ Extract an archive with:
 python -m tarfile -e simulation_results.tar.xz extracted
 ```
 
-## Catalogue grouping
-
-Except for the six scoped rolling-surface catalogues described below, each historical catalogue displays its saved individual poses and the basin assigned by the local plotter’s simulator grouping method. The algorithm uses the recorded orientations, workpiece symmetry, and chute angles. It applies directed absorption with a 0.5 mm equivalent lift barrier, a 60° whole-group diameter limit, and 0.1° angular path sampling. Group 0 has the highest combined incidence in its catalogue. Ties follow the sorted member pose IDs, and groups below 1% stay visible.
-
-Transport and post-braking catalogues have separate group and pose numbering. Pose 0 is the most frequent individual pose in its catalogue. Ties follow the saved pose IDs. The membership CSV links each displayed pose number and group to the original pose ID, basin ID, and counts. The table grouping was computed from saved catalogue poses. All 10,000-drop archives retain their original ungrouped trial records; the historical catalogue grouping does not change those results. [Grouping engine](https://github.com/match-BiBaZu/BiBaZu_PoseFindingDropSim/blob/b872011538ae74d2c2a4570a32457cb79054a598/src/dashas_drop_sim/grouping.py) · [Historical grouped snapshot](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/tree/632b830bd890498e1b07b14d44d97b25f5bba7bb)
-
 ## Initial rolling-surface validation (13 November 2026)
 
-The initial six-model update used persistent seated-energy minima and minimax-height assignments. The 60° limit is local to each path; sampling remains 0.1° and the escape-barrier threshold remains 0.5 mm. A pose reaching multiple minima stays separate for review. Individual poses, counts, feature directions and recognition tolerances are preserved. The saved Kl4i catalogue yields four groups. Original simulation archives remain unchanged.
-
-Each of these six workpieces adds 100 stationary and 100 moving-belt drops (1,200 published drops), using the archived physical settings. No disturbance sweeps were added. The other 33 workpieces also passed paired 100-drop checks and exact legacy-grouping comparisons; their validation data remains local and their catalogue directories are byte-for-byte unchanged.
+The initial six-workpiece update used persistent seated-energy minima and minimax-height assignments. The 60° limit applies to each path, with 0.1° sampling and a 0.5 mm escape barrier. A pose reaching multiple minima stays separate for review. The paired validation used 100 stationary and 100 moving-belt drops per workpiece.
 
 | Workpiece | Grouping evidence | Paired validation |
 | --- | --- | --- |
@@ -160,8 +184,6 @@ Each of these six workpieces adds 100 stationary and 100 moving-belt drops (1,20
 
 A rounded support family ignores circumferential roll while retaining the extrusion-axis direction and broad cut-feature supports. The pinned meshes use source Z as their extrusion axis. Axis alignment uses 10°, and broad-support normals use 5°. A side hull facet is broad when its area is at least twice the median side-strip area. Kk2i retains broad wall/belt support distinctions. Kl2a also merges end-on-belt azimuths. Kk4a retains the signed axis direction; tilted observations stay separate for review. This simple geometric classification does not claim a 0.5 mm energy barrier or add rotational recognition symmetry.
 
-The support-family rule refinement applied only to Kk2i, Kl2a and Kk4a. Grouping rules and representative-selection behavior for the remaining workpieces were unchanged by that refinement. Kf2a and Kf4i catalogue data were subsequently refreshed from the 10,000-trial source runs, as documented below. All 39 workpieces passed fresh 100 stationary and 100 moving-drop checks (7,800 drops). The three revised workpieces' 600 drops were published first. The remaining 7,200 validation drops are now published below; existing catalogue files and grouping assignments remain unchanged.
-
 | Workpiece | Current groups and evidence | New validation |
 | --- | --- | --- |
 | Kk2i | [Groups](Kk2i/grouping/20261113_contact/README.md) | [200 drops](Kk2i/simulations/20261113_contact_100/README.md) |
@@ -170,7 +192,7 @@ The support-family rule refinement applied only to Kk2i, Kl2a and Kk4a. Grouping
 
 ## Complete grouping validation publication (16 November 2026)
 
-The remaining 36 workpieces' paired 100-drop validation runs are now available: **72 runs and 7,200 drops**. Together with Kk2i, Kl2a and Kk4a, all **39 workpieces and 7,800 drops** in the latest validation study are published. These are the completed 13 November runs; no simulations were rerun for publication. Every remaining workpiece passed an exact comparison with the previous grouping engine. Existing pose catalogues, memberships, numbering, recognition and representatives are unchanged. Saved-catalogue comparison reports accompany each newly published workpiece. Counts below use stationary/transport outcomes; moving-belt post-braking observations remain separate in each summary and archive. Raw records, grouping evidence, original validation receipts, provenance and SHA-256 checksums accompany each run.
+This separate validation study contains 100 stationary and 100 moving-belt drops for each of the 39 workpieces, for 7,800 drops altogether. The links include the raw records, grouping evidence, validation receipts, provenance and checksums. Moving counts refer to the transport result, with post-braking observations recorded separately.
 
 | Workpiece | Stationary settled / 100 | Moving settled / 100 | Validation |
 | --- | ---: | ---: | --- |
@@ -213,15 +235,3 @@ The remaining 36 workpieces' paired 100-drop validation runs are now available: 
 | Rl2i | 100 | 99 | [Results](Rl2i/simulations/20261113_contact_100/README.md) |
 | Rl3a | 100 | 100 | [Results](Rl3a/simulations/20261113_contact_100/README.md) |
 | Rl4i | 99 | 100 | [Results](Rl4i/simulations/20261113_contact_100/README.md) |
-
-Kf1i's saved transport catalogue and moving transport sample contain no settled poses, so their comparisons are empty. Its separate post-braking outcomes remain available in the archived run; no occupied transport-group validation is inferred.
-
-## Catalogue refresh (16 November 2026)
-
-Dk1i, Kf2a and Kf4i were rebuilt from their verified 10,000-drop moving-belt runs, replacing the older 1,000-trial catalogues. Transport and post-braking phases are kept separate. No physics trials were rerun, and the published grouping algorithms and recognition tolerances are unchanged. Earlier catalogue snapshots, registry anchors and original simulation archives are preserved. The other 36 workpiece directories are unchanged.
-
-| Catalogue | Trials | Transport settled | After-stop settled | Provenance |
-| --- | ---: | ---: | ---: | --- |
-| [Kf2a](Kf2a/README.md) | 10000 | 8763 | 9959 | [Derivation](Kf2a/catalogue/20261116_10000/provenance.json) |
-| [Kf4i](Kf4i/README.md) | 10000 | 8997 | 9636 | [Derivation](Kf4i/catalogue/20261116_10000/provenance.json) |
-| [Dk1i](Dk1i/README.md) | 10000 | 9950 | 10000 | [Derivation](Dk1i/catalogue/20261116_10000/provenance.json) |

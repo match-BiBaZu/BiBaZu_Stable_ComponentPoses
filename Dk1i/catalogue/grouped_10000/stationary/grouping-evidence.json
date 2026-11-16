@@ -1,0 +1,3598 @@
+{
+  "model": "observed-seated-geodesic-basins-v1",
+  "barrier_mm": 0.5,
+  "max_angle_deg": 60,
+  "sampling_step_deg": 0.1,
+  "paths": [
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0002",
+      "angle_deg": 28.699039618642523,
+      "forward_barrier_mm": 1.9047085048573429,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0003",
+      "angle_deg": 102.67555123026462,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0004",
+      "angle_deg": 101.2682308015341,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0005",
+      "angle_deg": 100.806772061889,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0006",
+      "angle_deg": 97.95834009303857,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0007",
+      "angle_deg": 97.32706938419423,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0008",
+      "angle_deg": 96.9235099450728,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0009",
+      "angle_deg": 95.4309896226408,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0010",
+      "angle_deg": 95.05136403102996,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0011",
+      "angle_deg": 94.40936835042375,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0012",
+      "angle_deg": 93.82719382701501,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0013",
+      "angle_deg": 93.84081981176425,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0014",
+      "angle_deg": 90.00023003536596,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0015",
+      "angle_deg": 89.99898786530949,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0016",
+      "angle_deg": 90.00041907517523,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0017",
+      "angle_deg": 130.8000285081256,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0018",
+      "angle_deg": 126.38748160282525,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0019",
+      "angle_deg": 128.3259988596419,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0020",
+      "angle_deg": 132.9051162626116,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0021",
+      "angle_deg": 137.18124595379655,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0022",
+      "angle_deg": 139.8113338528577,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0023",
+      "angle_deg": 141.82848951032798,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0024",
+      "angle_deg": 143.15583570105053,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0025",
+      "angle_deg": 147.14145079458063,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0026",
+      "angle_deg": 148.9736545796513,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0027",
+      "angle_deg": 151.94720460716917,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0028",
+      "angle_deg": 154.6028683110643,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0029",
+      "angle_deg": 154.97853591243887,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0030",
+      "angle_deg": 179.99992324877857,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0031",
+      "angle_deg": 95.73166478541174,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0001",
+      "target": "Dk1i_0032",
+      "angle_deg": 104.47745618530288,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0003",
+      "angle_deg": 95.31465767008196,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0004",
+      "angle_deg": 115.03871265145217,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0005",
+      "angle_deg": 96.71219855479589,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0006",
+      "angle_deg": 110.40919050495282,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0007",
+      "angle_deg": 90.36074844971458,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0008",
+      "angle_deg": 100.55038464653391,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0009",
+      "angle_deg": 106.5598635387672,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0010",
+      "angle_deg": 90.1486464820157,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0011",
+      "angle_deg": 104.88411078102632,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0012",
+      "angle_deg": 67.57987863709769,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0013",
+      "angle_deg": 120.9990168482122,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0014",
+      "angle_deg": 118.69926961465853,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0015",
+      "angle_deg": 61.29994827563095,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0016",
+      "angle_deg": 93.52190253451747,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0017",
+      "angle_deg": 110.73982213426297,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0018",
+      "angle_deg": 97.68844200135663,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0019",
+      "angle_deg": 157.0250384601558,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0020",
+      "angle_deg": 104.20607666282282,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0021",
+      "angle_deg": 165.88028555451046,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0022",
+      "angle_deg": 111.1122942718783,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0023",
+      "angle_deg": 170.52752910570635,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0024",
+      "angle_deg": 114.4567960965339,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0025",
+      "angle_deg": 118.44241119056792,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0026",
+      "angle_deg": 177.67269418054133,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0027",
+      "angle_deg": 123.24816501283578,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0028",
+      "angle_deg": 176.69809209512115,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0029",
+      "angle_deg": 126.27949632028076,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0030",
+      "angle_deg": 151.3009664805977,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0031",
+      "angle_deg": 79.96529458163454,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0002",
+      "target": "Dk1i_0032",
+      "angle_deg": 94.1728808757744,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0004",
+      "angle_deg": 75.16128176172795,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0005",
+      "angle_deg": 4.546749877590342,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.07211117646438936
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0006",
+      "angle_deg": 69.8167292813938,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0007",
+      "angle_deg": 68.7774952226338,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0008",
+      "angle_deg": 15.23207453388036,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.4406260364614809
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0009",
+      "angle_deg": 65.58181600411925,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0010",
+      "angle_deg": 64.92961637060515,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0011",
+      "angle_deg": 63.82902833813325,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0012",
+      "angle_deg": 102.65455069027252,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0013",
+      "angle_deg": 102.67613777604419,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0014",
+      "angle_deg": 94.94214409102196,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0015",
+      "angle_deg": 92.87095855461484,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0016",
+      "angle_deg": 55.86442837459136,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 4.061065403796702
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0017",
+      "angle_deg": 72.53552582464091,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0018",
+      "angle_deg": 103.48405014277395,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0019",
+      "angle_deg": 99.34926298030892,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0020",
+      "angle_deg": 100.77187132693815,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0021",
+      "angle_deg": 96.29761032965786,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0022",
+      "angle_deg": 98.17928183281673,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0023",
+      "angle_deg": 94.91325399576436,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0024",
+      "angle_deg": 97.03844555518035,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0025",
+      "angle_deg": 95.77700984086758,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0026",
+      "angle_deg": 93.09915977566865,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0027",
+      "angle_deg": 94.40670041851045,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0028",
+      "angle_deg": 91.9499428767098,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0029",
+      "angle_deg": 93.63157015644639,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0030",
+      "angle_deg": 90.07450754904765,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0031",
+      "angle_deg": 159.57448855194139,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0003",
+      "target": "Dk1i_0032",
+      "angle_deg": 179.99993984189607,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0005",
+      "angle_deg": 72.09319438400155,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0006",
+      "angle_deg": 8.779818225166265,
+      "forward_barrier_mm": 0.3106526069030977,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0007",
+      "angle_deg": 94.31980049923403,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0008",
+      "angle_deg": 65.46723959732074,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0009",
+      "angle_deg": 16.633074436805597,
+      "forward_barrier_mm": 0.3688454795732028,
+      "reverse_barrier_mm": 0.007629144363951568
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0010",
+      "angle_deg": 86.98794173954681,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0011",
+      "angle_deg": 20.256226038549684,
+      "forward_barrier_mm": 0.3698871759837612,
+      "reverse_barrier_mm": 0.056545866099989794
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0012",
+      "angle_deg": 142.46906518283205,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0013",
+      "angle_deg": 37.533058186829514,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 4.065790433993941
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0014",
+      "angle_deg": 47.706845735971186,
+      "forward_barrier_mm": 0.06748181414055487,
+      "reverse_barrier_mm": 4.133352148532406
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0015",
+      "angle_deg": 143.79186079682427,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0016",
+      "angle_deg": 52.46841370004272,
+      "forward_barrier_mm": 0.3688875318967444,
+      "reverse_barrier_mm": 2.4291614408634103
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0017",
+      "angle_deg": 103.03092866458724,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0018",
+      "angle_deg": 136.3559176275022,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0019",
+      "angle_deg": 53.94283208974398,
+      "forward_barrier_mm": 1.2671915418872253,
+      "reverse_barrier_mm": 1.2282876017460786
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0020",
+      "angle_deg": 131.3406899534118,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0021",
+      "angle_deg": 58.74057383283955,
+      "forward_barrier_mm": 1.5667379998369917,
+      "reverse_barrier_mm": 1.2399325419068816
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0022",
+      "angle_deg": 125.13811997561056,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0023",
+      "angle_deg": 61.589310547773415,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0024",
+      "angle_deg": 122.15068460808513,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0025",
+      "angle_deg": 118.60384731856264,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0026",
+      "angle_deg": 66.33031413682829,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0027",
+      "angle_deg": 114.34998954997604,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0028",
+      "angle_deg": 70.3211500578775,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0029",
+      "angle_deg": 111.68169514154292,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0030",
+      "angle_deg": 90.24693826603661,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0031",
+      "angle_deg": 150.6853791229343,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0004",
+      "target": "Dk1i_0032",
+      "angle_deg": 127.53244359624925,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0006",
+      "angle_deg": 66.41990092984574,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0007",
+      "angle_deg": 65.31065822233883,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0008",
+      "angle_deg": 10.685324684248618,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.36851477936327015
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0009",
+      "angle_deg": 61.887957810598486,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0010",
+      "angle_deg": 61.18649083959776,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0011",
+      "angle_deg": 60.00118274475199,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0012",
+      "angle_deg": 100.78742914491232,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0013",
+      "angle_deg": 100.80805781610384,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0014",
+      "angle_deg": 96.29758545437285,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0015",
+      "angle_deg": 91.96042967319647,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0016",
+      "angle_deg": 51.31767853406692,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 3.9889544942777153
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0017",
+      "angle_deg": 75.39539271124491,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0018",
+      "angle_deg": 103.46624202822251,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0019",
+      "angle_deg": 97.71707009433061,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0020",
+      "angle_deg": 102.6382866307851,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0021",
+      "angle_deg": 94.94251511736826,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0022",
+      "angle_deg": 99.8517816070053,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0023",
+      "angle_deg": 93.71393093361382,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0024",
+      "angle_deg": 98.61099269372345,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0025",
+      "angle_deg": 97.22541040824058,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0026",
+      "angle_deg": 92.15191622563303,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0027",
+      "angle_deg": 95.69833211710491,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0028",
+      "angle_deg": 91.21072412656667,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0029",
+      "angle_deg": 94.82053463743202,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0030",
+      "angle_deg": 90.32877889251648,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0031",
+      "angle_deg": 159.15622693866058,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0005",
+      "target": "Dk1i_0032",
+      "angle_deg": 179.99941995252584,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0007",
+      "angle_deg": 85.53998235853791,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0008",
+      "angle_deg": 58.97594564183102,
+      "forward_barrier_mm": 2.727560346057791,
+      "reverse_barrier_mm": 1.47804700489948
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0009",
+      "angle_deg": 7.853256295841179,
+      "forward_barrier_mm": 0.05819586988879699,
+      "reverse_barrier_mm": 0.007631564844523098
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0010",
+      "angle_deg": 78.20812355981977,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0011",
+      "angle_deg": 11.47640837230856,
+      "forward_barrier_mm": 0.058864448331179986,
+      "reverse_barrier_mm": 0.056175759122435664
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0012",
+      "angle_deg": 133.68924761314494,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0013",
+      "angle_deg": 46.31287635355023,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 4.376442745833705
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0014",
+      "angle_deg": 54.72588217180597,
+      "forward_barrier_mm": 0.21835613652178587,
+      "reverse_barrier_mm": 4.594878575156772
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0015",
+      "angle_deg": 135.35254630540456,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0016",
+      "angle_deg": 43.688595534143566,
+      "forward_barrier_mm": 0.058246051412249145,
+      "reverse_barrier_mm": 2.429172409047366
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0017",
+      "angle_deg": 95.02202518073372,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0018",
+      "angle_deg": 128.4103563272593,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0019",
+      "angle_deg": 58.54383048388007,
+      "forward_barrier_mm": 1.2529573256069408,
+      "reverse_barrier_mm": 1.5247054385283398
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0020",
+      "angle_deg": 127.72100953424437,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0021",
+      "angle_deg": 62.56394298882139,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0022",
+      "angle_deg": 124.40722510049962,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0023",
+      "angle_deg": 65.02093606511535,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0024",
+      "angle_deg": 121.53181202765654,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0025",
+      "angle_deg": 118.12273016511965,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0026",
+      "angle_deg": 69.19279900275414,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0027",
+      "angle_deg": 114.04191720747782,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0028",
+      "angle_deg": 72.7671333260928,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0029",
+      "angle_deg": 111.48716831252285,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0030",
+      "angle_deg": 91.1524332643957,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0031",
+      "angle_deg": 159.46519729536212,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0006",
+      "target": "Dk1i_0032",
+      "angle_deg": 136.31226175346384,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0008",
+      "angle_deg": 57.68880851238229,
+      "forward_barrier_mm": 2.28126918610406,
+      "reverse_barrier_mm": 1.0635094935832292
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0009",
+      "angle_deg": 77.68672607700235,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0010",
+      "angle_deg": 7.331859596052695,
+      "forward_barrier_mm": 0.026622148421584058,
+      "reverse_barrier_mm": 0.02031394152636601
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0011",
+      "angle_deg": 74.06357546668204,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0012",
+      "angle_deg": 48.14928868599653,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 4.405375031889697
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0013",
+      "angle_deg": 131.85285867045286,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0014",
+      "angle_deg": 133.59074677350415,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0015",
+      "angle_deg": 56.253613292329874,
+      "forward_barrier_mm": 0.266407049448782,
+      "reverse_barrier_mm": 4.6746010685900465
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0016",
+      "angle_deg": 41.8513868599605,
+      "forward_barrier_mm": 0.027011213530208522,
+      "reverse_barrier_mm": 2.429691235923821
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0017",
+      "angle_deg": 36.48625920452628,
+      "forward_barrier_mm": 1.6666270218674075,
+      "reverse_barrier_mm": 0.08255654712772653
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0018",
+      "angle_deg": 58.902063920718106,
+      "forward_barrier_mm": 1.220543679224102,
+      "reverse_barrier_mm": 1.6228976997845077
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0019",
+      "angle_deg": 126.54542362640272,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0020",
+      "angle_deg": 61.49762784607141,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0021",
+      "angle_deg": 125.78669539232946,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0022",
+      "angle_deg": 64.7945000108635,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0023",
+      "angle_deg": 122.58091233688921,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0024",
+      "angle_deg": 66.57184213240966,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0025",
+      "angle_deg": 68.82324272358669,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0026",
+      "angle_deg": 116.53052828074446,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0027",
+      "angle_deg": 71.71397093051068,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0028",
+      "angle_deg": 111.81922569991725,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0029",
+      "angle_deg": 73.62739323334412,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0030",
+      "angle_deg": 91.42657951558843,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0031",
+      "angle_deg": 114.99482047830568,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0007",
+      "target": "Dk1i_0032",
+      "angle_deg": 138.1477559421794,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0009",
+      "angle_deg": 53.67038478500434,
+      "forward_barrier_mm": 1.089288474870017,
+      "reverse_barrier_mm": 2.2882378897727538
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0010",
+      "angle_deg": 52.83817787990234,
+      "forward_barrier_mm": 0.7573316446748706,
+      "reverse_barrier_mm": 1.9687831303004906
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0011",
+      "angle_deg": 51.42226411768023,
+      "forward_barrier_mm": 0.9009616937630689,
+      "reverse_barrier_mm": 2.1477858841292186
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0012",
+      "angle_deg": 96.90822642591222,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0013",
+      "angle_deg": 96.92461811320554,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0014",
+      "angle_deg": 100.04378911963771,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0015",
+      "angle_deg": 90.49205825422513,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0016",
+      "angle_deg": 40.632353863884184,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 3.620439714914445
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0017",
+      "angle_deg": 77.62595181706284,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0018",
+      "angle_deg": 99.15709616521004,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0019",
+      "angle_deg": 94.43929240928058,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0020",
+      "angle_deg": 101.70431593482004,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0021",
+      "angle_deg": 92.36724236870994,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0022",
+      "angle_deg": 104.2784005315685,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0023",
+      "angle_deg": 91.52895396423091,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0024",
+      "angle_deg": 102.82373409655598,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0025",
+      "angle_deg": 101.17121808349113,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0026",
+      "angle_deg": 90.59132374953185,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0027",
+      "angle_deg": 99.30491390195795,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0028",
+      "angle_deg": 90.15863559515684,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0029",
+      "angle_deg": 98.20359626371979,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0030",
+      "angle_deg": 91.62183323069112,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0031",
+      "angle_deg": 158.30491945825628,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0008",
+      "target": "Dk1i_0032",
+      "angle_deg": 179.9995109969411,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0010",
+      "angle_deg": 70.35486730914282,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0011",
+      "angle_deg": 3.623154951082586,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.04787477546341279
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0012",
+      "angle_deg": 125.83599264920046,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0013",
+      "angle_deg": 54.16613261100156,
+      "forward_barrier_mm": 0.0076220333832281995,
+      "reverse_barrier_mm": 4.434628580012841
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0014",
+      "angle_deg": 61.36300056982977,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0015",
+      "angle_deg": 127.82248934204497,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0016",
+      "angle_deg": 35.83533927145455,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.4214903000117136
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0017",
+      "angle_deg": 87.95115025804427,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0018",
+      "angle_deg": 121.35473250629768,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0019",
+      "angle_deg": 63.350301569940676,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0020",
+      "angle_deg": 120.84811205149332,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0021",
+      "angle_deg": 66.7062241969098,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0022",
+      "angle_deg": 120.53888630779898,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0023",
+      "angle_deg": 68.81544893334326,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0024",
+      "angle_deg": 120.47637063953346,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0025",
+      "angle_deg": 118.03463126396927,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0026",
+      "angle_deg": 72.4667374019059,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0027",
+      "angle_deg": 114.13710937306352,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0028",
+      "angle_deg": 75.64901225964614,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0029",
+      "angle_deg": 111.70228216771899,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0030",
+      "angle_deg": 92.51119269302797,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0031",
+      "angle_deg": 167.318453545421,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0009",
+      "target": "Dk1i_0032",
+      "angle_deg": 144.16551801764172,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0011",
+      "angle_deg": 66.73171679347813,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0012",
+      "angle_deg": 55.48113991433211,
+      "forward_barrier_mm": 0.020611166771493217,
+      "reverse_barrier_mm": 4.432294517515453
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0013",
+      "angle_deg": 124.52099991302369,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0014",
+      "angle_deg": 126.56406681195237,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0015",
+      "angle_deg": 62.49893577803533,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0016",
+      "angle_deg": 34.51952804497191,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.4089882946349874
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0017",
+      "angle_deg": 37.918364591728796,
+      "forward_barrier_mm": 1.718508759889085,
+      "reverse_barrier_mm": 0.14074632805822418
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0018",
+      "angle_deg": 63.62303702679584,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0019",
+      "angle_deg": 120.01555445344162,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0020",
+      "angle_deg": 65.77357565237438,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0021",
+      "angle_deg": 119.50944991297649,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0022",
+      "angle_deg": 68.58997491600654,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0023",
+      "angle_deg": 119.40260964928325,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0024",
+      "angle_deg": 70.13624329357904,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0025",
+      "angle_deg": 72.11632099355263,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0026",
+      "angle_deg": 116.5734364740521,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0027",
+      "angle_deg": 74.6881651601311,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0028",
+      "angle_deg": 112.0724104957243,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0029",
+      "angle_deg": 76.4060339956039,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0030",
+      "angle_deg": 92.78757036548521,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0031",
+      "angle_deg": 122.32667915193385,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0010",
+      "target": "Dk1i_0032",
+      "angle_deg": 145.47961469601734,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0012",
+      "angle_deg": 122.2128430050978,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0013",
+      "angle_deg": 57.78928357044105,
+      "forward_barrier_mm": 0.05688592893073796,
+      "reverse_barrier_mm": 4.436017363973193
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0014",
+      "angle_deg": 64.51183071277109,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0015",
+      "angle_deg": 124.35574147681533,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0016",
+      "angle_deg": 32.21218906405122,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.3736150468438613
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0017",
+      "angle_deg": 84.72771079884602,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0018",
+      "angle_deg": 118.121271610471,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0019",
+      "angle_deg": 65.74961076563687,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0020",
+      "angle_deg": 117.70373234311766,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0021",
+      "angle_deg": 68.81471066328287,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0022",
+      "angle_deg": 117.50410622780774,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0023",
+      "angle_deg": 70.76798316208854,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0024",
+      "angle_deg": 117.50012602762267,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0025",
+      "angle_deg": 117.5710372710962,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0026",
+      "angle_deg": 74.18126206627635,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0027",
+      "angle_deg": 114.30002593952149,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0028",
+      "angle_deg": 77.18081535409983,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0029",
+      "angle_deg": 111.9260344773406,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0030",
+      "angle_deg": 93.30792329381595,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0031",
+      "angle_deg": 170.94160421163596,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0011",
+      "target": "Dk1i_0032",
+      "angle_deg": 147.7886687295416,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0013",
+      "angle_deg": 179.99788055594288,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0014",
+      "angle_deg": 179.99868341761302,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0015",
+      "angle_deg": 29.94773887385832,
+      "forward_barrier_mm": 0.39070699730128133,
+      "reverse_barrier_mm": 0.39352598455285737
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0016",
+      "angle_deg": 90.0006587282588,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0017",
+      "angle_deg": 56.65689372284205,
+      "forward_barrier_mm": 6.1057714552870905,
+      "reverse_barrier_mm": 0.11632594865772106
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0018",
+      "angle_deg": 46.803026613376815,
+      "forward_barrier_mm": 4.058732502607949,
+      "reverse_barrier_mm": 0.05571149127865915
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0019",
+      "angle_deg": 143.02439063233842,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0020",
+      "angle_deg": 51.91656819920763,
+      "forward_barrier_mm": 4.428637843485291,
+      "reverse_barrier_mm": 0.14402419214003181
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0021",
+      "angle_deg": 134.51349948751994,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0022",
+      "angle_deg": 57.62497453697258,
+      "forward_barrier_mm": 4.739617478396367,
+      "reverse_barrier_mm": 0.3166450532235441
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0023",
+      "angle_deg": 130.0555515544415,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0024",
+      "angle_deg": 60.47358408665989,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0025",
+      "angle_deg": 63.92412587699861,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0026",
+      "angle_deg": 123.21590924509312,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0027",
+      "angle_deg": 68.15398562700298,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0028",
+      "angle_deg": 117.84201949977704,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0029",
+      "angle_deg": 70.85594136065349,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0030",
+      "angle_deg": 93.82914763410945,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0031",
+      "angle_deg": 66.84557542262995,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0012",
+      "target": "Dk1i_0032",
+      "angle_deg": 89.99850672712607,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0014",
+      "angle_deg": 29.997444269245957,
+      "forward_barrier_mm": 0.3933306063107196,
+      "reverse_barrier_mm": 0.39341050670863176
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0015",
+      "angle_deg": 179.99894530722506,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0016",
+      "angle_deg": 90.00147188107346,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0017",
+      "angle_deg": 129.2090897087796,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0018",
+      "angle_deg": 144.89361164782608,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0019",
+      "angle_deg": 48.32053459189223,
+      "forward_barrier_mm": 4.180959095934403,
+      "reverse_barrier_mm": 0.07626472179932087
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0020",
+      "angle_deg": 138.62526713758143,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0021",
+      "angle_deg": 55.44691888940391,
+      "forward_barrier_mm": 4.633276228490772,
+      "reverse_barrier_mm": 0.24068033656671872
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0022",
+      "angle_deg": 131.99471187006043,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0023",
+      "angle_deg": 59.360157051515706,
+      "forward_barrier_mm": 4.82109049830688,
+      "reverse_barrier_mm": 0.38650047011970834
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0024",
+      "angle_deg": 128.7893452899073,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0025",
+      "angle_deg": 124.9742267790245,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0026",
+      "angle_deg": 65.5485630781076,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0027",
+      "angle_deg": 120.38219639635989,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0028",
+      "angle_deg": 70.53775380477606,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0029",
+      "angle_deg": 117.49085200771779,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0030",
+      "angle_deg": 93.84060688641573,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0031",
+      "angle_deg": 113.15232094428558,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0013",
+      "target": "Dk1i_0032",
+      "angle_deg": 89.9993854095384,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0015",
+      "angle_deg": 179.9992178776356,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0016",
+      "angle_deg": 93.84104910386137,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0017",
+      "angle_deg": 130.25261201843273,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0018",
+      "angle_deg": 143.61228839735023,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0019",
+      "angle_deg": 38.32576888117877,
+      "forward_barrier_mm": 4.1047739103936145,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0020",
+      "angle_deg": 137.09465373152742,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0021",
+      "angle_deg": 47.181015969430035,
+      "forward_barrier_mm": 4.392675417778813,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0022",
+      "angle_deg": 130.18843612274102,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0023",
+      "angle_deg": 51.82825950569819,
+      "forward_barrier_mm": 4.434669547632097,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0024",
+      "angle_deg": 126.84393429830848,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0025",
+      "angle_deg": 122.85831920413753,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0026",
+      "angle_deg": 58.973424589864806,
+      "forward_barrier_mm": 4.434730909830735,
+      "reverse_barrier_mm": 0.08320029675036444
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0027",
+      "angle_deg": 118.05256537648317,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0028",
+      "angle_deg": 64.60263829528344,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0029",
+      "angle_deg": 115.0212340665535,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0030",
+      "angle_deg": 89.9997639116286,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0031",
+      "angle_deg": 115.7110840994453,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0014",
+      "target": "Dk1i_0032",
+      "angle_deg": 93.84066303946531,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0016",
+      "angle_deg": 93.84001150741292,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0017",
+      "angle_deg": 56.574187130630726,
+      "forward_barrier_mm": 6.098377416178163,
+      "reverse_barrier_mm": 0.10611292229721414
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0018",
+      "angle_deg": 36.38849374287134,
+      "forward_barrier_mm": 4.005839998580859,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0019",
+      "angle_deg": 141.67501327831962,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0020",
+      "angle_deg": 42.90612840264312,
+      "forward_barrier_mm": 4.287432638596826,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0021",
+      "angle_deg": 132.8197661842285,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0022",
+      "angle_deg": 49.81234600256842,
+      "forward_barrier_mm": 4.42579141242439,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0023",
+      "angle_deg": 128.17252262918018,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0024",
+      "angle_deg": 53.156847864004405,
+      "forward_barrier_mm": 4.434803985230763,
+      "reverse_barrier_mm": 0.0020179841498872975
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0025",
+      "angle_deg": 57.14246295597308,
+      "forward_barrier_mm": 4.434762764355698,
+      "reverse_barrier_mm": 0.04482375691876328
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0026",
+      "angle_deg": 121.0273575585235,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0027",
+      "angle_deg": 61.94821674997864,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0028",
+      "angle_deg": 115.39814384434881,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0029",
+      "angle_deg": 64.97954806064989,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0030",
+      "angle_deg": 90.00101823029517,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0031",
+      "angle_deg": 72.54926318811424,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0015",
+      "target": "Dk1i_0032",
+      "angle_deg": 93.84051037293645,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0017",
+      "angle_deg": 57.75254976839833,
+      "forward_barrier_mm": 4.638731149475223,
+      "reverse_barrier_mm": 0.6519804230093662
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0018",
+      "angle_deg": 90.17721528901882,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0019",
+      "angle_deg": 90.30226517381064,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0020",
+      "angle_deg": 90.7227433275966,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0021",
+      "angle_deg": 91.27874016229542,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0022",
+      "angle_deg": 91.69354385661599,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0023",
+      "angle_deg": 92.05425880449134,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0024",
+      "angle_deg": 92.3078305316491,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0025",
+      "angle_deg": 93.15547678371357,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0026",
+      "angle_deg": 93.58793442288523,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0027",
+      "angle_deg": 94.34186629535691,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0028",
+      "angle_deg": 95.07462211217286,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0029",
+      "angle_deg": 95.18014932013095,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0030",
+      "angle_deg": 104.47653410704866,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0031",
+      "angle_deg": 156.8462071839642,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0016",
+      "target": "Dk1i_0032",
+      "angle_deg": 179.9991427136055,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0018",
+      "angle_deg": 35.464040999043064,
+      "forward_barrier_mm": 0.05654834565921263,
+      "reverse_barrier_mm": 2.0429728409592993
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0019",
+      "angle_deg": 100.44941284551642,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0020",
+      "angle_deg": 34.36305944943035,
+      "forward_barrier_mm": 0.038931833290082096,
+      "reverse_barrier_mm": 1.743763688574207
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0021",
+      "angle_deg": 92.3156941485714,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0022",
+      "angle_deg": 34.48483887150446,
+      "forward_barrier_mm": 0.05257797148576415,
+      "reverse_barrier_mm": 1.6190510529423268
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0023",
+      "angle_deg": 88.08901288349576,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0024",
+      "angle_deg": 35.024170182691556,
+      "forward_barrier_mm": 0.07266379290568992,
+      "reverse_barrier_mm": 1.632142285705763
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0025",
+      "angle_deg": 36.049350529903755,
+      "forward_barrier_mm": 0.0970328012371624,
+      "reverse_barrier_mm": 1.6993582876811715
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0026",
+      "angle_deg": 81.66138091256866,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0027",
+      "angle_deg": 37.79332306240696,
+      "forward_barrier_mm": 0.12497480716594112,
+      "reverse_barrier_mm": 1.8527570345880644
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0028",
+      "angle_deg": 76.66960664307184,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0029",
+      "angle_deg": 39.14876084174442,
+      "forward_barrier_mm": 0.14111586943020527,
+      "reverse_barrier_mm": 1.988961652582983
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0030",
+      "angle_deg": 55.444317277704016,
+      "forward_barrier_mm": 0.5063737201906768,
+      "reverse_barrier_mm": 4.493121330346209
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0031",
+      "angle_deg": 114.99460942803363,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0017",
+      "target": "Dk1i_0032",
+      "angle_deg": 128.67511831550993,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0019",
+      "angle_deg": 105.28651954134547,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0020",
+      "angle_deg": 6.51763467019343,
+      "forward_barrier_mm": 0.28159264001596895,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0021",
+      "angle_deg": 96.4312724470039,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0022",
+      "angle_deg": 13.423852369634526,
+      "forward_barrier_mm": 0.41995141384353296,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0023",
+      "angle_deg": 91.78402889628019,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0024",
+      "angle_deg": 16.76835415264787,
+      "forward_barrier_mm": 0.42895693832889137,
+      "reverse_barrier_mm": 0.0020109358288706858
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0025",
+      "angle_deg": 20.75396923760168,
+      "forward_barrier_mm": 0.4289036820346208,
+      "reverse_barrier_mm": 0.04480467317854142
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0026",
+      "angle_deg": 84.63886382099982,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0027",
+      "angle_deg": 25.559723028019782,
+      "forward_barrier_mm": 0.4288112983701424,
+      "reverse_barrier_mm": 0.17016903049217724
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0028",
+      "angle_deg": 79.00965011602504,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0029",
+      "angle_deg": 28.59105434641533,
+      "forward_barrier_mm": 0.42880994667235584,
+      "reverse_barrier_mm": 0.2902312345250433
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0030",
+      "angle_deg": 53.612524498133936,
+      "forward_barrier_mm": 0.42876512757967156,
+      "reverse_barrier_mm": 2.4290882424351086
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0031",
+      "angle_deg": 87.66426549925751,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0018",
+      "target": "Dk1i_0032",
+      "angle_deg": 101.73449159125757,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0020",
+      "angle_deg": 98.76888487906858,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0021",
+      "angle_deg": 8.855247094406984,
+      "forward_barrier_mm": 0.28790151778897055,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0022",
+      "angle_deg": 91.86266729593142,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0023",
+      "angle_deg": 13.502490658384646,
+      "forward_barrier_mm": 0.3298956540520894,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0024",
+      "angle_deg": 88.51816544759437,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0025",
+      "angle_deg": 84.53255035403036,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0026",
+      "angle_deg": 20.64765572051904,
+      "forward_barrier_mm": 0.32993356549316033,
+      "reverse_barrier_mm": 0.08317683497054595
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0027",
+      "angle_deg": 79.72679653359596,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0028",
+      "angle_deg": 26.276869483586037,
+      "forward_barrier_mm": 0.3299873487313665,
+      "reverse_barrier_mm": 0.273637752320786
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0029",
+      "angle_deg": 76.69546523026547,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0030",
+      "angle_deg": 51.67399506730699,
+      "forward_barrier_mm": 0.3299434197727287,
+      "reverse_barrier_mm": 2.429118180841879
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0031",
+      "angle_deg": 111.66302235678337,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0019",
+      "target": "Dk1i_0032",
+      "angle_deg": 100.94916915250089,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0021",
+      "angle_deg": 89.9136377847037,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0022",
+      "angle_deg": 6.906217762954966,
+      "forward_barrier_mm": 0.13835878752051833,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0023",
+      "angle_deg": 85.26639423244964,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0024",
+      "angle_deg": 10.250719504617477,
+      "forward_barrier_mm": 0.147351058248395,
+      "reverse_barrier_mm": 0.0019974331063075113
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0025",
+      "angle_deg": 14.236334580325956,
+      "forward_barrier_mm": 0.14727410518865014,
+      "reverse_barrier_mm": 0.04476746502817264
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0026",
+      "angle_deg": 78.12122915863625,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0027",
+      "angle_deg": 19.042088358932524,
+      "forward_barrier_mm": 0.14721654765002334,
+      "reverse_barrier_mm": 0.17016719115166623
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0028",
+      "angle_deg": 72.49201544866315,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0029",
+      "angle_deg": 22.07341967645883,
+      "forward_barrier_mm": 0.1472186211955968,
+      "reverse_barrier_mm": 0.2902328134406069
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0030",
+      "angle_deg": 47.09488983145837,
+      "forward_barrier_mm": 0.14718346176045216,
+      "reverse_barrier_mm": 2.4290992495812915
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0031",
+      "angle_deg": 91.43521368957278,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0020",
+      "target": "Dk1i_0032",
+      "angle_deg": 99.18414707030782,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0022",
+      "angle_deg": 83.00742020373782,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0023",
+      "angle_deg": 4.647243586765933,
+      "forward_barrier_mm": 0.0419941362631171,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0024",
+      "angle_deg": 79.66291835397085,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0025",
+      "angle_deg": 75.67730326050604,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0026",
+      "angle_deg": 11.792408626113254,
+      "forward_barrier_mm": 0.042031987395819925,
+      "reverse_barrier_mm": 0.08317677466217788
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0027",
+      "angle_deg": 70.87154943979539,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0028",
+      "angle_deg": 17.42162241050099,
+      "forward_barrier_mm": 0.04206069560757619,
+      "reverse_barrier_mm": 0.2736126169859663
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0029",
+      "angle_deg": 67.84021813708296,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0030",
+      "angle_deg": 42.818747974985506,
+      "forward_barrier_mm": 0.04203694540798253,
+      "reverse_barrier_mm": 2.4291132242661053
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0031",
+      "angle_deg": 107.24290715738738,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0021",
+      "target": "Dk1i_0032",
+      "angle_deg": 97.65751707111356,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0023",
+      "angle_deg": 78.36017664105728,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0024",
+      "angle_deg": 3.344502653496823,
+      "forward_barrier_mm": 0.008924126781465702,
+      "reverse_barrier_mm": 0.0019301269501124096
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0025",
+      "angle_deg": 7.330117298585555,
+      "forward_barrier_mm": 0.008919786392183937,
+      "reverse_barrier_mm": 0.044772803858272425
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0026",
+      "angle_deg": 71.21501158105706,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0027",
+      "angle_deg": 12.135870798025703,
+      "forward_barrier_mm": 0.008986943439481365,
+      "reverse_barrier_mm": 0.1702967844158092
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0028",
+      "angle_deg": 65.58579786046765,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0029",
+      "angle_deg": 15.167202094937185,
+      "forward_barrier_mm": 0.008991709121229263,
+      "reverse_barrier_mm": 0.2903651236517639
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0030",
+      "angle_deg": 40.18867226633411,
+      "forward_barrier_mm": 0.008997855959796297,
+      "reverse_barrier_mm": 2.4292728289432812
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0031",
+      "angle_deg": 91.26062898639182,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0022",
+      "target": "Dk1i_0032",
+      "angle_deg": 96.78041830586794,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0024",
+      "angle_deg": 75.01567480563624,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0025",
+      "angle_deg": 71.03005971207358,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0026",
+      "angle_deg": 7.145165095917606,
+      "forward_barrier_mm": 0.00010421808625160622,
+      "reverse_barrier_mm": 0.0832431416157231
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0027",
+      "angle_deg": 66.22430588296868,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0028",
+      "angle_deg": 12.774378859001732,
+      "forward_barrier_mm": 0.0001077444149455431,
+      "reverse_barrier_mm": 0.2736538020564492
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0029",
+      "angle_deg": 63.19297457833077,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0030",
+      "angle_deg": 38.171504423355636,
+      "forward_barrier_mm": 0.0001067155761731442,
+      "reverse_barrier_mm": 2.4291771306974095
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0031",
+      "angle_deg": 105.07608796713957,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0023",
+      "target": "Dk1i_0032",
+      "angle_deg": 96.13846445636646,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0025",
+      "angle_deg": 3.985615094266985,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.04284701729744533
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0026",
+      "angle_deg": 67.87050972917315,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0027",
+      "angle_deg": 8.791369007123437,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.16830384080767757
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0028",
+      "angle_deg": 62.24129600449148,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0029",
+      "angle_deg": 11.822700293491463,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.2883674143618933
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0030",
+      "angle_deg": 36.84417038677009,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.427268972814838
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0031",
+      "angle_deg": 90.81526845939666,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0024",
+      "target": "Dk1i_0032",
+      "angle_deg": 95.73084959637644,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0025",
+      "target": "Dk1i_0026",
+      "angle_deg": 63.88489463589245,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0025",
+      "target": "Dk1i_0027",
+      "angle_deg": 4.805753987579943,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.12545682351023046
+    },
+    {
+      "source": "Dk1i_0025",
+      "target": "Dk1i_0028",
+      "angle_deg": 58.25568091027553,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.22889754781905935
+    },
+    {
+      "source": "Dk1i_0025",
+      "target": "Dk1i_0029",
+      "angle_deg": 7.83708523265864,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.2455203970644444
+    },
+    {
+      "source": "Dk1i_0025",
+      "target": "Dk1i_0030",
+      "angle_deg": 32.858555292646294,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.384421955517393
+    },
+    {
+      "source": "Dk1i_0025",
+      "target": "Dk1i_0031",
+      "angle_deg": 90.41127837802372,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0025",
+      "target": "Dk1i_0032",
+      "angle_deg": 94.58768768596384,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0026",
+      "target": "Dk1i_0027",
+      "angle_deg": 59.079140814617965,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.08696634727256658
+    },
+    {
+      "source": "Dk1i_0026",
+      "target": "Dk1i_0028",
+      "angle_deg": 5.629213914422921,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.19040713411203214
+    },
+    {
+      "source": "Dk1i_0026",
+      "target": "Dk1i_0029",
+      "angle_deg": 56.047809512964086,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.20702989601593735
+    },
+    {
+      "source": "Dk1i_0026",
+      "target": "Dk1i_0030",
+      "angle_deg": 31.026339353284133,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.3459314915917684
+    },
+    {
+      "source": "Dk1i_0026",
+      "target": "Dk1i_0031",
+      "angle_deg": 101.9697558921977,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0026",
+      "target": "Dk1i_0032",
+      "angle_deg": 94.10239729646014,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0027",
+      "target": "Dk1i_0028",
+      "angle_deg": 53.449927095732306,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.10344072430882711
+    },
+    {
+      "source": "Dk1i_0027",
+      "target": "Dk1i_0029",
+      "angle_deg": 3.031331328602165,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.12006357355421571
+    },
+    {
+      "source": "Dk1i_0027",
+      "target": "Dk1i_0030",
+      "angle_deg": 28.05280148533107,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.2589651320071553
+    },
+    {
+      "source": "Dk1i_0027",
+      "target": "Dk1i_0031",
+      "angle_deg": 90.10714779167613,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0027",
+      "target": "Dk1i_0032",
+      "angle_deg": 93.36826920263218,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0028",
+      "target": "Dk1i_0029",
+      "angle_deg": 50.41859578426728,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 0.01662284924538504
+    },
+    {
+      "source": "Dk1i_0028",
+      "target": "Dk1i_0030",
+      "angle_deg": 25.39712562003092,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.1555244076983353
+    },
+    {
+      "source": "Dk1i_0028",
+      "target": "Dk1i_0031",
+      "angle_deg": 99.73206077850458,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0028",
+      "target": "Dk1i_0032",
+      "angle_deg": 92.77029071146875,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0029",
+      "target": "Dk1i_0030",
+      "angle_deg": 25.021470178150672,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 2.1389015584529467
+    },
+    {
+      "source": "Dk1i_0029",
+      "target": "Dk1i_0031",
+      "angle_deg": 90.0177341492965,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0029",
+      "target": "Dk1i_0032",
+      "angle_deg": 92.69037993572388,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0030",
+      "target": "Dk1i_0031",
+      "angle_deg": 92.30943014268439,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0030",
+      "target": "Dk1i_0032",
+      "angle_deg": 90.00012666068993,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Dk1i_0031",
+      "target": "Dk1i_0032",
+      "angle_deg": 23.15293562286927,
+      "forward_barrier_mm": 0.0,
+      "reverse_barrier_mm": 1.803089526994043
+    }
+  ],
+  "groups": [
+    [
+      "Dk1i_0001",
+      "Dk1i_0002"
+    ],
+    [
+      "Dk1i_0003",
+      "Dk1i_0005",
+      "Dk1i_0008",
+      "Dk1i_0016"
+    ],
+    [
+      "Dk1i_0004",
+      "Dk1i_0006",
+      "Dk1i_0009",
+      "Dk1i_0011"
+    ],
+    [
+      "Dk1i_0007",
+      "Dk1i_0010"
+    ],
+    [
+      "Dk1i_0012",
+      "Dk1i_0015"
+    ],
+    [
+      "Dk1i_0013",
+      "Dk1i_0014"
+    ],
+    [
+      "Dk1i_0017"
+    ],
+    [
+      "Dk1i_0018"
+    ],
+    [
+      "Dk1i_0019"
+    ],
+    [
+      "Dk1i_0020"
+    ],
+    [
+      "Dk1i_0021"
+    ],
+    [
+      "Dk1i_0022"
+    ],
+    [
+      "Dk1i_0023"
+    ],
+    [
+      "Dk1i_0024"
+    ],
+    [
+      "Dk1i_0025"
+    ],
+    [
+      "Dk1i_0026"
+    ],
+    [
+      "Dk1i_0027"
+    ],
+    [
+      "Dk1i_0028"
+    ],
+    [
+      "Dk1i_0029"
+    ],
+    [
+      "Dk1i_0030"
+    ],
+    [
+      "Dk1i_0031",
+      "Dk1i_0032"
+    ]
+  ],
+  "review": [
+    {
+      "members": [
+        "Dk1i_0004",
+        "Dk1i_0006",
+        "Dk1i_0009",
+        "Dk1i_0011"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    },
+    {
+      "members": [
+        "Dk1i_0007",
+        "Dk1i_0010"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    },
+    {
+      "members": [
+        "Dk1i_0017"
+      ],
+      "reason": "ambiguous_destination_or_diameter"
+    },
+    {
+      "members": [
+        "Dk1i_0018",
+        "Dk1i_0019",
+        "Dk1i_0020",
+        "Dk1i_0021",
+        "Dk1i_0022",
+        "Dk1i_0023",
+        "Dk1i_0024",
+        "Dk1i_0025",
+        "Dk1i_0026",
+        "Dk1i_0027",
+        "Dk1i_0028",
+        "Dk1i_0029"
+      ],
+      "reason": "component_diameter_exceeds_guard"
+    }
+  ],
+  "interpretation": "Sampled seated shortest-rotation paths; barriers are geometric estimates, not minimum-action proofs."
+}

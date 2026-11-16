@@ -1,0 +1,349 @@
+{
+  "model": "observed-seated-geodesic-basins-v1",
+  "barrier_mm": 0.5,
+  "max_angle_deg": 60,
+  "sampling_step_deg": 0.1,
+  "paths": [
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0002",
+      "angle_deg": 41.43950747250647,
+      "forward_barrier_mm": 11.639423054632019,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0003",
+      "angle_deg": 89.99999506138822,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0004",
+      "angle_deg": 90.00091126432434,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0005",
+      "angle_deg": 90.00008522793483,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0006",
+      "angle_deg": 97.66691094151126,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0007",
+      "angle_deg": 179.99999409154134,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0008",
+      "angle_deg": 90.00001016817859,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0009",
+      "angle_deg": 179.99966803215403,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0001",
+      "target": "Qf1i_0010",
+      "angle_deg": 98.00605871366217,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0003",
+      "angle_deg": 97.18927095718733,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0004",
+      "angle_deg": 97.19199749034424,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0005",
+      "angle_deg": 97.19027605376496,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0006",
+      "angle_deg": 90.00972853318201,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0007",
+      "angle_deg": 179.99840369994007,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0008",
+      "angle_deg": 97.19223460022798,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0009",
+      "angle_deg": 179.99802825557938,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0002",
+      "target": "Qf1i_0010",
+      "angle_deg": 90.02617572405926,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0003",
+      "target": "Qf1i_0004",
+      "angle_deg": 89.99966181007633,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0003",
+      "target": "Qf1i_0005",
+      "angle_deg": 89.9998431029273,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0003",
+      "target": "Qf1i_0006",
+      "angle_deg": 42.84100972577653,
+      "forward_barrier_mm": 11.689092167552122,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Qf1i_0003",
+      "target": "Qf1i_0007",
+      "angle_deg": 89.9999990303604,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0003",
+      "target": "Qf1i_0008",
+      "angle_deg": 179.99998894056688,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0003",
+      "target": "Qf1i_0009",
+      "angle_deg": 97.93430698066229,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0003",
+      "target": "Qf1i_0010",
+      "angle_deg": 179.99992669882357,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0004",
+      "target": "Qf1i_0005",
+      "angle_deg": 179.99894529113854,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0004",
+      "target": "Qf1i_0006",
+      "angle_deg": 97.66336156682294,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0004",
+      "target": "Qf1i_0007",
+      "angle_deg": 89.99908879021153,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0004",
+      "target": "Qf1i_0008",
+      "angle_deg": 90.00034860942186,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0004",
+      "target": "Qf1i_0009",
+      "angle_deg": 97.9336361985746,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0004",
+      "target": "Qf1i_0010",
+      "angle_deg": 98.00663772503559,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0005",
+      "target": "Qf1i_0006",
+      "angle_deg": 97.66553748405133,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0005",
+      "target": "Qf1i_0007",
+      "angle_deg": 89.99991471869203,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0005",
+      "target": "Qf1i_0008",
+      "angle_deg": 90.00014648615208,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0005",
+      "target": "Qf1i_0009",
+      "angle_deg": 97.93475995531414,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0005",
+      "target": "Qf1i_0010",
+      "angle_deg": 98.0060694299651,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0006",
+      "target": "Qf1i_0007",
+      "angle_deg": 97.66269098984989,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0006",
+      "target": "Qf1i_0008",
+      "angle_deg": 179.99773986175603,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0006",
+      "target": "Qf1i_0009",
+      "angle_deg": 90.05181843826166,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0006",
+      "target": "Qf1i_0010",
+      "angle_deg": 179.99749882661607,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0007",
+      "target": "Qf1i_0008",
+      "angle_deg": 89.99999574028355,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0007",
+      "target": "Qf1i_0009",
+      "angle_deg": 43.621550011870276,
+      "forward_barrier_mm": 11.704414555464119,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Qf1i_0007",
+      "target": "Qf1i_0010",
+      "angle_deg": 98.00592606772813,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0008",
+      "target": "Qf1i_0009",
+      "angle_deg": 97.93497462179901,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Qf1i_0008",
+      "target": "Qf1i_0010",
+      "angle_deg": 43.825940117937975,
+      "forward_barrier_mm": 11.707376594269775,
+      "reverse_barrier_mm": 0.0
+    },
+    {
+      "source": "Qf1i_0009",
+      "target": "Qf1i_0010",
+      "angle_deg": 90.02869350202262,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    }
+  ],
+  "groups": [
+    [
+      "Qf1i_0001",
+      "Qf1i_0002"
+    ],
+    [
+      "Qf1i_0003",
+      "Qf1i_0006"
+    ],
+    [
+      "Qf1i_0004"
+    ],
+    [
+      "Qf1i_0005"
+    ],
+    [
+      "Qf1i_0007",
+      "Qf1i_0009"
+    ],
+    [
+      "Qf1i_0008",
+      "Qf1i_0010"
+    ]
+  ],
+  "review": [],
+  "interpretation": "Sampled seated shortest-rotation paths; barriers are geometric estimates, not minimum-action proofs."
+}

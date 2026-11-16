@@ -2,58 +2,95 @@
 
 [Workpiece index](../README.md#workpieces)
 
-## Historical pose catalogue
+The two catalogues derive from the saved 10,000-drop runs. Moving outcomes are measured at the virtual exit. Stationary outcomes are measured after 10 s with the belt stopped from release.
 
-Group numbers rank the saved pose basins by their combined incidence within each observation phase. Pose 0 is the most frequent individual pose in its observation phase. The membership CSV links the displayed numbers to the saved pose IDs. Groups below 1% remain visible.
+Each condition has its own pose ranks (`P000` first) and group IDs (`G0` first), ordered by descending incidence. The source pose ID appears below its rank and the thumbnail links to the full preview. Incidence uses all trials in the condition. The group totals repeat on each member pose row.
 
-[Group membership CSV](group_memberships.csv) · [Grouping method](../README.md#catalogue-grouping)
+## Moving belt
 
-### Transport poses
+10,000 of 10,000 trials settled. The catalogue contains 24 poses in 24 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-9,979 settled outcomes across 10,000 historical drops on a 500 mm chute. Incidence uses all completed drops as the denominator.
-
-Outcome counts: settled: 9,979, unsettled: 21.
-
-| Pose | Group | Image | Count | Incidence | 95% interval | Share of settled outcomes |
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
 | --- | --- | --- | ---: | ---: | ---: | ---: |
-| Pose 0 | Group 0 | ![Ql4i_0012](images/Ql4i_0012.png) | 1266 | 12.66 % | 12.02–13.33 % | 12.69 % |
-| Pose 1 | Group 1 | ![Ql4i_0019](images/Ql4i_0019.png) | 1208 | 12.08 % | 11.46–12.73 % | 12.11 % |
-| Pose 2 | Group 2 | ![Ql4i_0018](images/Ql4i_0018.png) | 1190 | 11.90 % | 11.28–12.55 % | 11.93 % |
-| Pose 3 | Group 3 | ![Ql4i_0013](images/Ql4i_0013.png) | 1178 | 11.78 % | 11.16–12.43 % | 11.80 % |
-| Pose 4 | Group 4 | ![Ql4i_0003](images/Ql4i_0003.png) | 1110 | 11.10 % | 10.50–11.73 % | 11.12 % |
-| Pose 5 | Group 5 | ![Ql4i_0008](images/Ql4i_0008.png) | 1042 | 10.42 % | 9.84–11.03 % | 10.44 % |
-| Pose 6 | Group 6 | ![Ql4i_0002](images/Ql4i_0002.png) | 1040 | 10.40 % | 9.82–11.01 % | 10.42 % |
-| Pose 7 | Group 7 | ![Ql4i_0006](images/Ql4i_0006.png) | 1001 | 10.01 % | 9.44–10.61 % | 10.03 % |
-| Pose 8 | Group 8 | ![Ql4i_0022](images/Ql4i_0022.png) | 124 | 1.24 % | 1.04–1.48 % | 1.24 % |
-| Pose 9 | Group 9 | ![Ql4i_0017](images/Ql4i_0017.png) | 122 | 1.22 % | 1.02–1.45 % | 1.22 % |
-| Pose 10 | Group 10 | ![Ql4i_0011](images/Ql4i_0011.png) | 114 | 1.14 % | 0.95–1.37 % | 1.14 % |
-| Pose 11 | Group 11 | ![Ql4i_0020](images/Ql4i_0020.png) | 110 | 1.10 % | 0.91–1.32 % | 1.10 % |
-| Pose 12 | Group 12 | ![Ql4i_0014](images/Ql4i_0014.png) | 70 | 0.70 % | 0.55–0.88 % | 0.70 % |
-| Pose 13 | Group 13 | ![Ql4i_0005](images/Ql4i_0005.png) | 66 | 0.66 % | 0.52–0.84 % | 0.66 % |
-| Pose 14 | Group 14 | ![Ql4i_0007](images/Ql4i_0007.png) | 62 | 0.62 % | 0.48–0.79 % | 0.62 % |
-| Pose 15 | Group 15 | ![Ql4i_0009](images/Ql4i_0009.png) | 61 | 0.61 % | 0.48–0.78 % | 0.61 % |
-| Pose 16 | Group 16 | ![Ql4i_0004](images/Ql4i_0004.png) | 50 | 0.50 % | 0.38–0.66 % | 0.50 % |
-| Pose 17 | Group 17 | ![Ql4i_0015](images/Ql4i_0015.png) | 44 | 0.44 % | 0.33–0.59 % | 0.44 % |
-| Pose 18 | Group 18 | ![Ql4i_0001](images/Ql4i_0001.png) | 33 | 0.33 % | 0.24–0.46 % | 0.33 % |
-| Pose 19 | Group 19 | ![Ql4i_0021](images/Ql4i_0021.png) | 27 | 0.27 % | 0.19–0.39 % | 0.27 % |
-| Pose 20 | Group 20 | ![Ql4i_0016](images/Ql4i_0016.png) | 20 | 0.20 % | 0.13–0.31 % | 0.20 % |
-| Pose 21 | Group 21 | ![Ql4i_0023](images/Ql4i_0023.png) | 18 | 0.18 % | 0.11–0.28 % | 0.18 % |
-| Pose 22 | Group 22 | ![Ql4i_0010](images/Ql4i_0010.png) | 14 | 0.14 % | 0.08–0.23 % | 0.14 % |
-| Pose 23 | Group 23 | ![Ql4i_0024](images/Ql4i_0024.png) | 9 | 0.09 % | 0.05–0.17 % | 0.09 % |
+| P000<br><code>Ql4i_0013</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/moving/poses/P000.png) | 1,295 | 12.95% | 1,295 | 12.95% |
+| P001<br><code>Ql4i_0012</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/moving/poses/P001.png) | 1,289 | 12.89% | 1,289 | 12.89% |
+| P002<br><code>Ql4i_0021</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/moving/poses/P002.png) | 1,288 | 12.88% | 1,288 | 12.88% |
+| P003<br><code>Ql4i_0020</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/moving/poses/P003.png) | 1,222 | 12.22% | 1,222 | 12.22% |
+| P004<br><code>Ql4i_0007</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/moving/poses/P004.png) | 1,121 | 11.21% | 1,121 | 11.21% |
+| P005<br><code>Ql4i_0008</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/moving/poses/P005.png) | 1,109 | 11.09% | 1,109 | 11.09% |
+| P006<br><code>Ql4i_0005</code> | G6 | [<img src="catalogue/grouped_10000/moving/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/moving/poses/P006.png) | 1,069 | 10.69% | 1,069 | 10.69% |
+| P007<br><code>Ql4i_0004</code> | G7 | [<img src="catalogue/grouped_10000/moving/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/moving/poses/P007.png) | 1,029 | 10.29% | 1,029 | 10.29% |
+| P008<br><code>Ql4i_0002</code> | G8 | [<img src="catalogue/grouped_10000/moving/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/moving/poses/P008.png) | 64 | 0.64% | 64 | 0.64% |
+| P009<br><code>Ql4i_0011</code> | G9 | [<img src="catalogue/grouped_10000/moving/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/moving/poses/P009.png) | 47 | 0.47% | 47 | 0.47% |
+| P010<br><code>Ql4i_0003</code> | G10 | [<img src="catalogue/grouped_10000/moving/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/moving/poses/P010.png) | 46 | 0.46% | 46 | 0.46% |
+| P011<br><code>Ql4i_0024</code> | G11 | [<img src="catalogue/grouped_10000/moving/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/moving/poses/P011.png) | 45 | 0.45% | 45 | 0.45% |
+| P012<br><code>Ql4i_0023</code> | G12 | [<img src="catalogue/grouped_10000/moving/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/moving/poses/P012.png) | 41 | 0.41% | 41 | 0.41% |
+| P013<br><code>Ql4i_0001</code> | G13 | [<img src="catalogue/grouped_10000/moving/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/moving/poses/P013.png) | 40 | 0.40% | 40 | 0.40% |
+| P014<br><code>Ql4i_0022</code> | G14 | [<img src="catalogue/grouped_10000/moving/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/moving/poses/P014.png) | 39 | 0.39% | 39 | 0.39% |
+| P015<br><code>Ql4i_0014</code> | G15 | [<img src="catalogue/grouped_10000/moving/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/moving/poses/P015.png) | 38 | 0.38% | 38 | 0.38% |
+| P016<br><code>Ql4i_0015</code> | G16 | [<img src="catalogue/grouped_10000/moving/poses/P016.png" width="180" alt="P016">](catalogue/grouped_10000/moving/poses/P016.png) | 38 | 0.38% | 38 | 0.38% |
+| P017<br><code>Ql4i_0016</code> | G17 | [<img src="catalogue/grouped_10000/moving/poses/P017.png" width="180" alt="P017">](catalogue/grouped_10000/moving/poses/P017.png) | 36 | 0.36% | 36 | 0.36% |
+| P018<br><code>Ql4i_0018</code> | G18 | [<img src="catalogue/grouped_10000/moving/poses/P018.png" width="180" alt="P018">](catalogue/grouped_10000/moving/poses/P018.png) | 35 | 0.35% | 35 | 0.35% |
+| P019<br><code>Ql4i_0019</code> | G19 | [<img src="catalogue/grouped_10000/moving/poses/P019.png" width="180" alt="P019">](catalogue/grouped_10000/moving/poses/P019.png) | 28 | 0.28% | 28 | 0.28% |
+| P020<br><code>Ql4i_0017</code> | G20 | [<img src="catalogue/grouped_10000/moving/poses/P020.png" width="180" alt="P020">](catalogue/grouped_10000/moving/poses/P020.png) | 27 | 0.27% | 27 | 0.27% |
+| P021<br><code>Ql4i_0009</code> | G21 | [<img src="catalogue/grouped_10000/moving/poses/P021.png" width="180" alt="P021">](catalogue/grouped_10000/moving/poses/P021.png) | 19 | 0.19% | 19 | 0.19% |
+| P022<br><code>Ql4i_0010</code> | G22 | [<img src="catalogue/grouped_10000/moving/poses/P022.png" width="180" alt="P022">](catalogue/grouped_10000/moving/poses/P022.png) | 19 | 0.19% | 19 | 0.19% |
+| P023<br><code>Ql4i_0006</code> | G23 | [<img src="catalogue/grouped_10000/moving/poses/P023.png" width="180" alt="P023">](catalogue/grouped_10000/moving/poses/P023.png) | 16 | 0.16% | 16 | 0.16% |
 
-[Pose catalogue JSON](poses.json) · [Pose catalogue YAML](poses.yaml) · [Frequencies](frequencies.csv) · [Trial records](trials.csv)
+Outcomes from the archived run: settled 10,000.
 
-Pose orientations use `xyzw` quaternions from the workpiece frame to the chute frame. Recognition uses the recorded symmetry, a 5° tolerance, and a 1° ambiguity margin. The pose registry reserves previously observed IDs for later recognition.
+## Stationary belt
 
-### Historical run files
+9,997 of 10,000 trials settled. The catalogue contains 40 poses in 26 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-- [Configuration](config.json)
-- [Manifest](manifest.json)
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
+| --- | --- | --- | ---: | ---: | ---: | ---: |
+| P000<br><code>Ql4i_0016</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/stationary/poses/P000.png) | 1,306 | 13.06% | 1,306 | 13.06% |
+| P001<br><code>Ql4i_0030</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/stationary/poses/P001.png) | 1,293 | 12.93% | 1,293 | 12.93% |
+| P002<br><code>Ql4i_0031</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/stationary/poses/P002.png) | 1,266 | 12.66% | 1,266 | 12.66% |
+| P003<br><code>Ql4i_0017</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/stationary/poses/P003.png) | 1,228 | 12.28% | 1,228 | 12.28% |
+| P004<br><code>Ql4i_0005</code> | G4 | [<img src="catalogue/grouped_10000/stationary/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/stationary/poses/P004.png) | 1,097 | 10.97% | 1,097 | 10.97% |
+| P005<br><code>Ql4i_0011</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/stationary/poses/P005.png) | 1,087 | 10.87% | 1,087 | 10.87% |
+| P006<br><code>Ql4i_0010</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/stationary/poses/P006.png) | 1,060 | 10.60% | 1,060 | 10.60% |
+| P007<br><code>Ql4i_0004</code> | G7 | [<img src="catalogue/grouped_10000/stationary/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/stationary/poses/P007.png) | 1,049 | 10.49% | 1,049 | 10.49% |
+| P008<br><code>Ql4i_0008</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/stationary/poses/P008.png) | 62 | 0.62% | 64 | 0.64% |
+| P009<br><code>Ql4i_0021</code> | G9 | [<img src="catalogue/grouped_10000/stationary/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/stationary/poses/P009.png) | 62 | 0.62% | 63 | 0.63% |
+| P010<br><code>Ql4i_0007</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/stationary/poses/P010.png) | 53 | 0.53% | 56 | 0.56% |
+| P011<br><code>Ql4i_0001</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/stationary/poses/P011.png) | 42 | 0.42% | 44 | 0.44% |
+| P012<br><code>Ql4i_0018</code> | G12 | [<img src="catalogue/grouped_10000/stationary/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/stationary/poses/P012.png) | 40 | 0.40% | 40 | 0.40% |
+| P013<br><code>Ql4i_0025</code> | G15 | [<img src="catalogue/grouped_10000/stationary/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/stationary/poses/P013.png) | 39 | 0.39% | 39 | 0.39% |
+| P014<br><code>Ql4i_0040</code> | G13 | [<img src="catalogue/grouped_10000/stationary/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/stationary/poses/P014.png) | 39 | 0.39% | 40 | 0.40% |
+| P015<br><code>Ql4i_0024</code> | G14 | [<img src="catalogue/grouped_10000/stationary/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/stationary/poses/P015.png) | 37 | 0.37% | 39 | 0.39% |
+| P016<br><code>Ql4i_0032</code> | G16 | [<img src="catalogue/grouped_10000/stationary/poses/P016.png" width="180" alt="P016">](catalogue/grouped_10000/stationary/poses/P016.png) | 34 | 0.34% | 38 | 0.38% |
+| P017<br><code>Ql4i_0019</code> | G18 | [<img src="catalogue/grouped_10000/stationary/poses/P017.png" width="180" alt="P017">](catalogue/grouped_10000/stationary/poses/P017.png) | 33 | 0.33% | 33 | 0.33% |
+| P018<br><code>Ql4i_0023</code> | G19 | [<img src="catalogue/grouped_10000/stationary/poses/P018.png" width="180" alt="P018">](catalogue/grouped_10000/stationary/poses/P018.png) | 33 | 0.33% | 33 | 0.33% |
+| P019<br><code>Ql4i_0033</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P019.png" width="180" alt="P019">](catalogue/grouped_10000/stationary/poses/P019.png) | 32 | 0.32% | 35 | 0.35% |
+| P020<br><code>Ql4i_0022</code> | G20 | [<img src="catalogue/grouped_10000/stationary/poses/P020.png" width="180" alt="P020">](catalogue/grouped_10000/stationary/poses/P020.png) | 27 | 0.27% | 28 | 0.28% |
+| P021<br><code>Ql4i_0013</code> | G21 | [<img src="catalogue/grouped_10000/stationary/poses/P021.png" width="180" alt="P021">](catalogue/grouped_10000/stationary/poses/P021.png) | 20 | 0.20% | 20 | 0.20% |
+| P022<br><code>Ql4i_0012</code> | G22 | [<img src="catalogue/grouped_10000/stationary/poses/P022.png" width="180" alt="P022">](catalogue/grouped_10000/stationary/poses/P022.png) | 19 | 0.19% | 19 | 0.19% |
+| P023<br><code>Ql4i_0006</code> | G23 | [<img src="catalogue/grouped_10000/stationary/poses/P023.png" width="180" alt="P023">](catalogue/grouped_10000/stationary/poses/P023.png) | 18 | 0.18% | 18 | 0.18% |
+| P024<br><code>Ql4i_0015</code> | G14 | [<img src="catalogue/grouped_10000/stationary/poses/P024.png" width="180" alt="P024">](catalogue/grouped_10000/stationary/poses/P024.png) | 2 | 0.02% | 39 | 0.39% |
+| P025<br><code>Ql4i_0028</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P025.png" width="180" alt="P025">](catalogue/grouped_10000/stationary/poses/P025.png) | 2 | 0.02% | 35 | 0.35% |
+| P026<br><code>Ql4i_0034</code> | G16 | [<img src="catalogue/grouped_10000/stationary/poses/P026.png" width="180" alt="P026">](catalogue/grouped_10000/stationary/poses/P026.png) | 2 | 0.02% | 38 | 0.38% |
+| P027<br><code>Ql4i_0037</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P027.png" width="180" alt="P027">](catalogue/grouped_10000/stationary/poses/P027.png) | 2 | 0.02% | 64 | 0.64% |
+| P028<br><code>Ql4i_0038</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P028.png" width="180" alt="P028">](catalogue/grouped_10000/stationary/poses/P028.png) | 2 | 0.02% | 56 | 0.56% |
+| P029<br><code>Ql4i_0002</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P029.png" width="180" alt="P029">](catalogue/grouped_10000/stationary/poses/P029.png) | 1 | 0.01% | 44 | 0.44% |
+| P030<br><code>Ql4i_0003</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P030.png" width="180" alt="P030">](catalogue/grouped_10000/stationary/poses/P030.png) | 1 | 0.01% | 44 | 0.44% |
+| P031<br><code>Ql4i_0009</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P031.png" width="180" alt="P031">](catalogue/grouped_10000/stationary/poses/P031.png) | 1 | 0.01% | 56 | 0.56% |
+| P032<br><code>Ql4i_0014</code> | G24 | [<img src="catalogue/grouped_10000/stationary/poses/P032.png" width="180" alt="P032">](catalogue/grouped_10000/stationary/poses/P032.png) | 1 | 0.01% | 1 | 0.01% |
+| P033<br><code>Ql4i_0020</code> | G9 | [<img src="catalogue/grouped_10000/stationary/poses/P033.png" width="180" alt="P033">](catalogue/grouped_10000/stationary/poses/P033.png) | 1 | 0.01% | 63 | 0.63% |
+| P034<br><code>Ql4i_0026</code> | G20 | [<img src="catalogue/grouped_10000/stationary/poses/P034.png" width="180" alt="P034">](catalogue/grouped_10000/stationary/poses/P034.png) | 1 | 0.01% | 28 | 0.28% |
+| P035<br><code>Ql4i_0027</code> | G25 | [<img src="catalogue/grouped_10000/stationary/poses/P035.png" width="180" alt="P035">](catalogue/grouped_10000/stationary/poses/P035.png) | 1 | 0.01% | 1 | 0.01% |
+| P036<br><code>Ql4i_0029</code> | G16 | [<img src="catalogue/grouped_10000/stationary/poses/P036.png" width="180" alt="P036">](catalogue/grouped_10000/stationary/poses/P036.png) | 1 | 0.01% | 38 | 0.38% |
+| P037<br><code>Ql4i_0035</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P037.png" width="180" alt="P037">](catalogue/grouped_10000/stationary/poses/P037.png) | 1 | 0.01% | 35 | 0.35% |
+| P038<br><code>Ql4i_0036</code> | G16 | [<img src="catalogue/grouped_10000/stationary/poses/P038.png" width="180" alt="P038">](catalogue/grouped_10000/stationary/poses/P038.png) | 1 | 0.01% | 38 | 0.38% |
+| P039<br><code>Ql4i_0039</code> | G13 | [<img src="catalogue/grouped_10000/stationary/poses/P039.png" width="180" alt="P039">](catalogue/grouped_10000/stationary/poses/P039.png) | 1 | 0.01% | 40 | 0.40% |
 
-<!-- remaining-workpieces-20261110_10000:start -->
-## Additional 10,000-drop runs
+Outcomes from the archived run: settled stationary 9,997, unsettled stationary 3.
 
-10,000 stationary and 10,000 moving-belt drops with the archived reference settings.
+## Data and source runs
 
-[Results and validation](simulations/20261110_10000/README.md).
-<!-- remaining-workpieces-20261110_10000:end -->
+- **Moving belt** · [Catalogue JSON](catalogue/grouped_10000/moving/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/moving/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/moving/files.sha256.json) · [Source run and validation](simulations/20261110_10000/100mm_s/README.md) · [Raw run archive](simulations/20261110_10000/100mm_s/simulation_results.tar.xz)
+- **Stationary belt** · [Catalogue JSON](catalogue/grouped_10000/stationary/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/stationary/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/stationary/files.sha256.json) · [Source run and validation](simulations/20261110_10000/static/README.md) · [Raw run archive](simulations/20261110_10000/static/simulation_results.tar.xz)
+- [Separate 100-drop contact and grouping validation](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/blob/0cc7a4a95c9fd472c379700ffded127e32022233/Ql4i/simulations/20261113_contact_100/README.md)
+- [Earlier catalogue and source records](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/blob/0cc7a4a95c9fd472c379700ffded127e32022233/Ql4i/README.md)

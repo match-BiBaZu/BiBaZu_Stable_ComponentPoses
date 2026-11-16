@@ -2,85 +2,48 @@
 
 [Workpiece index](../README.md#workpieces)
 
-## Geometric pose groups from the 10,000-drop paper runs
+The two catalogues derive from the saved 10,000-drop runs. Moving outcomes are measured at the virtual exit. Stationary outcomes are measured after 10 s with the belt stopped from release.
 
-Every observed simulated group is included. Moving outcomes are taken at the virtual exit. The stationary runs use a stopped belt from release.
+Each condition has its own pose ranks (`P000` first) and group IDs (`G0` first), ordered by descending incidence. The source pose ID appears below its rank and the thumbnail links to the full preview. Incidence uses all trials in the condition. The group totals repeat on each member pose row.
 
-| Belt condition | Observed poses | Geometric groups | Settled drops |
-| --- | ---: | ---: | ---: |
-| [Moving belt at virtual exit](simulations/20261107_10000/100mm_s/README.md) | 6 | 6 | 9,991 / 10,000 |
-| [Stationary belt from release](simulations/20261107_10000/static/README.md) | 10 | 6 | 9,943 / 10,000 |
+## Moving belt
 
-Each condition is grouped independently. Simulation ranks start at zero and follow descending incidence. The paper label aligns groups through the physical reference orientations where a match is available. Incidence is based on all 10,000 drops.
+9,991 of 10,000 trials settled. The catalogue contains 6 poses in 6 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-<details>
-<summary>Moving belt at virtual exit: group incidence and member poses</summary>
-
-| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
-| ---: | :---: | --- | ---: | ---: |
-| 0 | G0 | `Qf1i_0002` | 2,649 | 26.49% |
-| 1 | G1 | `Qf1i_0005` | 2,591 | 25.91% |
-| 2 | G2 | `Qf1i_0006` | 2,498 | 24.98% |
-| 3 | G3 | `Qf1i_0001` | 2,234 | 22.34% |
-| 4 | — | `Qf1i_0003` | 12 | 0.12% |
-| 5 | — | `Qf1i_0004` | 7 | 0.07% |
-
-</details>
-
-<details>
-<summary>Stationary belt from release: group incidence and member poses</summary>
-
-| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
-| ---: | :---: | --- | ---: | ---: |
-| 0 | G0 | `Qf1i_0003`, `Qf1i_0006` | 2,679 | 26.79% |
-| 1 | G1 | `Qf1i_0008`, `Qf1i_0010` | 2,592 | 25.92% |
-| 2 | G2 | `Qf1i_0007`, `Qf1i_0009` | 2,479 | 24.79% |
-| 3 | G3 | `Qf1i_0001`, `Qf1i_0002` | 2,181 | 21.81% |
-| 4 | — | `Qf1i_0004` | 8 | 0.08% |
-| 5 | — | `Qf1i_0005` | 4 | 0.04% |
-
-</details>
-
-## 10,000-drop paper study
-
-The stationary series recorded **9,943** settled outcomes. The moving series recorded **9,991** settled outcomes at the virtual exit. Each series contains 10,000 drops.
-
-[Study overview](simulations/20261107_10000/README.md) · [Stationary results](simulations/20261107_10000/static/README.md) · [Moving results](simulations/20261107_10000/100mm_s/README.md)
-
-## Historical pose catalogue
-
-Group numbers rank the saved pose basins by their combined incidence within each observation phase. Pose 0 is the most frequent individual pose in its observation phase. The membership CSV links the displayed numbers to the saved pose IDs. Groups below 1% remain visible.
-
-[Group membership CSV](group_memberships.csv) · [Grouping method](../README.md#catalogue-grouping)
-
-### Transport poses
-
-9,870 settled outcomes across 10,000 historical drops on a 500 mm chute. Incidence uses all completed drops as the denominator.
-
-Outcome counts: settled: 9,870, unsettled: 130.
-
-| Pose | Group | Image | Count | Incidence | 95% interval | Share of settled outcomes |
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
 | --- | --- | --- | ---: | ---: | ---: | ---: |
-| Pose 0 | Group 0 | ![Qf1i_0005](images/Qf1i_0005.png) | 2546 | 25.46 % | 24.62–26.32 % | 25.80 % |
-| Pose 1 | Group 1 | ![Qf1i_0002](images/Qf1i_0002.png) | 2524 | 25.24 % | 24.40–26.10 % | 25.57 % |
-| Pose 2 | Group 2 | ![Qf1i_0006](images/Qf1i_0006.png) | 2410 | 24.10 % | 23.27–24.95 % | 24.42 % |
-| Pose 3 | Group 3 | ![Qf1i_0001](images/Qf1i_0001.png) | 2311 | 23.11 % | 22.29–23.95 % | 23.41 % |
-| Pose 4 | Group 4 | ![Qf1i_0009](images/Qf1i_0009.png) | 19 | 0.19 % | 0.12–0.30 % | 0.19 % |
-| Pose 5 | Group 5 | ![Qf1i_0013](images/Qf1i_0013.png) | 18 | 0.18 % | 0.11–0.28 % | 0.18 % |
-| Pose 6 | Group 4 | ![Qf1i_0003](images/Qf1i_0003.png) | 11 | 0.11 % | 0.06–0.20 % | 0.11 % |
-| Pose 7 | Group 4 | ![Qf1i_0010](images/Qf1i_0010.png) | 9 | 0.09 % | 0.05–0.17 % | 0.09 % |
-| Pose 8 | Group 5 | ![Qf1i_0014](images/Qf1i_0014.png) | 7 | 0.07 % | 0.03–0.14 % | 0.07 % |
-| Pose 9 | Group 0 | ![Qf1i_0012](images/Qf1i_0012.png) | 6 | 0.06 % | 0.03–0.13 % | 0.06 % |
-| Pose 10 | Group 3 | ![Qf1i_0008](images/Qf1i_0008.png) | 3 | 0.03 % | 0.01–0.09 % | 0.03 % |
-| Pose 11 | Group 4 | ![Qf1i_0011](images/Qf1i_0011.png) | 3 | 0.03 % | 0.01–0.09 % | 0.03 % |
-| Pose 12 | Group 5 | ![Qf1i_0015](images/Qf1i_0015.png) | 3 | 0.03 % | 0.01–0.09 % | 0.03 % |
+| P000<br><code>Qf1i_0002</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/moving/poses/P000.png) | 2,649 | 26.49% | 2,649 | 26.49% |
+| P001<br><code>Qf1i_0005</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/moving/poses/P001.png) | 2,591 | 25.91% | 2,591 | 25.91% |
+| P002<br><code>Qf1i_0006</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/moving/poses/P002.png) | 2,498 | 24.98% | 2,498 | 24.98% |
+| P003<br><code>Qf1i_0001</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/moving/poses/P003.png) | 2,234 | 22.34% | 2,234 | 22.34% |
+| P004<br><code>Qf1i_0003</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/moving/poses/P004.png) | 12 | 0.12% | 12 | 0.12% |
+| P005<br><code>Qf1i_0004</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/moving/poses/P005.png) | 7 | 0.07% | 7 | 0.07% |
 
-[Pose catalogue JSON](poses.json) · [Pose catalogue YAML](poses.yaml) · [Frequencies](frequencies.csv) · [Trial records](trials.csv)
+Outcomes from the archived run: settled 9,991, unsettled 9.
 
-Pose orientations use `xyzw` quaternions from the workpiece frame to the chute frame. Recognition uses the recorded symmetry, a 5° tolerance, and a 1° ambiguity margin. The pose registry reserves previously observed IDs for later recognition.
+## Stationary belt
 
-### Historical run files
+9,943 of 10,000 trials settled. The catalogue contains 10 poses in 6 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-- [Configuration](config.json)
-- [Manifest](manifest.json)
-- [Earlier 1,000-drop comparisons](simulations/README.md)
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
+| --- | --- | --- | ---: | ---: | ---: | ---: |
+| P000<br><code>Qf1i_0003</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/stationary/poses/P000.png) | 2,675 | 26.75% | 2,679 | 26.79% |
+| P001<br><code>Qf1i_0008</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/stationary/poses/P001.png) | 2,591 | 25.91% | 2,592 | 25.92% |
+| P002<br><code>Qf1i_0007</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/stationary/poses/P002.png) | 2,478 | 24.78% | 2,479 | 24.79% |
+| P003<br><code>Qf1i_0001</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/stationary/poses/P003.png) | 2,180 | 21.80% | 2,181 | 21.81% |
+| P004<br><code>Qf1i_0004</code> | G4 | [<img src="catalogue/grouped_10000/stationary/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/stationary/poses/P004.png) | 8 | 0.08% | 8 | 0.08% |
+| P005<br><code>Qf1i_0005</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/stationary/poses/P005.png) | 4 | 0.04% | 4 | 0.04% |
+| P006<br><code>Qf1i_0006</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/stationary/poses/P006.png) | 4 | 0.04% | 2,679 | 26.79% |
+| P007<br><code>Qf1i_0002</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/stationary/poses/P007.png) | 1 | 0.01% | 2,181 | 21.81% |
+| P008<br><code>Qf1i_0009</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/stationary/poses/P008.png) | 1 | 0.01% | 2,479 | 24.79% |
+| P009<br><code>Qf1i_0010</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/stationary/poses/P009.png) | 1 | 0.01% | 2,592 | 25.92% |
+
+Outcomes from the archived run: settled stationary 9,943, unsettled stationary 57.
+
+## Data and source runs
+
+- **Moving belt** · [Catalogue JSON](catalogue/grouped_10000/moving/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/moving/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/moving/files.sha256.json) · [Source run and validation](simulations/20261107_10000/100mm_s/README.md) · [Raw run archive](simulations/20261107_10000/100mm_s/simulation_results.tar.xz)
+- **Stationary belt** · [Catalogue JSON](catalogue/grouped_10000/stationary/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/stationary/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/stationary/files.sha256.json) · [Source run and validation](simulations/20261107_10000/static/README.md) · [Raw run archive](simulations/20261107_10000/static/simulation_results.tar.xz)
+- [Separate 100-drop contact and grouping validation](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/blob/0cc7a4a95c9fd472c379700ffded127e32022233/Qf1i/simulations/20261113_contact_100/README.md)
+- [Group labels aligned to physical references in the paper](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/blob/0cc7a4a95c9fd472c379700ffded127e32022233/Qf1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs)
+- [Earlier catalogue and source records](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/blob/0cc7a4a95c9fd472c379700ffded127e32022233/Qf1i/README.md)

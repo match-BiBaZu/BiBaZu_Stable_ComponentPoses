@@ -1,0 +1,178 @@
+{
+  "model": "observed-seated-geodesic-basins-v1",
+  "barrier_mm": 0.5,
+  "max_angle_deg": 60,
+  "sampling_step_deg": 0.1,
+  "paths": [
+    {
+      "source": "Kl1i_0001",
+      "target": "Kl1i_0002",
+      "angle_deg": 90.00095592467483,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0001",
+      "target": "Kl1i_0003",
+      "angle_deg": 90.00202279073913,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0001",
+      "target": "Kl1i_0004",
+      "angle_deg": 89.99982815053397,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0001",
+      "target": "Kl1i_0005",
+      "angle_deg": 89.99757412656555,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0001",
+      "target": "Kl1i_0006",
+      "angle_deg": 109.70567233868945,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0001",
+      "target": "Kl1i_0007",
+      "angle_deg": 179.9976159650857,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0002",
+      "target": "Kl1i_0003",
+      "angle_deg": 90.00010873100561,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0002",
+      "target": "Kl1i_0004",
+      "angle_deg": 179.99920969516515,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0002",
+      "target": "Kl1i_0005",
+      "angle_deg": 89.99980614800201,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0002",
+      "target": "Kl1i_0006",
+      "angle_deg": 90.00257628386183,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0002",
+      "target": "Kl1i_0007",
+      "angle_deg": 89.99961523281337,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0003",
+      "target": "Kl1i_0004",
+      "angle_deg": 89.99999028708665,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0003",
+      "target": "Kl1i_0005",
+      "angle_deg": 179.99958802878024,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0003",
+      "target": "Kl1i_0006",
+      "angle_deg": 19.703649762915063,
+      "forward_barrier_mm": 1.038657248583835,
+      "reverse_barrier_mm": 0.0320321521555762
+    },
+    {
+      "source": "Kl1i_0003",
+      "target": "Kl1i_0007",
+      "angle_deg": 90.00029181475202,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0004",
+      "target": "Kl1i_0005",
+      "angle_deg": 90.00009483942186,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0004",
+      "target": "Kl1i_0006",
+      "angle_deg": 89.99725258039527,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0004",
+      "target": "Kl1i_0007",
+      "angle_deg": 89.99960068797732,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0005",
+      "target": "Kl1i_0006",
+      "angle_deg": 160.2967533319219,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0005",
+      "target": "Kl1i_0007",
+      "angle_deg": 90.00011126879193,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    },
+    {
+      "source": "Kl1i_0006",
+      "target": "Kl1i_0007",
+      "angle_deg": 70.29664223821007,
+      "forward_barrier_mm": null,
+      "reverse_barrier_mm": null
+    }
+  ],
+  "groups": [
+    [
+      "Kl1i_0001"
+    ],
+    [
+      "Kl1i_0002"
+    ],
+    [
+      "Kl1i_0003",
+      "Kl1i_0006"
+    ],
+    [
+      "Kl1i_0004"
+    ],
+    [
+      "Kl1i_0005"
+    ],
+    [
+      "Kl1i_0007"
+    ]
+  ],
+  "review": [],
+  "interpretation": "Sampled seated shortest-rotation paths; barriers are geometric estimates, not minimum-action proofs."
+}

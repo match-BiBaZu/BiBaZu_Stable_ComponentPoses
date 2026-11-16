@@ -1,0 +1,2975 @@
+{
+  "model": "scoped-rounded-support-families-v3",
+  "catalogue_identity": "Kl2a",
+  "mesh_sha256": "f874e82aea3486c1887ad267db840f2cd2899527241407e5f142bc8bcf70a5fe",
+  "groups": [
+    [
+      "Kl2a_0001",
+      "Kl2a_0002",
+      "Kl2a_0004",
+      "Kl2a_0006",
+      "Kl2a_0007",
+      "Kl2a_0008",
+      "Kl2a_0010",
+      "Kl2a_0011",
+      "Kl2a_0012",
+      "Kl2a_0013",
+      "Kl2a_0015",
+      "Kl2a_0016",
+      "Kl2a_0033",
+      "Kl2a_0042",
+      "Kl2a_0044",
+      "Kl2a_0050",
+      "Kl2a_0055",
+      "Kl2a_0058",
+      "Kl2a_0059",
+      "Kl2a_0065",
+      "Kl2a_0073",
+      "Kl2a_0075",
+      "Kl2a_0078"
+    ],
+    [
+      "Kl2a_0003"
+    ],
+    [
+      "Kl2a_0005"
+    ],
+    [
+      "Kl2a_0009"
+    ],
+    [
+      "Kl2a_0014",
+      "Kl2a_0017",
+      "Kl2a_0020",
+      "Kl2a_0022",
+      "Kl2a_0035",
+      "Kl2a_0037",
+      "Kl2a_0038",
+      "Kl2a_0039",
+      "Kl2a_0045",
+      "Kl2a_0049",
+      "Kl2a_0056",
+      "Kl2a_0064",
+      "Kl2a_0074"
+    ],
+    [
+      "Kl2a_0018",
+      "Kl2a_0019",
+      "Kl2a_0021",
+      "Kl2a_0023",
+      "Kl2a_0024",
+      "Kl2a_0028",
+      "Kl2a_0029",
+      "Kl2a_0032",
+      "Kl2a_0034",
+      "Kl2a_0036",
+      "Kl2a_0040",
+      "Kl2a_0041",
+      "Kl2a_0047",
+      "Kl2a_0051",
+      "Kl2a_0053",
+      "Kl2a_0054",
+      "Kl2a_0057",
+      "Kl2a_0060",
+      "Kl2a_0066",
+      "Kl2a_0067",
+      "Kl2a_0068",
+      "Kl2a_0069",
+      "Kl2a_0070",
+      "Kl2a_0071",
+      "Kl2a_0076",
+      "Kl2a_0077",
+      "Kl2a_0079"
+    ],
+    [
+      "Kl2a_0025",
+      "Kl2a_0062"
+    ],
+    [
+      "Kl2a_0026",
+      "Kl2a_0061"
+    ],
+    [
+      "Kl2a_0027"
+    ],
+    [
+      "Kl2a_0030"
+    ],
+    [
+      "Kl2a_0031",
+      "Kl2a_0052"
+    ],
+    [
+      "Kl2a_0043"
+    ],
+    [
+      "Kl2a_0046"
+    ],
+    [
+      "Kl2a_0048"
+    ],
+    [
+      "Kl2a_0063"
+    ],
+    [
+      "Kl2a_0072"
+    ]
+  ],
+  "review": [
+    {
+      "members": [
+        "Kl2a_0003"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 19.296039496633995
+    },
+    {
+      "members": [
+        "Kl2a_0005"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 11.663227202698428
+    },
+    {
+      "members": [
+        "Kl2a_0009"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 16.85905222054998
+    },
+    {
+      "members": [
+        "Kl2a_0027"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 21.55008784538295
+    },
+    {
+      "members": [
+        "Kl2a_0030"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 19.702264255306353
+    },
+    {
+      "members": [
+        "Kl2a_0043"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 20.980415014811932
+    },
+    {
+      "members": [
+        "Kl2a_0046"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 11.464052078636191
+    },
+    {
+      "members": [
+        "Kl2a_0048"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 11.685735305184032
+    },
+    {
+      "members": [
+        "Kl2a_0063"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 20.599432187084975
+    },
+    {
+      "members": [
+        "Kl2a_0072"
+      ],
+      "reason": "axis_outside_contact_family",
+      "axis_alignment_deg": 18.92818348942051
+    }
+  ],
+  "paths": [],
+  "observed_heights_mm": {
+    "Kl2a_0001": 35.24627991505218,
+    "Kl2a_0002": 35.39158173714963,
+    "Kl2a_0003": 36.165666435162834,
+    "Kl2a_0004": 35.1045739912633,
+    "Kl2a_0005": 36.047861001116075,
+    "Kl2a_0006": 35.528935204524046,
+    "Kl2a_0007": 35.018236516791845,
+    "Kl2a_0008": 35.648530463520835,
+    "Kl2a_0009": 36.73261985828199,
+    "Kl2a_0010": 35.740983519209166,
+    "Kl2a_0011": 35.825439577922175,
+    "Kl2a_0012": 35.7994272623281,
+    "Kl2a_0013": 35.88175192307517,
+    "Kl2a_0014": 16.448065358949595,
+    "Kl2a_0015": 35.81906746264321,
+    "Kl2a_0016": 37.65335067717213,
+    "Kl2a_0017": 14.55012082948488,
+    "Kl2a_0018": 35.26021308226479,
+    "Kl2a_0019": 35.247406186776274,
+    "Kl2a_0020": 16.64705464215332,
+    "Kl2a_0021": 35.3914897540858,
+    "Kl2a_0022": 14.376847691164498,
+    "Kl2a_0023": 35.104223308358854,
+    "Kl2a_0024": 35.5291822386516,
+    "Kl2a_0025": 35.0180405629951,
+    "Kl2a_0026": 14.217917098182788,
+    "Kl2a_0027": 36.57908351771109,
+    "Kl2a_0028": 35.64859793095596,
+    "Kl2a_0029": 35.772917458603104,
+    "Kl2a_0030": 36.30865385477549,
+    "Kl2a_0031": 14.21462004489555,
+    "Kl2a_0032": 35.741186561956994,
+    "Kl2a_0033": 35.79944306769176,
+    "Kl2a_0034": 35.83988486301495,
+    "Kl2a_0035": 14.381509220457339,
+    "Kl2a_0036": 35.801793366867834,
+    "Kl2a_0037": 16.646902112510517,
+    "Kl2a_0038": 14.550246844776646,
+    "Kl2a_0039": 16.428575127256874,
+    "Kl2a_0040": 35.82143948794227,
+    "Kl2a_0041": 37.65360128614792,
+    "Kl2a_0042": 35.74109910389041,
+    "Kl2a_0043": 36.50332096412083,
+    "Kl2a_0044": 35.77335805792959,
+    "Kl2a_0045": 14.687072103055636,
+    "Kl2a_0046": 36.65832503624793,
+    "Kl2a_0047": 35.79954979333965,
+    "Kl2a_0048": 36.64079346521643,
+    "Kl2a_0049": 14.778278531051106,
+    "Kl2a_0050": 35.64864651247173,
+    "Kl2a_0051": 35.74148755251978,
+    "Kl2a_0052": 15.475353144270946,
+    "Kl2a_0053": 35.772367196223954,
+    "Kl2a_0054": 35.756615653459946,
+    "Kl2a_0055": 35.01806049372825,
+    "Kl2a_0056": 14.813394671959703,
+    "Kl2a_0057": 35.6489298856997,
+    "Kl2a_0058": 35.529658354152396,
+    "Kl2a_0059": 35.11447425487078,
+    "Kl2a_0060": 35.66776608347991,
+    "Kl2a_0061": 15.479095889884528,
+    "Kl2a_0062": 35.01818307992665,
+    "Kl2a_0063": 36.58542479494441,
+    "Kl2a_0064": 14.777073856854887,
+    "Kl2a_0065": 35.10424578352021,
+    "Kl2a_0066": 35.09875392536095,
+    "Kl2a_0067": 35.53243784074821,
+    "Kl2a_0068": 35.12053115906603,
+    "Kl2a_0069": 35.10458478524038,
+    "Kl2a_0070": 35.44268940860278,
+    "Kl2a_0071": 35.18417902275826,
+    "Kl2a_0072": 36.81034857755381,
+    "Kl2a_0073": 35.39317574477163,
+    "Kl2a_0074": 14.687193678122428,
+    "Kl2a_0075": 35.258211991468386,
+    "Kl2a_0076": 35.39177365411602,
+    "Kl2a_0077": 35.260247936815595,
+    "Kl2a_0078": 35.24625826457248,
+    "Kl2a_0079": 35.246315712064025
+  },
+  "contact_evidence": {
+    "Kl2a_0001": {
+      "extrusion_axis_chute": [
+        3.645394009629529e-06,
+        5.316446575235124e-07,
+        0.9999999999932144
+      ],
+      "axis_alignment_deg": 0.0002110721165487134,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.08012914442559772,
+            -0.9967844903555328,
+            -5.316446575235124e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 29.649498328594763
+        },
+        {
+          "outward_normal_part": [
+            3.591071978489187e-06,
+            8.220374520822657e-07,
+            -0.9999999999932144
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99984528058545
+        }
+      ]
+    },
+    "Kl2a_0002": {
+      "extrusion_axis_chute": [
+        -1.3076668840591057e-06,
+        3.996576978659002e-07,
+        0.9999999999990653
+      ],
+      "axis_alignment_deg": 7.833809384473193e-05,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.1934967306881657,
+            -0.9811009199938772,
+            -3.996576978659002e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.4024074752966
+        },
+        {
+          "outward_normal_part": [
+            -1.2056207250647695e-06,
+            6.451338019532235e-07,
+            -0.9999999999990653
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00000831711925
+        }
+      ]
+    },
+    "Kl2a_0003": {
+      "extrusion_axis_chute": [
+        -0.3304491512405013,
+        3.2031970379122615e-05,
+        0.9438237957470585
+      ],
+      "axis_alignment_deg": 19.296039496633995,
+      "signature": [
+        "oblique",
+        "Kl2a_0003"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.08001848876230795,
+            -0.9967933790059751,
+            -3.2031970379122615e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 29.655858904391025
+        },
+        {
+          "outward_normal_part": [
+            -0.3293919455544791,
+            -0.02641190613056785,
+            -0.9438237957470585
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 99.41179078699444
+        }
+      ]
+    },
+    "Kl2a_0004": {
+      "extrusion_axis_chute": [
+        2.4033691574051713e-05,
+        8.024599725518002e-06,
+        -0.9999999996789939
+      ],
+      "axis_alignment_deg": 0.001451758174261124,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.34786690365208267,
+            0.9375439281863642,
+            -8.024599725518002e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.888582510949988
+        },
+        {
+          "outward_normal_part": [
+            -1.974114894975997e-05,
+            1.5883940618587655e-05,
+            0.9999999996789939
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99988420078053
+        }
+      ]
+    },
+    "Kl2a_0005": {
+      "extrusion_axis_chute": [
+        0.20215878217346128,
+        -1.4745884443778667e-06,
+        -0.9793527591159217
+      ],
+      "axis_alignment_deg": 11.663227202698428,
+      "signature": [
+        "oblique",
+        "Kl2a_0005"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.3478573724054854,
+            0.9375474646443118,
+            1.4745884443778667e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.889164982894636
+        },
+        {
+          "outward_normal_part": [
+            -0.1895339560382549,
+            0.07032106882379012,
+            0.9793527591159217
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 92.78157070882176
+        }
+      ]
+    },
+    "Kl2a_0006": {
+      "extrusion_axis_chute": [
+        1.1309602544483808e-06,
+        8.249633918126856e-07,
+        0.9999999999990203
+      ],
+      "axis_alignment_deg": 8.020020804234106e-05,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.45309538816088407,
+            -0.8914620402611979,
+            -8.249633918126856e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 61.187942287191774
+        },
+        {
+          "outward_normal_part": [
+            1.3819952441173394e-06,
+            2.229906729217445e-07,
+            -0.9999999999990203
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99994487943323
+        }
+      ]
+    },
+    "Kl2a_0007": {
+      "extrusion_axis_chute": [
+        2.686956085380825e-05,
+        1.3916778365052452e-06,
+        -0.999999999638045
+      ],
+      "axis_alignment_deg": 0.001541575974842176,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.5626776180855678,
+            0.8266764168062467,
+            -1.3916778365052452e-06
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.004308148418721531
+        },
+        {
+          "outward_normal_part": [
+            -2.142936631792129e-05,
+            1.626936774707196e-05,
+            0.999999999638045
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99992037847201
+        }
+      ]
+    },
+    "Kl2a_0008": {
+      "extrusion_axis_chute": [
+        3.7344684053110932e-06,
+        1.7028197817284141e-06,
+        -0.9999999999915772
+      ],
+      "axis_alignment_deg": 0.00023516156323219887,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.6783353577351191,
+            0.7347524361602817,
+            -1.7028197817284141e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 76.95918187482151
+        },
+        {
+          "outward_normal_part": [
+            -3.898992624364685e-06,
+            -1.282070978714584e-06,
+            0.9999999999915772
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.0000649914543
+        }
+      ]
+    },
+    "Kl2a_0009": {
+      "extrusion_axis_chute": [
+        -0.29001830808804724,
+        -3.360148450419487e-05,
+        -0.9570210968649997
+      ],
+      "axis_alignment_deg": 16.85905222054998,
+      "signature": [
+        "oblique",
+        "Kl2a_0009"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.7392555465074336,
+            0.673425003863783,
+            3.360148450419487e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 81.91352145126145
+        },
+        {
+          "outward_normal_part": [
+            0.19532935294953502,
+            0.21437598753505305,
+            0.9570210968649997
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 73.31378302923375
+        }
+      ]
+    },
+    "Kl2a_0010": {
+      "extrusion_axis_chute": [
+        -4.270484166385033e-07,
+        -1.2358200944101144e-08,
+        -0.9999999999999089
+      ],
+      "axis_alignment_deg": 2.4463259583438816e-05,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.8525119972885415,
+            0.522707656801679,
+            1.2358200944101144e-08
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 92.73143165593038
+        },
+        {
+          "outward_normal_part": [
+            2.3375699177172705e-07,
+            3.5760417234962494e-07,
+            0.9999999999999089
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99997552598388
+        }
+      ]
+    },
+    "Kl2a_0011": {
+      "extrusion_axis_chute": [
+        -5.08793077206944e-06,
+        1.6299061575514503e-07,
+        -0.9999999999870431
+      ],
+      "axis_alignment_deg": 0.00029166712221746305,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.8981876880107582,
+            0.439612189441856,
+            -1.6299061575514503e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 98.16634337857009
+        },
+        {
+          "outward_normal_part": [
+            2.0903202221074283e-06,
+            4.641569438373633e-06,
+            0.9999999999870431
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99971276560335
+        }
+      ]
+    },
+    "Kl2a_0012": {
+      "extrusion_axis_chute": [
+        -1.255291291511662e-06,
+        -3.5338148332759045e-07,
+        0.9999999999991496
+      ],
+      "axis_alignment_deg": 7.472348695690836e-05,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.9622626662645117,
+            -0.27212232748046933,
+            3.5338148332759045e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 108.4548905114137
+        },
+        {
+          "outward_normal_part": [
+            -6.81638596267229e-07,
+            1.1117569533772504e-06,
+            -0.9999999999991496
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.9999693220589
+        }
+      ]
+    },
+    "Kl2a_0013": {
+      "extrusion_axis_chute": [
+        -3.907148695814258e-05,
+        -1.4007853627432654e-05,
+        -0.9999999991385995
+      ],
+      "axis_alignment_deg": 0.0023781551896298924,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.9913743712557337,
+            0.13106050442859946,
+            1.4007853627432654e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 116.71460419745375
+        },
+        {
+          "outward_normal_part": [
+            1.9007755863815416e-05,
+            3.689859446360355e-05,
+            0.9999999991385995
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.9976395252104
+        }
+      ]
+    },
+    "Kl2a_0014": {
+      "extrusion_axis_chute": [
+        0.9999999893748106,
+        -9.78505715565417e-05,
+        0.00010805389571910684
+      ],
+      "axis_alignment_deg": 0.008352297800929527,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.07991911427052052,
+            -0.996801347109584,
+            9.78505715565417e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 29.661571347292547
+        },
+        {
+          "outward_normal_part": [
+            0.9968013469074846,
+            0.07991910364725333,
+            -0.00010805389571910684
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 51.17060111663414
+        }
+      ]
+    },
+    "Kl2a_0015": {
+      "extrusion_axis_chute": [
+        -1.1071471613705136e-06,
+        -2.4691061724013676e-06,
+        0.9999999999963389
+      ],
+      "axis_alignment_deg": 0.00015503927625473273,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.9999999999968952,
+            -3.36245563337112e-07,
+            2.4691061724013676e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 124.2454680603883
+        },
+        {
+          "outward_normal_part": [
+            -2.4691065446730357e-06,
+            1.1071463311478301e-06,
+            -0.9999999999963389
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00002717306835
+        }
+      ]
+    },
+    "Kl2a_0016": {
+      "extrusion_axis_chute": [
+        6.822085660171219e-07,
+        6.578516762065279e-07,
+        0.999999999999551
+      ],
+      "axis_alignment_deg": 5.42935599445521e-05,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.9999999999997824,
+            -5.183728002400301e-08,
+            -6.578516762065279e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 55.75450970399221
+        },
+        {
+          "outward_normal_part": [
+            -6.578516408425375e-07,
+            6.822086001185101e-07,
+            -0.999999999999551
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99998889965184
+        }
+      ]
+    },
+    "Kl2a_0017": {
+      "extrusion_axis_chute": [
+        -0.9999999999896858,
+        1.1666756596223626e-07,
+        -4.54037300079424e-06
+      ],
+      "axis_alignment_deg": 0.0002602287508044203,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.07994693301057884,
+            -0.9967991211383508,
+            -1.1666756596223626e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 29.6599718747832
+        },
+        {
+          "outward_normal_part": [
+            -0.9967991211280407,
+            -0.07994693301028336,
+            4.54037300079424e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 119.65997187441587
+        }
+      ]
+    },
+    "Kl2a_0018": {
+      "extrusion_axis_chute": [
+        1.1034456405420445e-05,
+        -0.9999999999381056,
+        -1.4247260774480353e-06
+      ],
+      "axis_alignment_deg": 0.0006374751113716582,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.1124896271058615e-05,
+            -1.604852551961855e-07,
+            0.9999999999381056
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00035109476164
+        },
+        {
+          "outward_normal_part": [
+            0.14234533802799837,
+            -0.9898170561975911,
+            1.4247260774480353e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 26.061903663106225
+        }
+      ]
+    },
+    "Kl2a_0019": {
+      "extrusion_axis_chute": [
+        1.1412985109759965e-07,
+        0.9999999999967721,
+        2.538267577567588e-06
+      ],
+      "axis_alignment_deg": 0.00014557779538953877,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -4.019232562046948e-07,
+            -2.508841488446656e-06,
+            -0.9999999999967721
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99989413369222
+        },
+        {
+          "outward_normal_part": [
+            0.20237876411374944,
+            0.9793073245051058,
+            -2.538267577567588e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 22.56938603578612
+        }
+      ]
+    },
+    "Kl2a_0020": {
+      "extrusion_axis_chute": [
+        -0.9999999904522932,
+        -9.289783538236895e-05,
+        -0.00010230056868908762
+      ],
+      "axis_alignment_deg": 0.007917483529055231,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.193120129872234,
+            0.9811751152613504,
+            9.289783538236895e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.3804112816681
+        },
+        {
+          "outward_normal_part": [
+            0.9811751161962441,
+            0.19312012037040865,
+            0.00010230056868908762
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 44.6195898106322
+        }
+      ]
+    },
+    "Kl2a_0021": {
+      "extrusion_axis_chute": [
+        2.6223917078127545e-07,
+        0.999999999997557,
+        2.1948403047256093e-06
+      ],
+      "axis_alignment_deg": 0.00012664948600742137,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            6.826714576135817e-07,
+            -2.102392215319604e-06,
+            -0.999999999997557
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99987841403254
+        },
+        {
+          "outward_normal_part": [
+            -0.19382053755717304,
+            0.9810370019607982,
+            -2.1948403047256093e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.4213142148388
+        }
+      ]
+    },
+    "Kl2a_0022": {
+      "extrusion_axis_chute": [
+        0.9999999999725359,
+        6.749614398143811e-06,
+        -3.0612044039264596e-06
+      ],
+      "axis_alignment_deg": 0.00042463975318120803,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.3478028227380799,
+            0.9375677023286726,
+            -6.749614398143811e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.892498612795482
+        },
+        {
+          "outward_normal_part": [
+            -0.93756770233845,
+            0.34780282276374475,
+            3.0612044039264596e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 103.89249860626849
+        }
+      ]
+    },
+    "Kl2a_0023": {
+      "extrusion_axis_chute": [
+        7.55148920913995e-06,
+        -0.999999999971225,
+        -7.244512534310132e-07
+      ],
+      "axis_alignment_deg": 0.00043465548411189905,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -7.3319143253369745e-06,
+            -1.9475243824285116e-06,
+            0.999999999971225
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00014416020085
+        },
+        {
+          "outward_normal_part": [
+            0.3478433862332354,
+            -0.9375526538031191,
+            7.244512534310132e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.890023736857799
+        }
+      ]
+    },
+    "Kl2a_0024": {
+      "extrusion_axis_chute": [
+        -2.0698042606792644e-06,
+        0.9999999999856788,
+        4.935430976515942e-06
+      ],
+      "axis_alignment_deg": 0.0003066390778406153,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            3.8991713427471986e-07,
+            -5.337652408121674e-06,
+            -0.9999999999856788
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99973462272247
+        },
+        {
+          "outward_normal_part": [
+            -0.45290298435057774,
+            0.8915598054768856,
+            -4.935430976515942e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 61.17557281842062
+        }
+      ]
+    },
+    "Kl2a_0025": {
+      "extrusion_axis_chute": [
+        3.942342798324283e-07,
+        0.9999999999989481,
+        1.3960228800180552e-06
+      ],
+      "axis_alignment_deg": 8.310599517992619e-05,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "cut"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -4.5961261069260573e-07,
+            -1.3758840056721233e-06,
+            -0.9999999999989481
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99994965360948
+        },
+        {
+          "outward_normal_part": [
+            0.5626812012314559,
+            0.8266739779252624,
+            -1.3960228800180552e-06
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.004059855283095129
+        }
+      ]
+    },
+    "Kl2a_0026": {
+      "extrusion_axis_chute": [
+        -0.9999999933063886,
+        -0.0001157001875762842,
+        -8.303196479819697e-07
+      ],
+      "axis_alignment_deg": 0.006629303157010109,
+      "signature": [
+        "X",
+        "unsigned",
+        "cut",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.5625980802273489,
+            -0.8267305405862106,
+            0.0001157001875762842
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.011851142327726778
+        },
+        {
+          "outward_normal_part": [
+            -0.8267305461735015,
+            -0.5625980839133515,
+            8.303196479819697e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00982365954364
+        }
+      ]
+    },
+    "Kl2a_0027": {
+      "extrusion_axis_chute": [
+        0.3673144555674066,
+        0.930096817927761,
+        -3.4457926928466165e-06
+      ],
+      "axis_alignment_deg": 21.55008784538295,
+      "signature": [
+        "oblique",
+        "Kl2a_0027"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.3440328767772134,
+            -0.12869067167844184,
+            -0.930096817927761
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 72.54353239134304
+        },
+        {
+          "outward_normal_part": [
+            0.3503637591689228,
+            0.9366137070581168,
+            3.4457926928466165e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.735917440518437
+        }
+      ]
+    },
+    "Kl2a_0028": {
+      "extrusion_axis_chute": [
+        2.9516049453115478e-05,
+        -0.9999999995639741,
+        -9.244674782915574e-07
+      ],
+      "axis_alignment_deg": 0.0016919743109884574,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -2.1061393181587285e-05,
+            2.069950561450762e-05,
+            0.9999999995639741
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99969869100535
+        },
+        {
+          "outward_normal_part": [
+            -0.6782820101601933,
+            -0.7348016839203575,
+            9.244674782915574e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 76.95502601380961
+        }
+      ]
+    },
+    "Kl2a_0029": {
+      "extrusion_axis_chute": [
+        1.2524211577380484e-05,
+        -0.9999999999175294,
+        2.8435218028532994e-06
+      ],
+      "axis_alignment_deg": 0.0007358464012791243,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -9.792894474502933e-06,
+            8.309073936951794e-06,
+            0.9999999999175294
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99992220878491
+        },
+        {
+          "outward_normal_part": [
+            -0.7997436390650746,
+            -0.6003416625279862,
+            -2.8435218028532994e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 87.35111598292218
+        }
+      ]
+    },
+    "Kl2a_0030": {
+      "extrusion_axis_chute": [
+        0.3371324638383835,
+        0.9414572225070528,
+        3.945458348586506e-06
+      ],
+      "axis_alignment_deg": 19.702264255306353,
+      "signature": [
+        "oblique",
+        "Kl2a_0030"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.27869047538361297,
+            -0.18971008702691972,
+            -0.9414572225070528
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 71.72060184010584
+        },
+        {
+          "outward_normal_part": [
+            0.562707649885685,
+            0.8266559748435636,
+            -3.945458348586506e-06
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.0022373724436641385
+        }
+      ]
+    },
+    "Kl2a_0031": {
+      "extrusion_axis_chute": [
+        -0.9999999999971078,
+        2.30247996391153e-06,
+        -6.952848879693274e-07
+      ],
+      "axis_alignment_deg": 0.0001378018171733492,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "cut"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.826673030904888,
+            0.5626825925592732,
+            -2.30247996391153e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00396263596
+        },
+        {
+          "outward_normal_part": [
+            0.5626825925593054,
+            0.8266730309077802,
+            6.952848879693274e-07
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.003962836158534952
+        }
+      ]
+    },
+    "Kl2a_0032": {
+      "extrusion_axis_chute": [
+        -1.924938778236074e-05,
+        0.9999999998132106,
+        1.7435613249294768e-06
+      ],
+      "axis_alignment_deg": 0.0011074234085529614,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -8.575161049573232e-06,
+            -1.7321822913973772e-05,
+            -0.9999999998132106
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.9994560783063
+        },
+        {
+          "outward_normal_part": [
+            -0.8525190701152998,
+            0.5226961211705178,
+            -1.7435613249294768e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 92.73220694142881
+        }
+      ]
+    },
+    "Kl2a_0033": {
+      "extrusion_axis_chute": [
+        6.044332411800977e-07,
+        1.1744703327496463e-06,
+        0.9999999999991277
+      ],
+      "axis_alignment_deg": 7.567825713168177e-05,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.9622654968462415,
+            0.27211231794587465,
+            -1.1744703327496463e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 108.4554824779861
+        },
+        {
+          "outward_normal_part": [
+            9.656785479738007e-07,
+            -9.012130977386841e-07,
+            -0.9999999999991277
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99992618016184
+        }
+      ]
+    },
+    "Kl2a_0034": {
+      "extrusion_axis_chute": [
+        4.0655698665625906e-05,
+        -0.9999999991612992,
+        4.951391561980323e-06
+      ],
+      "axis_alignment_deg": 0.0023466112724281965,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -2.1104851194997387e-05,
+            3.509967761139432e-05,
+            0.9999999991612992
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99901806195821
+        },
+        {
+          "outward_normal_part": [
+            -0.9130191782609215,
+            -0.4079166337663075,
+            -4.951391561980323e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 100.1714593106367
+        }
+      ]
+    },
+    "Kl2a_0035": {
+      "extrusion_axis_chute": [
+        0.9999999905473227,
+        0.00013085947958724198,
+        4.220368534163521e-05
+      ],
+      "axis_alignment_deg": 0.007877983135139611,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.9375455646919291,
+            -0.34786246851634983,
+            -0.00013085947958724198
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 103.88885727133454
+        },
+        {
+          "outward_normal_part": [
+            0.3478624763628178,
+            -0.9375455699631762,
+            -4.220368534163521e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.88885728256675
+        }
+      ]
+    },
+    "Kl2a_0036": {
+      "extrusion_axis_chute": [
+        0.0002382949852103855,
+        -0.9999999716026304,
+        -3.1997969792696423e-06
+      ],
+      "axis_alignment_deg": 0.013654527862889685,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -6.145981422944757e-05,
+            0.0002302551409024689,
+            0.9999999716026304
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99107613229646
+        },
+        {
+          "outward_normal_part": [
+            -0.962624139965417,
+            -0.27084084836967065,
+            3.1997969792696423e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 108.5311789802481
+        }
+      ]
+    },
+    "Kl2a_0037": {
+      "extrusion_axis_chute": [
+        -0.99999998973313,
+        -8.156376534146359e-05,
+        0.00011781804584404254
+      ],
+      "axis_alignment_deg": 0.008210255313538872,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.9810750197119396,
+            -0.1936279913766847,
+            8.156376534146359e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 44.5899270238545
+        },
+        {
+          "outward_normal_part": [
+            -0.19362798124904973,
+            -0.9810750180268202,
+            -0.00011781804584404254
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.4100730108954
+        }
+      ]
+    },
+    "Kl2a_0038": {
+      "extrusion_axis_chute": [
+        -0.9999999999889336,
+        -3.503520845382635e-06,
+        3.1397422814993803e-06
+      ],
+      "axis_alignment_deg": 0.0002695505512787913,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.9967921492080628,
+            0.08003381325974879,
+            3.503520845382635e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 119.65497397287133
+        },
+        {
+          "outward_normal_part": [
+            0.08003381324888059,
+            0.9967921492101477,
+            -3.1397422814993803e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 29.654973974197834
+        }
+      ]
+    },
+    "Kl2a_0039": {
+      "extrusion_axis_chute": [
+        0.99999999999722,
+        1.818267262643225e-06,
+        1.501407513537778e-06
+      ],
+      "axis_alignment_deg": 0.00013510141802887691,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.9999999996746282,
+            2.544480190314058e-05,
+            -1.818267262643225e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 55.75305882223781
+        },
+        {
+          "outward_normal_part": [
+            -2.5444804633067974e-05,
+            0.999999999675154,
+            -1.501407513537778e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 34.24694117807795
+        }
+      ]
+    },
+    "Kl2a_0040": {
+      "extrusion_axis_chute": [
+        8.939891106601872e-05,
+        -0.999999994293757,
+        5.84835104689152e-05
+      ],
+      "axis_alignment_deg": 0.006120864462372745,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -5.848143274328477e-05,
+            8.940027025047814e-05,
+            0.999999994293757
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.9976513608892
+        },
+        {
+          "outward_normal_part": [
+            -0.9999999980198311,
+            2.3238271958714307e-05,
+            -5.84835104689152e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 124.24415177645714
+        }
+      ]
+    },
+    "Kl2a_0041": {
+      "extrusion_axis_chute": [
+        -3.4482389464962626e-05,
+        -0.9999999994048538,
+        -1.1214121357627782e-06
+      ],
+      "axis_alignment_deg": 0.001976739525398292,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.1214094636780025e-06,
+            3.448238955189309e-05,
+            0.9999999994048538
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99840297996595
+        },
+        {
+          "outward_normal_part": [
+            0.9999999999993685,
+            -7.747071800734417e-08,
+            1.1214121357627782e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 55.75450823532048
+        }
+      ]
+    },
+    "Kl2a_0042": {
+      "extrusion_axis_chute": [
+        1.1518087388496146e-05,
+        1.3854439306204781e-06,
+        0.9999999999327072
+      ],
+      "axis_alignment_deg": 0.0006646944497978653,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.8525100776578912,
+            0.5227107876156919,
+            -1.3854439306204781e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 92.73122123934634
+        },
+        {
+          "outward_normal_part": [
+            -4.839523617872039e-06,
+            -1.0543472062180741e-05,
+            -0.9999999999327072
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99965667219577
+        }
+      ]
+    },
+    "Kl2a_0043": {
+      "extrusion_axis_chute": [
+        0.35804880984134935,
+        -0.9337028701734809,
+        -9.985326933636962e-07
+      ],
+      "axis_alignment_deg": 20.980415014811932,
+      "signature": [
+        "oblique",
+        "Kl2a_0043"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.09734455530363095,
+            0.34456202312869905,
+            0.9337028701734809
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 76.70015701372422
+        },
+        {
+          "outward_normal_part": [
+            -0.9623318390601857,
+            -0.271877603950829,
+            9.985326933636962e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 108.4694615031387
+        }
+      ]
+    },
+    "Kl2a_0044": {
+      "extrusion_axis_chute": [
+        -1.172490344182765e-05,
+        1.8061699141418975e-05,
+        -0.9999999997681508
+      ],
+      "axis_alignment_deg": 0.0012337877024619158,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.8028115649404067,
+            -0.5962328327689694,
+            -1.8061699141418975e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 87.64491938180919
+        },
+        {
+          "outward_normal_part": [
+            -2.1490913349917937e-05,
+            -1.3560899607458909e-06,
+            0.9999999997681508
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00062869527866
+        }
+      ]
+    },
+    "Kl2a_0045": {
+      "extrusion_axis_chute": [
+        -0.999999999988095,
+        -4.235587126422136e-06,
+        2.422837900251107e-06
+      ],
+      "axis_alignment_deg": 0.00027957795456219766,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.9810315894473816,
+            -0.19384793134930373,
+            4.235587126422136e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 113.06805651728219
+        },
+        {
+          "outward_normal_part": [
+            -0.19384793136054113,
+            0.9810315894513129,
+            -2.422837900251107e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.4229141072784
+        }
+      ]
+    },
+    "Kl2a_0046": {
+      "extrusion_axis_chute": [
+        0.19875308021460925,
+        -0.9800495970958851,
+        1.836839955024483e-05
+      ],
+      "axis_alignment_deg": 11.464052078636191,
+      "signature": [
+        "oblique",
+        "Kl2a_0046"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.1634774000013337e-05,
+            0.1987530807228534,
+            0.9800495970958851
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 80.54403572326733
+        },
+        {
+          "outward_normal_part": [
+            -0.999999999318162,
+            3.2035571792266015e-05,
+            -1.836839955024483e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 124.24364778842869
+        }
+      ]
+    },
+    "Kl2a_0047": {
+      "extrusion_axis_chute": [
+        6.911028280098819e-06,
+        -0.9999999999701099,
+        3.4666977341002436e-06
+      ],
+      "axis_alignment_deg": 0.00044299746856418467,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.4553301961872656e-06,
+            7.593570904934621e-06,
+            0.9999999999701099
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99968727203921
+        },
+        {
+          "outward_normal_part": [
+            -0.9622663032392113,
+            0.27210946627841626,
+            -3.4666977341002436e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 108.45565227339205
+        }
+      ]
+    },
+    "Kl2a_0048": {
+      "extrusion_axis_chute": [
+        -0.20254349598251464,
+        -0.9792732673929027,
+        2.1930822518556603e-06
+      ],
+      "axis_alignment_deg": 11.685735305184032,
+      "signature": [
+        "oblique",
+        "Kl2a_0048"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.10586890959683148,
+            -0.17267206418644115,
+            0.9792732673929027
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 85.22977629054566
+        },
+        {
+          "outward_normal_part": [
+            -0.8525239770697896,
+            0.522688117825821,
+            -2.1930822518556603e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 92.7327448256134
+        }
+      ]
+    },
+    "Kl2a_0049": {
+      "extrusion_axis_chute": [
+        -0.9999999994998153,
+        -2.3420239177618374e-05,
+        2.1257051548539962e-05
+      ],
+      "axis_alignment_deg": 0.0018121862022328836,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.8915220679061517,
+            -0.45297726420630857,
+            2.3420239177618374e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 97.31062412633284
+        },
+        {
+          "outward_normal_part": [
+            -0.4529772646720377,
+            0.8915220677237199,
+            -2.1257051548539962e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 61.18034653132375
+        }
+      ]
+    },
+    "Kl2a_0050": {
+      "extrusion_axis_chute": [
+        -3.4407493072532075e-05,
+        -1.519564160422446e-06,
+        -0.9999999994069079
+      ],
+      "axis_alignment_deg": 0.001973325423673863,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.6782797252611035,
+            -0.734803793061395,
+            1.519564160422446e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 76.95484785029407
+        },
+        {
+          "outward_normal_part": [
+            -2.4252066858849573e-05,
+            2.4454486456433173e-05,
+            0.9999999994069079
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99962372083556
+        }
+      ]
+    },
+    "Kl2a_0051": {
+      "extrusion_axis_chute": [
+        1.8436968556856392e-05,
+        -0.9999999997622544,
+        -1.1643459608606799e-05
+      ],
+      "axis_alignment_deg": 0.0012493780601788894,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            1.9563506640118966e-05,
+            9.631259998782449e-06,
+            0.9999999997622544
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99891305946012
+        },
+        {
+          "outward_normal_part": [
+            -0.85250260810082,
+            0.5227229696940152,
+            1.1643459608606799e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 92.7304024960766
+        }
+      ]
+    },
+    "Kl2a_0052": {
+      "extrusion_axis_chute": [
+        0.9999999986572541,
+        4.4493872044193417e-05,
+        2.6566659137639004e-05
+      ],
+      "axis_alignment_deg": 0.002969166487557381,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "cut"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.826608171029355,
+            -0.562777868797095,
+            -4.4493872044193417e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 21.50638836924707
+        },
+        {
+          "outward_normal_part": [
+            0.5627778681784661,
+            0.8266081722211038,
+            -2.6566659137639004e-05
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.0030483244075588957
+        }
+      ]
+    },
+    "Kl2a_0053": {
+      "extrusion_axis_chute": [
+        3.2985182746858577e-06,
+        0.9999999999943054,
+        7.133431787348377e-07
+      ],
+      "axis_alignment_deg": 0.0001933604116331835,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.4389626016297896e-06,
+            3.0526165710892395e-06,
+            -0.9999999999943054
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.9999018159173
+        },
+        {
+          "outward_normal_part": [
+            -0.7939742593436374,
+            -0.6079513759333173,
+            -7.133431787348377e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 86.80396626675918
+        }
+      ]
+    },
+    "Kl2a_0054": {
+      "extrusion_axis_chute": [
+        7.20653792091186e-06,
+        0.9999999999728887,
+        1.5128650996676374e-06
+      ],
+      "axis_alignment_deg": 0.00042190328539195676,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -3.54173066702268e-06,
+            6.4559347500992015e-06,
+            -0.9999999999728887
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99980842450152
+        },
+        {
+          "outward_normal_part": [
+            -0.7592131775451985,
+            -0.6508420323238463,
+            -1.5128650996676374e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 83.64036970153293
+        }
+      ]
+    },
+    "Kl2a_0055": {
+      "extrusion_axis_chute": [
+        -1.1013244694946576e-06,
+        1.6963697023568727e-06,
+        0.9999999999979547
+      ],
+      "axis_alignment_deg": 0.00011588070644367063,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.5626758576564252,
+            0.8266776150397015,
+            -1.6963697023568727e-06
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.004430489517597375
+        },
+        {
+          "outward_normal_part": [
+            -4.4065991347494856e-08,
+            -2.022039550203852e-06,
+            -0.9999999999979547
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99990565166428
+        }
+      ]
+    },
+    "Kl2a_0056": {
+      "extrusion_axis_chute": [
+        -0.999999999995244,
+        -6.055804724347524e-08,
+        -3.0836264134914693e-06
+      ],
+      "axis_alignment_deg": 0.000176708458511052,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.6784166653291814,
+            -0.7346773633396024,
+            6.055804724347524e-08
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 76.96552656888011
+        },
+        {
+          "outward_normal_part": [
+            -0.734677363335984,
+            0.6784166653260945,
+            3.0836264134914693e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 81.52544405517557
+        }
+      ]
+    },
+    "Kl2a_0057": {
+      "extrusion_axis_chute": [
+        -6.144380586270426e-06,
+        -0.9999999999073295,
+        1.2148576746251472e-05
+      ],
+      "axis_alignment_deg": 0.0007800249102623196,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.275552000679081e-05,
+            4.757944840450001e-06,
+            0.9999999999073295
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00018592244477
+        },
+        {
+          "outward_normal_part": [
+            -0.6783526911581634,
+            0.7347364331860027,
+            -1.2148576746251472e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 76.96053354957415
+        }
+      ]
+    },
+    "Kl2a_0058": {
+      "extrusion_axis_chute": [
+        -5.792015660159727e-05,
+        5.24079468312631e-06,
+        0.9999999983088949
+      ],
+      "axis_alignment_deg": 0.003332137665066302,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.45297373689882775,
+            0.8915238603943506,
+            -5.24079468312631e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 61.18011979797511
+        },
+        {
+          "outward_normal_part": [
+            5.401114395750545e-05,
+            2.156401627864949e-05,
+            -0.9999999983088949
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.9972372106934
+        }
+      ]
+    },
+    "Kl2a_0059": {
+      "extrusion_axis_chute": [
+        -1.1105768132951776e-05,
+        3.638010857842636e-06,
+        0.9999999999317133
+      ],
+      "axis_alignment_deg": 0.0006695850117277598,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.4499415073947908,
+            0.8930580271796834,
+            -3.638010857842636e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 7.505552112891529
+        },
+        {
+          "outward_normal_part": [
+            8.28120329005396e-06,
+            -8.245900853967842e-06,
+            -0.9999999999317133
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99934244467205
+        }
+      ]
+    },
+    "Kl2a_0060": {
+      "extrusion_axis_chute": [
+        -5.794915211632112e-06,
+        0.9999999999808854,
+        2.1560307114573685e-06
+      ],
+      "axis_alignment_deg": 0.00035425845450659337,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            5.9422169859102425e-06,
+            -1.7086743488367584e-06,
+            -0.9999999999808854
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99972748004043
+        },
+        {
+          "outward_normal_part": [
+            -0.5941280663136528,
+            -0.804370462419992,
+            -2.1560307114573685e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 70.69598618161406
+        }
+      ]
+    },
+    "Kl2a_0061": {
+      "extrusion_axis_chute": [
+        0.9999999897433478,
+        -2.3315253175448802e-05,
+        -0.0001413142020552094
+      ],
+      "axis_alignment_deg": 0.008206168778502656,
+      "signature": [
+        "X",
+        "unsigned",
+        "cut",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.5625357072762386,
+            -0.8267729903036392,
+            2.3315253175448802e-05
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.01420942531599321
+        },
+        {
+          "outward_normal_part": [
+            0.8267729804197212,
+            0.5625357045363325,
+            0.0001413142020552094
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 21.52317712971227
+        }
+      ]
+    },
+    "Kl2a_0062": {
+      "extrusion_axis_chute": [
+        7.850350793203731e-06,
+        0.9999999999684901,
+        -1.1798721767375397e-06
+      ],
+      "axis_alignment_deg": 0.0004548426515509368,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "cut"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -5.826245891349391e-06,
+            -5.392120616454221e-06,
+            -0.9999999999684901
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99993246832662
+        },
+        {
+          "outward_normal_part": [
+            0.5626111288445753,
+            -0.8267216688214001,
+            1.1798721767375397e-06
+          ],
+          "broad_cut_support": true,
+          "closest_broad_normal_angle_deg": 0.00891984417432111
+        }
+      ]
+    },
+    "Kl2a_0063": {
+      "extrusion_axis_chute": [
+        -0.3518323718304144,
+        -3.271518957057018e-06,
+        0.936063022515836
+      ],
+      "axis_alignment_deg": 20.599432187084975,
+      "signature": [
+        "oblique",
+        "Kl2a_0063"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.3942481174012994,
+            0.9190040380296642,
+            3.271518957057018e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 11.026393979905254
+        },
+        {
+          "outward_normal_part": [
+            0.3233365777500693,
+            -0.13870643592635212,
+            -0.936063022515836
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 72.74566477721096
+        }
+      ]
+    },
+    "Kl2a_0064": {
+      "extrusion_axis_chute": [
+        -0.999999999996152,
+        5.0524367439797047e-08,
+        2.773731406224833e-06
+      ],
+      "axis_alignment_deg": 0.0001589487161222943,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.4532929566359085,
+            -0.8913615963593416,
+            -5.0524367439797047e-08
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 61.200641063993444
+        },
+        {
+          "outward_normal_part": [
+            -0.8913615963558503,
+            0.45329295663429026,
+            -2.773731406224833e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 97.29032955999615
+        }
+      ]
+    },
+    "Kl2a_0065": {
+      "extrusion_axis_chute": [
+        -7.1515886924646225e-06,
+        -1.531985897037091e-06,
+        -0.9999999999732541
+      ],
+      "axis_alignment_deg": 0.00041905068361791913,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.3478457965617473,
+            -0.9375517595375611,
+            1.531985897037091e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.88987643682453
+        },
+        {
+          "outward_normal_part": [
+            -7.237879416788095e-06,
+            -1.051333992099371e-06,
+            0.9999999999732541
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00018357421541
+        }
+      ]
+    },
+    "Kl2a_0066": {
+      "extrusion_axis_chute": [
+        -6.671043011496902e-06,
+        0.999999999977719,
+        -2.4319374026388063e-07
+      ],
+      "axis_alignment_deg": 0.0003824763001687632,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            5.958800248284657e-06,
+            3.009095820634411e-06,
+            -0.999999999977719
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99966535396696
+        },
+        {
+          "outward_normal_part": [
+            0.4829893367312243,
+            -0.8756262333917783,
+            2.4319374026388063e-07
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 5.364664320380168
+        }
+      ]
+    },
+    "Kl2a_0067": {
+      "extrusion_axis_chute": [
+        2.9957959073706464e-05,
+        -0.9999999951348055,
+        -9.398356025623958e-05
+      ],
+      "axis_alignment_deg": 0.005651812330840769,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            6.927457019503813e-05,
+            -7.022409013003258e-05,
+            0.9999999951348055
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99444040801487
+        },
+        {
+          "outward_normal_part": [
+            -0.45290073531443764,
+            0.8915609430200115,
+            9.398356025623958e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 61.17542855204927
+        }
+      ]
+    },
+    "Kl2a_0068": {
+      "extrusion_axis_chute": [
+        -2.9012363081226678e-05,
+        -0.9999999995703256,
+        4.199020396784825e-06
+      ],
+      "axis_alignment_deg": 0.0016796058301759872,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -2.4580644575500354e-05,
+            1.597313044148646e-05,
+            0.9999999995703256
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00003601450146
+        },
+        {
+          "outward_normal_part": [
+            0.4191587338655472,
+            0.9079129670880351,
+            -4.199020396784825e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 9.463997068439703
+        }
+      ]
+    },
+    "Kl2a_0069": {
+      "extrusion_axis_chute": [
+        -2.284513818662237e-05,
+        -0.999999999703064,
+        8.4836200133203e-06
+      ],
+      "axis_alignment_deg": 0.0013962689491704115,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.8466968771474468e-05,
+            1.590104435850344e-05,
+            0.999999999703064
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99984230780315
+        },
+        {
+          "outward_normal_part": [
+            0.3478775874789801,
+            0.9375399639790469,
+            -8.4836200133203e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 13.887929593558031
+        }
+      ]
+    },
+    "Kl2a_0070": {
+      "extrusion_axis_chute": [
+        -2.0684065702575305e-05,
+        -0.9999999997617364,
+        6.978320740833564e-06
+      ],
+      "axis_alignment_deg": 0.001250738470672093,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -2.173578895296735e-05,
+            2.0206466643047163e-06,
+            0.9999999997617364
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00060511546961
+        },
+        {
+          "outward_normal_part": [
+            -0.23059342964473833,
+            0.9730501889193488,
+            -6.978320740833564e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 47.57749523795916
+        }
+      ]
+    },
+    "Kl2a_0071": {
+      "extrusion_axis_chute": [
+        -1.1847894080291299e-05,
+        -0.9999999999216929,
+        4.030149920831311e-06
+      ],
+      "axis_alignment_deg": 0.0007170316195130457,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.0192584561558027e-05,
+            7.26126176893091e-06,
+            0.9999999999216929
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99998472299458
+        },
+        {
+          "outward_normal_part": [
+            0.28702935128350393,
+            0.9579217877705513,
+            -4.030149920831311e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 17.56529237426633
+        }
+      ]
+    },
+    "Kl2a_0072": {
+      "extrusion_axis_chute": [
+        -0.3243827533345764,
+        3.3076302809811886e-06,
+        0.9459259111199666
+      ],
+      "axis_alignment_deg": 18.92818348942051,
+      "signature": [
+        "oblique",
+        "Kl2a_0072"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.20224745615127057,
+            0.9793344507722577,
+            -3.3076302809811886e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 22.577068290323364
+        },
+        {
+          "outward_normal_part": [
+            0.31767857279396766,
+            -0.06560865079735181,
+            -0.9459259111199666
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 76.52596242800807
+        }
+      ]
+    },
+    "Kl2a_0073": {
+      "extrusion_axis_chute": [
+        -4.937835561729763e-07,
+        -4.770606100832663e-05,
+        0.9999999988619439
+      ],
+      "axis_alignment_deg": 0.0027335024317277573,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.19395791796286682,
+            0.9810098489738222,
+            4.770606100832663e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.429337869226806
+        },
+        {
+          "outward_normal_part": [
+            -8.768561744943223e-06,
+            4.6895888988861784e-05,
+            -0.9999999988619439
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.998061607963
+        }
+      ]
+    },
+    "Kl2a_0074": {
+      "extrusion_axis_chute": [
+        0.9999999999787952,
+        5.3601233342553956e-06,
+        -3.6985423436525222e-06
+      ],
+      "axis_alignment_deg": 0.00037312545763882227,
+      "signature": [
+        "X",
+        "unsigned",
+        "rounded",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -0.19398155744023793,
+            0.9810051760028227,
+            -5.3601233342553956e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.43071845761711
+        },
+        {
+          "outward_normal_part": [
+            -0.9810051760140512,
+            -0.19398155742224976,
+            3.6985423436525222e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 113.0602521681885
+        }
+      ]
+    },
+    "Kl2a_0075": {
+      "extrusion_axis_chute": [
+        8.495307717233888e-06,
+        4.2652817762110216e-05,
+        0.9999999990542836
+      ],
+      "axis_alignment_deg": 0.002491828157920304,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.17359766506379656,
+            0.9848166574876439,
+            -4.2652817762110216e-05
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 24.24842219733703
+        },
+        {
+          "outward_normal_part": [
+            -1.5770750143997873e-05,
+            -4.053043987121123e-05,
+            -0.9999999990542836
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99858886147419
+        }
+      ]
+    },
+    "Kl2a_0076": {
+      "extrusion_axis_chute": [
+        -3.274114497255065e-05,
+        -0.9999999994563334,
+        3.918033994870611e-06
+      ],
+      "axis_alignment_deg": 0.0018893131149733955,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -3.2879671312116554e-05,
+            -2.502154852162923e-06,
+            0.9999999994563334
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00094161797465
+        },
+        {
+          "outward_normal_part": [
+            -0.19382008567505699,
+            0.9810370912323157,
+            -3.918033994870611e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 45.42128782379885
+        }
+      ]
+    },
+    "Kl2a_0077": {
+      "extrusion_axis_chute": [
+        -1.642682354448255e-05,
+        -0.99999999985789,
+        3.792058384480268e-06
+      ],
+      "axis_alignment_deg": 0.0009659395209162922,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -1.5745411529863307e-05,
+            6.025135210793731e-06,
+            0.99999999985789
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00022230687273
+        },
+        {
+          "outward_normal_part": [
+            0.13815452882382062,
+            0.9904106856002154,
+            -3.792058384480268e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 26.304412470737773
+        }
+      ]
+    },
+    "Kl2a_0078": {
+      "extrusion_axis_chute": [
+        -5.695757458863465e-07,
+        -1.4321777295583296e-06,
+        0.9999999999988124
+      ],
+      "axis_alignment_deg": 8.830265120224578e-05,
+      "signature": [
+        "Z",
+        "unsigned",
+        "end_on_belt",
+        "any_azimuth"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            0.08007872997297724,
+            0.9967885417699502,
+            1.4321777295583296e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 29.65239214833532
+        },
+        {
+          "outward_normal_part": [
+            6.824335508494597e-07,
+            1.3819674482489946e-06,
+            -0.9999999999988124
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 89.99991254292391
+        }
+      ]
+    },
+    "Kl2a_0079": {
+      "extrusion_axis_chute": [
+        -6.943977036016902e-06,
+        -0.9999999999739239,
+        1.9833889573617593e-06
+      ],
+      "axis_alignment_deg": 0.0004137702794243638,
+      "signature": [
+        "Y",
+        "unsigned",
+        "end_on_wall",
+        "rounded"
+      ],
+      "wall_and_belt_support": [
+        {
+          "outward_normal_part": [
+            -6.762862081309551e-06,
+            2.5330505921005884e-06,
+            0.9999999999739239
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 90.00009808036994
+        },
+        {
+          "outward_normal_part": [
+            0.08007376929573236,
+            0.9967889402811613,
+            -1.9833889573617593e-06
+          ],
+          "broad_cut_support": false,
+          "closest_broad_normal_angle_deg": 29.652677289958664
+        }
+      ]
+    }
+  },
+  "profile": {
+    "directed_axis": false,
+    "broad_cut_support": true,
+    "merge_belt_end_azimuth": true
+  },
+  "axis_part": [
+    0,
+    0,
+    1
+  ],
+  "axis_tolerance_deg": 10.0,
+  "support_normal_tolerance_deg": 5.0,
+  "wide_facet_area_ratio": 2.0,
+  "typical_strip_area_mm2": 219.4140275657047,
+  "broad_support_normals_part": [
+    [
+      0.5627397647853203,
+      0.8266341132141609,
+      -0.0
+    ],
+    [
+      0.5627398228976775,
+      -0.8266340736535669,
+      0.0
+    ]
+  ],
+  "broad_support_areas_mm2": [
+    897.115164594023,
+    897.1152075276619
+  ],
+  "barrier_mm": 0.5,
+  "max_angle_deg": 60,
+  "sampling_step_deg": 0.1,
+  "energy_barrier_applied": false,
+  "interpretation": "Rounded-side roll phase is ignored within a support family; broad cut support and end direction distinguish families. This classification does not prove an energy barrier or change recognition symmetry."
+}
