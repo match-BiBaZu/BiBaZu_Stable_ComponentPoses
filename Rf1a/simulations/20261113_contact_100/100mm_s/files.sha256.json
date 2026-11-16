@@ -1,0 +1,13 @@
+{
+  "README.md": "9e255fb5ebc455147f963967264b8f6a258b2cef480043d92d96e072f0b4dfee",
+  "archive_contents.sha256.json": "9789acc33170c9fbbcdd91adaa76c2e45a6572976dea98006cf64c29be646f25",
+  "config.json": "61a03818566ef296dba2b1d125c33f612519aa097dfaf7bf805efd63461f079a",
+  "grouping_evidence.json.gz": "d85df015fc736048bc4647894ae785b9d7e5f277b9a8a5caa0220a1a9dcf209d",
+  "groups.json": "7eca14b3d90c5d1cf056f2b820be44e3999fe1de6cbd5ab02a5131d25faf73c1",
+  "manifest.json": "87a3e1dcef78e69280836dd3005e081512b431104c36a0ee50a8b616633b752b",
+  "observations.json": "b131245083cfba8554aeea2a840718c3faa325ea0fb68e674a36de85a7195748",
+  "publication.json": "53878410248bc8e17e602b6577ba70e949f69a60e7852db728fb7088a96f45d3",
+  "simulation_results.tar.xz": "de47255634679252f9af05531f748601e228afadb8830f2ce229523b12abcce9",
+  "summary.json": "f4b6656119e8d40c026613d7cb34c71882627afe1c8355d85c4987a6cb0ebf80",
+  "validation.json": "a92c19dd048c5d5eb1f72075d0f00acdf6207801ae1c2e10cbc2e6bde9e68657"
+}

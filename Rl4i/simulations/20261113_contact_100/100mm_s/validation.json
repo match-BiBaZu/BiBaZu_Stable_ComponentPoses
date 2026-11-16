@@ -1,0 +1,13 @@
+{
+  "catalogue_recognition_preserved": true,
+  "condition": "100mm_s",
+  "disturbance_trials": 0,
+  "part": "Rl4i",
+  "passed": true,
+  "physical_settings_match": true,
+  "previous_rule_identical": true,
+  "publish": false,
+  "raw_records_sha256": "2ddfe8e887b8fc930e89dbc91fcd51222f6e05173507a72af4e19ba65da5ceda",
+  "raw_trials": 100,
+  "settled": 100
+}

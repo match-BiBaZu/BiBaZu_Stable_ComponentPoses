@@ -1,0 +1,13 @@
+{
+  "catalogue_recognition_preserved": true,
+  "condition": "static",
+  "disturbance_trials": 0,
+  "part": "Dk1i",
+  "passed": true,
+  "physical_settings_match": true,
+  "previous_rule_identical": true,
+  "publish": false,
+  "raw_records_sha256": "bc7d20681a737ec3f6237c2f5c374bc179341e7f365a5ebe253f2ba19dfc2a45",
+  "raw_trials": 100,
+  "settled": 100
+}

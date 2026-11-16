@@ -2,6 +2,16 @@
   "schema_version": 1,
   "workpieces": [
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Df1a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 7,
       "run_id": "620496c9bccd8bcf3edcf82b1c7fc318d55bb7879185a8806586468af0504e28",
@@ -74,6 +84,16 @@
       "workpiece": "Df1a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Df2i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 9,
       "run_id": "d415481a5005205ff83ca00822f627da934a8c09e101eb22ae873a0dc7317e83",
@@ -115,6 +135,16 @@
       "workpiece": "Df2i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Df4a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 20,
       "run_id": "d9de15033e49052e24eb69550c43f17ce74887b3e757fa988494f75355685935",
@@ -155,6 +185,16 @@
       "workpiece": "Df4a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Dk1i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500.0,
       "poses": 8,
       "run_id": "3ffd71e16cc8d1a02d46484ed06d15e8345497e4e847ba4b42886f13204685a6",
@@ -231,6 +271,16 @@
       "workpiece": "Dk1i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Dk2a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 17,
       "run_id": "608cf8fe9397639b8d67f4fffdfd348f11a547a0acea60a238834de04f69c4e8",
@@ -272,6 +322,16 @@
       "workpiece": "Dk2a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Dk4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 24,
       "run_id": "fcfe6a00b6117dd4e363ab0e59e80e73eb3f75764faeb42502e98acbb462cc6d",
@@ -313,6 +373,16 @@
       "workpiece": "Dk4i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Dl1a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 16,
       "run_id": "48ade29582ea61d1791bc931cef9454f3952ca8529b0afe09db87dbfff9a1398",
@@ -385,6 +455,16 @@
       "workpiece": "Dl1a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Dl2i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 19,
       "run_id": "85894899c519464137e30b61f54b8caad2660699050b2937b9e0ee32a131a747",
@@ -425,6 +505,16 @@
       "workpiece": "Dl2i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Dl4a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 29,
       "run_id": "0f0572d845480e6a141c1f20db521fb22f76b0b94ed0a9930902dd78dadfb20d",
@@ -466,6 +556,16 @@
       "workpiece": "Dl4a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Kf1i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500.0,
       "poses": 0,
       "run_id": "93f6f7c703aec73d37c7ce3a84b5b41b324d5dc25572c5511ec956f6bca8d222",
@@ -543,6 +643,16 @@
       "workpiece": "Kf1i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Kf2a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 3,
       "rolling_surface_grouping": {
@@ -590,6 +700,16 @@
       "workpiece": "Kf2a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Kf4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 26,
       "rolling_surface_grouping": {
@@ -638,6 +758,16 @@
       "workpiece": "Kf4i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Kk1a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 3,
       "run_id": "926c3de3437846597b8e9019c09dda1f42a3144246268624c2f874b053adeca9",
@@ -807,6 +937,16 @@
       "workpiece": "Kk4a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Kl1i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 2,
       "run_id": "b573b7d9c398606a77e48d0a70d8f9dd58ee203e3ef6773db48f5b5019aa2719",
@@ -927,6 +1067,16 @@
       "workpiece": "Kl2a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Kl4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 41,
       "rolling_surface_grouping": {
@@ -974,6 +1124,16 @@
       "workpiece": "Kl4i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Qf1i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 13,
       "run_id": "ab887012b035c3794b5c6fcadf9dd1d24720848a43871fd97656cc3dcac1e3ac",
@@ -1047,6 +1207,16 @@
       "workpiece": "Qf1i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Qf2a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 24,
       "run_id": "f8cd82ac89d4ba597b8205380caff5d0cec54429a847a0dcecaf7788b503b029",
@@ -1089,6 +1259,16 @@
       "workpiece": "Qf2a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Qf4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 29,
       "run_id": "a3414fd9a3d203cd06b9eb73e7e947c1bedfa541aa21f0538b7d46af53e97fe9",
@@ -1130,6 +1310,16 @@
       "workpiece": "Qf4i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Qk1a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 13,
       "run_id": "5ac91d243281ec45e548404950dcce2656aafe3c1cd48230b00a490098a8d285",
@@ -1203,6 +1393,16 @@
       "workpiece": "Qk1a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Qk2i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 15,
       "run_id": "a71f07565b1f12f135fbd1f01e815ea46ba80415fd0b0a35db2f839a653c3c74",
@@ -1244,6 +1444,16 @@
       "workpiece": "Qk2i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Qk4a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 26,
       "run_id": "9a3eaea5f011de71d86af7e379f4616e7734bbfe6face0b038e210c8b279d27c",
@@ -1285,6 +1495,16 @@
       "workpiece": "Qk4a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Ql1i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 6,
       "run_id": "479b80b9f18d69e482aa988ba1bec9c3853eb8d5a2ea84caf1cc2643cbc17de1",
@@ -1358,6 +1578,16 @@
       "workpiece": "Ql1i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Ql2a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 19,
       "run_id": "0725b6b666e07aaf664d8a01550ce4dad4e4e66028889505201ddb999e207b33",
@@ -1399,6 +1629,16 @@
       "workpiece": "Ql2a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Ql4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 24,
       "run_id": "5c00d49fb1068cbca61db9e8f8efaee3fd5d929847f58e7633f2f12362c035e6",
@@ -1439,6 +1679,16 @@
       "workpiece": "Ql4i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rf1a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 25,
       "run_id": "6d9dee037a3739b2e5d6eaa5a44609203edf8efbc176f260645dae607077a4a4",
@@ -1512,6 +1762,16 @@
       "workpiece": "Rf1a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rf2i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 19,
       "run_id": "973c7e216164529932c24338d9c21a23f7accff279c289fececc8b4258e682ba",
@@ -1553,6 +1813,16 @@
       "workpiece": "Rf2i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rf3a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 19,
       "run_id": "87a370743e16ad12b96c8f37e12a2935c7ae077e3b5e446c30ecabb5837e3d79",
@@ -1593,6 +1863,16 @@
       "workpiece": "Rf3a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rf4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 27,
       "run_id": "9d1cc79f06c7b6c64ee10b58a3b2caf9f20b54e071c42f101377d21883bddc7b",
@@ -1633,6 +1913,16 @@
       "workpiece": "Rf4i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rk1a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 45,
       "run_id": "332727b0c2a709b679084e6c9ac15b7c77b907ff34d8568b18a54d7e21e12983",
@@ -1706,6 +1996,16 @@
       "workpiece": "Rk1a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rk2i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 12,
       "run_id": "573c9210bccbf51d13361e2f7c502d1a05eed05bbdba53beadb1df407d15bf2e",
@@ -1747,6 +2047,16 @@
       "workpiece": "Rk2i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rk3a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 17,
       "run_id": "28c2d12d5959f49f5d0a87ae13a37b4d6b7fc77ef95daf850081abbc76666d29",
@@ -1788,6 +2098,16 @@
       "workpiece": "Rk3a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rk4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 24,
       "run_id": "ea0fdfd3b4db1d2418ff6f2048719a13e495c70586ce7608c31da4570a0f6c67",
@@ -1829,6 +2149,16 @@
       "workpiece": "Rk4i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rl1a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 30,
       "run_id": "00d26104a6d503412433ae5031d9e3e8ff6e0fec7c08ed25d9ac01b5a8c95f2a",
@@ -1901,6 +2231,16 @@
       "workpiece": "Rl1a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rl2i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 9,
       "run_id": "431eb678683a10a9203aae75ff450c79f43c92d8afc31af4c16b0ee56ee4aa06",
@@ -1942,6 +2282,16 @@
       "workpiece": "Rl2i"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rl3a/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 18,
       "run_id": "e455566b6c70c2a2ab826a1e5640498f9988f8012b617a8cd50b9bb97f51e79d",
@@ -1982,6 +2332,16 @@
       "workpiece": "Rl3a"
     },
     {
+      "grouping_validation": {
+        "conditions": [
+          "static",
+          "100mm_s"
+        ],
+        "path": "Rl4i/simulations/20261113_contact_100/README.md",
+        "previous_grouping_identical": true,
+        "study": "20261113_contact_100",
+        "trials": 200
+      },
       "length_mm": 500,
       "poses": 19,
       "run_id": "a409485149301f2bd6e0ce887a9b0460678855a24af97c5849b917e4aac49352",

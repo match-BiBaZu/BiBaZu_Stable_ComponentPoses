@@ -1,0 +1,13 @@
+{
+  "catalogue_recognition_preserved": true,
+  "condition": "static",
+  "disturbance_trials": 0,
+  "part": "Rk4i",
+  "passed": true,
+  "physical_settings_match": true,
+  "previous_rule_identical": true,
+  "publish": false,
+  "raw_records_sha256": "c326c180c7200f7a6e717ac3c0879ef24c5ce011c458fe8635e7311d42f836cd",
+  "raw_trials": 100,
+  "settled": 100
+}

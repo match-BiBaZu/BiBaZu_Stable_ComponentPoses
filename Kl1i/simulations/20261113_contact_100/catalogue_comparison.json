@@ -1,0 +1,14 @@
+{
+  "analysis_sha256": "3b0c8cba7a5494261e7cfec27cbffce9c05314df2ce0a0063ee00cd2416ca72e",
+  "catalogue_commit": "c3fb173255e4aecef1638ac4c6dedf9cf14b705e",
+  "catalogue_git_blob": "dc3e55c3674bbf87e87778d11da2581a0435ee46",
+  "comparison_source_commit": "f9a4f6ee53025b9542e8b47e4278924526e76455",
+  "counts_and_numbering_identical": true,
+  "groups": 2,
+  "identical_analysis": true,
+  "poses": 2,
+  "representative_function_identical": true,
+  "source_regression_receipt_sha256": "fb268cce79a73adff26246b7a1a6e21f5eff8c24247ed30a817f594206b38c80",
+  "updated_source_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+  "workpiece": "Kl1i"
+}

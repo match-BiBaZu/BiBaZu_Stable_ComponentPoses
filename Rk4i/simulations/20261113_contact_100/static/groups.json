@@ -1,0 +1,270 @@
+{
+  "groups": [
+    {
+      "basin_id": "group_007",
+      "count": 12,
+      "group_id": 0,
+      "incidence_percent": 12.0,
+      "members": [
+        "Rk4i_0008"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_020",
+      "count": 10,
+      "group_id": 1,
+      "incidence_percent": 10.0,
+      "members": [
+        "Rk4i_0021"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_013",
+      "count": 9,
+      "group_id": 2,
+      "incidence_percent": 9.0,
+      "members": [
+        "Rk4i_0014"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_019",
+      "count": 9,
+      "group_id": 3,
+      "incidence_percent": 9.0,
+      "members": [
+        "Rk4i_0020"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_004",
+      "count": 7,
+      "group_id": 4,
+      "incidence_percent": 7.0,
+      "members": [
+        "Rk4i_0005"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_010",
+      "count": 7,
+      "group_id": 5,
+      "incidence_percent": 7.0,
+      "members": [
+        "Rk4i_0011"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_003",
+      "count": 6,
+      "group_id": 6,
+      "incidence_percent": 6.0,
+      "members": [
+        "Rk4i_0004"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_015",
+      "count": 6,
+      "group_id": 7,
+      "incidence_percent": 6.0,
+      "members": [
+        "Rk4i_0016"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_011",
+      "count": 5,
+      "group_id": 8,
+      "incidence_percent": 5.0,
+      "members": [
+        "Rk4i_0012"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_001",
+      "count": 4,
+      "group_id": 9,
+      "incidence_percent": 4.0,
+      "members": [
+        "Rk4i_0002"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_002",
+      "count": 4,
+      "group_id": 10,
+      "incidence_percent": 4.0,
+      "members": [
+        "Rk4i_0003"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_005",
+      "count": 3,
+      "group_id": 11,
+      "incidence_percent": 3.0,
+      "members": [
+        "Rk4i_0006"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_008",
+      "count": 3,
+      "group_id": 12,
+      "incidence_percent": 3.0,
+      "members": [
+        "Rk4i_0009"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_017",
+      "count": 3,
+      "group_id": 13,
+      "incidence_percent": 3.0,
+      "members": [
+        "Rk4i_0018"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_000",
+      "count": 2,
+      "group_id": 14,
+      "incidence_percent": 2.0,
+      "members": [
+        "Rk4i_0001"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_006",
+      "count": 2,
+      "group_id": 15,
+      "incidence_percent": 2.0,
+      "members": [
+        "Rk4i_0007"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_009",
+      "count": 2,
+      "group_id": 16,
+      "incidence_percent": 2.0,
+      "members": [
+        "Rk4i_0010"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_012",
+      "count": 2,
+      "group_id": 17,
+      "incidence_percent": 2.0,
+      "members": [
+        "Rk4i_0013"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_014",
+      "count": 1,
+      "group_id": 18,
+      "incidence_percent": 1.0,
+      "members": [
+        "Rk4i_0015"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_016",
+      "count": 1,
+      "group_id": 19,
+      "incidence_percent": 1.0,
+      "members": [
+        "Rk4i_0017"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_018",
+      "count": 1,
+      "group_id": 20,
+      "incidence_percent": 1.0,
+      "members": [
+        "Rk4i_0019"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_021",
+      "count": 1,
+      "group_id": 21,
+      "incidence_percent": 1.0,
+      "members": [
+        "Rk4i_0022"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    }
+  ],
+  "model": "observed-seated-geodesic-basins-v1",
+  "review": []
+}

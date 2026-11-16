@@ -1,0 +1,13 @@
+{
+  "catalogue_recognition_preserved": true,
+  "condition": "100mm_s",
+  "disturbance_trials": 0,
+  "part": "Kf1i",
+  "passed": true,
+  "physical_settings_match": true,
+  "previous_rule_identical": true,
+  "publish": false,
+  "raw_records_sha256": "d3c106c6238c20bcdd2da9e5a6b9a8dc9a6009fafacd16415ea281b286a0d5ab",
+  "raw_trials": 100,
+  "settled": 0
+}

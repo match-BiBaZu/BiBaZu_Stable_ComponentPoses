@@ -1,0 +1,14 @@
+{
+  "analysis_sha256": "b5d23c26f28deea0fadbc6c5b0e17c27f9c88252f7cd5a26af0a145ae374398e",
+  "catalogue_commit": "c3fb173255e4aecef1638ac4c6dedf9cf14b705e",
+  "catalogue_git_blob": "f1a56dcccfc4ff10e03aa4827198086c2e4f1d11",
+  "comparison_source_commit": "f9a4f6ee53025b9542e8b47e4278924526e76455",
+  "counts_and_numbering_identical": true,
+  "groups": 20,
+  "identical_analysis": true,
+  "poses": 29,
+  "representative_function_identical": true,
+  "source_regression_receipt_sha256": "fb268cce79a73adff26246b7a1a6e21f5eff8c24247ed30a817f594206b38c80",
+  "updated_source_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
+  "workpiece": "Dl4a"
+}

@@ -1,0 +1,2337 @@
+{
+  "belt_mode": "stopped",
+  "belt_stop_observation": {
+    "enabled": false,
+    "observed_trials": 0,
+    "settled_transport_then_unsettled": 0,
+    "status_counts": {},
+    "unsettled_transport_then_settled": 0
+  },
+  "cancelled": false,
+  "completed_trials": 100,
+  "compute_stability": false,
+  "disturbance_trials": 0,
+  "friction_cone": "elliptic",
+  "group_ordering": null,
+  "group_poses": false,
+  "grouping_barrier_mm": 0.5,
+  "grouping_max_angle_deg": 60.0,
+  "grouping_minimum_frequency_percent": 1.0,
+  "grouping_model": null,
+  "interpretation": "Fractions are conditional on the configured release and virtual 0.5 m chute; friction values are uncalibrated assumptions.",
+  "observed_groups": 0,
+  "pose_frequencies": [
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_000",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        71.85303762815816,
+        7.501646781572938,
+        14.16340112020063
+      ],
+      "representative_quat_xyzw": [
+        -0.49999841504017667,
+        0.4999956719175315,
+        -0.5000027226732745,
+        0.5000031903301819
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_001",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        71.27207493681937,
+        7.498504177493648,
+        14.998532481048695
+      ],
+      "representative_quat_xyzw": [
+        -1.800645632349385e-06,
+        -1.472507247746169e-06,
+        0.7071094444337224,
+        0.7071041179255161
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_002",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        50.52601604594366,
+        7.501677839899503,
+        10.840606469844671
+      ],
+      "representative_quat_xyzw": [
+        -0.49999834836669227,
+        0.4999999399843151,
+        0.5000018817019848,
+        -0.4999998299407066
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_003",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        57.127912859546015,
+        7.49439574558739,
+        10.833032093858495
+      ],
+      "representative_quat_xyzw": [
+        0.5000041638179127,
+        0.5000001688601555,
+        0.4999959871694387,
+        0.49999968011892215
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_004",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        29.13564654232423,
+        7.498550753893014,
+        10.837156403156957
+      ],
+      "representative_quat_xyzw": [
+        -0.5000033991358532,
+        0.5000004669986179,
+        0.49999665842081453,
+        -0.4999994754215008
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_005",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        99.53652529538337,
+        10.83824756928702,
+        7.501293222404836
+      ],
+      "representative_quat_xyzw": [
+        -4.7203534556117255e-07,
+        -0.7071068105688076,
+        4.7124750954252725e-07,
+        0.7071067518039715
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_006",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        32.22491252647154,
+        14.161833276126357,
+        15.000324456272788
+      ],
+      "representative_quat_xyzw": [
+        -0.9999999998856764,
+        -1.5078042632455336e-05,
+        -1.4007827770554755e-07,
+        1.1315189499261358e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_007",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        54.47082248248684,
+        10.837152054327534,
+        7.498559037006057
+      ],
+      "representative_quat_xyzw": [
+        -1.594393450682352e-06,
+        -0.7071094920039367,
+        2.6346600985882596e-06,
+        -0.70710407035206
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_008",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        84.49874279674722,
+        7.4944465847805155,
+        14.994453408416407
+      ],
+      "representative_quat_xyzw": [
+        -5.163736113145134e-07,
+        -2.567135140296717e-07,
+        -0.7071055686627775,
+        0.7071079937080031
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_009",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        72.4949264947755,
+        7.494395745587398,
+        10.833032093858503
+      ],
+      "representative_quat_xyzw": [
+        -0.4999959871694387,
+        0.49999968011892193,
+        0.5000041638179128,
+        -0.5000001688601556
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_010",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        28.382974296942685,
+        7.497180319120615,
+        10.83666326534428
+      ],
+      "representative_quat_xyzw": [
+        -0.5000547966321712,
+        0.4999451973618287,
+        0.5000547966321713,
+        -0.49994519736182874
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_011",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        28.4536205479578,
+        16.640211358656547,
+        7.500398783532935
+      ],
+      "representative_quat_xyzw": [
+        -0.6648623421386957,
+        0.24082270393741914,
+        -0.6648386603992003,
+        -0.24073231381082874
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_012",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        49.292084058457405,
+        10.838985312491108,
+        7.50034241256249
+      ],
+      "representative_quat_xyzw": [
+        -2.0580171653516994e-06,
+        0.707105250091847,
+        1.238927274244128e-06,
+        0.7071083122738525
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_013",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        70.74673466408932,
+        7.500118606800309,
+        15.000299590308021
+      ],
+      "representative_quat_xyzw": [
+        8.72888104574976e-08,
+        -3.2693225904267826e-08,
+        -0.7071073817041432,
+        -0.7071061806684359
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_014",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        83.70061324117896,
+        7.500153924562373,
+        14.16106714148912
+      ],
+      "representative_quat_xyzw": [
+        0.5000099361551706,
+        -0.49999528937511756,
+        0.5000048163345897,
+        -0.49998995789016404
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_015",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        45.19421699962049,
+        14.999087435354927,
+        7.497064467442022
+      ],
+      "representative_quat_xyzw": [
+        0.5000000917204415,
+        0.4999996009220491,
+        -0.5000014251471105,
+        0.49999888220695077
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_016",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        76.51376313208011,
+        14.16091928724647,
+        7.499724661964994
+      ],
+      "representative_quat_xyzw": [
+        -0.7071019424134174,
+        3.2098467724894775e-06,
+        0.7071116199172166,
+        1.7085225663682202e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_017",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        67.17796874879508,
+        10.837152054327522,
+        7.498559037006049
+      ],
+      "representative_quat_xyzw": [
+        1.5943934504047963e-06,
+        -0.7071094920039368,
+        2.6346600983384594e-06,
+        0.7071040703520599
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_018",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        48.22130898494764,
+        10.832995080976008,
+        7.494426051741736
+      ],
+      "representative_quat_xyzw": [
+        -2.465108739080346e-06,
+        -0.7071098793137063,
+        3.1932888294727846e-06,
+        -0.7071036830343072
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_019",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        69.35823425059783,
+        15.00005652399385,
+        7.495871504049235
+      ],
+      "representative_quat_xyzw": [
+        0.5000017962697811,
+        -0.4999993703334057,
+        -0.49999887154757416,
+        -0.49999996184434103
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_020",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        35.63402791095568,
+        7.499393241254681,
+        14.999748319603933
+      ],
+      "representative_quat_xyzw": [
+        1.7442996604610796e-06,
+        1.2621597496598194e-06,
+        -0.7071096918967381,
+        -0.7071038704610976
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_021",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        55.37845588938246,
+        14.160850405182023,
+        7.499734207748657
+      ],
+      "representative_quat_xyzw": [
+        0.7071018226845504,
+        -9.036231251952078e-06,
+        -0.707111739544893,
+        -8.504639901901758e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_022",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        57.58310284623997,
+        14.15834580951058,
+        7.497287841209049
+      ],
+      "representative_quat_xyzw": [
+        -0.7071077437947387,
+        -5.751842576867673e-06,
+        0.7071058185533674,
+        -6.347851668475625e-07
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_023",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        17.969776724832847,
+        7.494446584780513,
+        14.9944534084164
+      ],
+      "representative_quat_xyzw": [
+        5.163736116198249e-07,
+        -2.56713513946405e-07,
+        -0.7071055686627779,
+        -0.707107993708003
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_024",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        16.130744590772494,
+        10.835562019170597,
+        7.49729573224027
+      ],
+      "representative_quat_xyzw": [
+        -1.6127410137345417e-06,
+        -0.7071058984689726,
+        4.136511332908376e-07,
+        0.7071076639010604
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_025",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        101.86383269656041,
+        7.500423804110663,
+        14.161752009981555
+      ],
+      "representative_quat_xyzw": [
+        0.5000026031190896,
+        0.5000000834639775,
+        -0.4999979107013601,
+        -0.49999940270406773
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_026",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        90.46149990509997,
+        14.999748989386141,
+        7.499919247710937
+      ],
+      "representative_quat_xyzw": [
+        0.5000022948903439,
+        -0.5000020317766836,
+        0.4999988636756381,
+        0.4999968096364704
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_027",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        -19.390015427152754,
+        7.4994583703984725,
+        10.838376555033719
+      ],
+      "representative_quat_xyzw": [
+        -0.5000046694755431,
+        -0.5000000481112958,
+        -0.499995521953327,
+        -0.49999976041791744
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_028",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        57.324038050981834,
+        14.998505189170924,
+        7.498529841448489
+      ],
+      "representative_quat_xyzw": [
+        0.5000026786498997,
+        -0.4999972785476713,
+        -0.5000004794461526,
+        -0.49999956334127466
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_029",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        60.01614469305913,
+        7.49850417749365,
+        14.998532481048706
+      ],
+      "representative_quat_xyzw": [
+        -1.8006456323216293e-06,
+        -1.47250724780168e-06,
+        0.7071094444337226,
+        0.7071041179255158
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_030",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        53.75959541097685,
+        7.495041071165664,
+        14.993998729899996
+      ],
+      "representative_quat_xyzw": [
+        -0.7071070156107092,
+        -0.7071065467617905,
+        4.46703707107643e-07,
+        -7.298088754437161e-07
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_031",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        43.73161010641133,
+        7.499443960541684,
+        14.999328047834073
+      ],
+      "representative_quat_xyzw": [
+        1.4405156872898672e-06,
+        8.395464800581287e-07,
+        -0.7071078715944021,
+        -0.7071056907750457
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_032",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        49.8847132741911,
+        15.00164781680737,
+        7.501986713899754
+      ],
+      "representative_quat_xyzw": [
+        0.500001807480229,
+        -0.4999981336499917,
+        -0.5000002386755702,
+        -0.49999982018736966
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_033",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        35.19822547807265,
+        7.500385263123247,
+        10.838947471212554
+      ],
+      "representative_quat_xyzw": [
+        0.5000022201950474,
+        -0.4999998733321638,
+        -0.49999787629348474,
+        0.5000000301698478
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_034",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        23.394957560778547,
+        7.499458370398481,
+        10.838376555033713
+      ],
+      "representative_quat_xyzw": [
+        0.49999552195332675,
+        0.49999976041791727,
+        0.5000046694755431,
+        0.5000000481112962
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_035",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        42.41800695786873,
+        15.000118913197845,
+        10.838915490069496
+      ],
+      "representative_quat_xyzw": [
+        0.707107083204817,
+        1.3900323089559456e-08,
+        -1.3939320663901178e-08,
+        0.7071064791681487
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_036",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        63.22607201985836,
+        14.15834509891592,
+        7.497317969651293
+      ],
+      "representative_quat_xyzw": [
+        0.7071078637297915,
+        2.9946099877331545e-06,
+        -0.7071056986325069,
+        -1.9893078113675244e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_037",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        27.324949663884297,
+        14.999444410530272,
+        10.837933732575951
+      ],
+      "representative_quat_xyzw": [
+        0.7071068623354347,
+        -1.7198780224533647e-09,
+        -1.0700810677195318e-09,
+        0.7071067000376512
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_038",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        37.97949937272223,
+        10.836559148899344,
+        7.49912218899756
+      ],
+      "representative_quat_xyzw": [
+        3.5966134234732827e-07,
+        -0.7071067785873787,
+        3.595716260573756e-07,
+        -0.7071067837855335
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_039",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        44.148731199689365,
+        16.64011473504355,
+        7.498410543562276
+      ],
+      "representative_quat_xyzw": [
+        0.6648316278663818,
+        -0.24074720407725492,
+        0.664866157729802,
+        0.24081669921982493
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_040",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        6.182739750337349,
+        7.499393241254677,
+        14.99974831960393
+      ],
+      "representative_quat_xyzw": [
+        -1.7442996605443464e-06,
+        -1.2621597493822636e-06,
+        0.7071096918967378,
+        0.7071038704610978
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_041",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        112.42781959742231,
+        7.500423804110652,
+        14.16175200998153
+      ],
+      "representative_quat_xyzw": [
+        0.5000026031190898,
+        0.5000000834639774,
+        -0.4999979107013601,
+        -0.4999994027040676
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_042",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        35.14200489595674,
+        7.4994380631356705,
+        10.83792613104318
+      ],
+      "representative_quat_xyzw": [
+        0.4999997654122954,
+        0.5000003802185,
+        0.5000002765670462,
+        0.49999957780170423
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_043",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        113.63966201070144,
+        7.49943806313567,
+        10.837926131043181
+      ],
+      "representative_quat_xyzw": [
+        -0.4999997654122955,
+        0.5000003802185,
+        0.500000276567046,
+        -0.4999995778017041
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_044",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        21.296449796016624,
+        14.161755176131944,
+        7.500382126984749
+      ],
+      "representative_quat_xyzw": [
+        0.7071043493232173,
+        -8.092970780193554e-07,
+        0.7071092130407304,
+        -6.734902699701006e-07
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_045",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        -13.43368647248531,
+        14.155725993376205,
+        7.494546103908735
+      ],
+      "representative_quat_xyzw": [
+        -0.7071098626079131,
+        4.1248597282272925e-07,
+        0.7071036997335649,
+        -5.054960855732649e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_046",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        76.95774306577638,
+        15.001353355685234,
+        7.4983674289078195
+      ],
+      "representative_quat_xyzw": [
+        -0.49999971185788517,
+        0.4999973458942807,
+        -0.5000017183447016,
+        -0.5000012238915548
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_047",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        95.95630662604601,
+        7.4985041774936585,
+        14.99853248104872
+      ],
+      "representative_quat_xyzw": [
+        1.800645632266118e-06,
+        -1.4725072476351464e-06,
+        0.7071094444337224,
+        -0.7071041179255159
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_048",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        43.245564233917875,
+        14.161603651168392,
+        7.501518532299781
+      ],
+      "representative_quat_xyzw": [
+        -0.7070897306306738,
+        2.6129898824112097e-06,
+        0.707123831281355,
+        7.986948224236734e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_049",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        57.141980104940785,
+        10.839014505150441,
+        15.000360109550707
+      ],
+      "representative_quat_xyzw": [
+        -6.443028093827686e-07,
+        5.3835625261166273e-08,
+        -4.313602149530188e-09,
+        0.9999999999997911
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_050",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        68.60997013467531,
+        7.496966769913677,
+        14.158646986560306
+      ],
+      "representative_quat_xyzw": [
+        0.4999997837389467,
+        -0.49999547169650316,
+        0.5000050769023949,
+        -0.49999966761571757
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_051",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        61.92869934889315,
+        10.835564996284184,
+        14.997293157170109
+      ],
+      "representative_quat_xyzw": [
+        1.2205147805199879e-06,
+        -1.896555114864658e-09,
+        -1.0286028530534132e-09,
+        -0.9999999999992552
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_052",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        63.15874781852895,
+        14.996963472900871,
+        7.497294798178345
+      ],
+      "representative_quat_xyzw": [
+        0.5000009533590989,
+        0.4999990269924175,
+        0.49999979131473615,
+        -0.5000002283317962
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_053",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        62.373433195011536,
+        14.159977020544765,
+        7.498531542298116
+      ],
+      "representative_quat_xyzw": [
+        0.7071099876340566,
+        -1.2916773583782073e-06,
+        0.7071035747154747,
+        3.3306410816558167e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_054",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        68.0437653383769,
+        7.498550753893026,
+        10.837156403156973
+      ],
+      "representative_quat_xyzw": [
+        -0.4999966584208144,
+        0.4999994754215007,
+        0.5000033991358532,
+        -0.5000004669986181
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_055",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        39.89183999677492,
+        14.163027056470684,
+        15.002007140414426
+      ],
+      "representative_quat_xyzw": [
+        0.9999999999822562,
+        4.7891768220835825e-06,
+        5.219290270687153e-07,
+        3.504167663315183e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_056",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        8.473267593816725,
+        16.641975135316724,
+        7.500599936861428
+      ],
+      "representative_quat_xyzw": [
+        -0.6648840961182165,
+        0.24071662294228224,
+        -0.664856074623857,
+        -0.24073023533424603
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_057",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        43.67337196600782,
+        7.498511601439526,
+        14.159969129371278
+      ],
+      "representative_quat_xyzw": [
+        0.5000031227776437,
+        0.500006166697355,
+        -0.49999630324189515,
+        -0.4999944071903809
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_058",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        54.022674559022306,
+        14.996963472900855,
+        7.497294798178336
+      ],
+      "representative_quat_xyzw": [
+        0.5000009533590988,
+        0.4999990269924175,
+        0.49999979131473615,
+        -0.5000002283317962
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_059",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        66.39075931710367,
+        14.9986287906121,
+        7.500442618666458
+      ],
+      "representative_quat_xyzw": [
+        -0.5000001305431027,
+        0.5000002116791068,
+        -0.5000012873429684,
+        -0.4999983704304477
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_060",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        65.08107209691374,
+        14.160850405182044,
+        7.499734207748663
+      ],
+      "representative_quat_xyzw": [
+        -0.7071117395448931,
+        8.504639902096043e-06,
+        -0.70710182268455,
+        -9.036231251702274e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_061",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        79.19781309807249,
+        7.501677839899498,
+        10.840606469844666
+      ],
+      "representative_quat_xyzw": [
+        0.49999834836669216,
+        0.4999999399843152,
+        0.5000018817019848,
+        0.49999982994070674
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_062",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        22.07977079001767,
+        10.832995080976056,
+        7.494426051741771
+      ],
+      "representative_quat_xyzw": [
+        -3.193288829417274e-06,
+        -0.7071036830343074,
+        -2.4651087386085017e-06,
+        0.7071098793137062
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_063",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        87.82112925837575,
+        7.499443960541689,
+        14.999328047834075
+      ],
+      "representative_quat_xyzw": [
+        0.7071078715944021,
+        0.7071056907750457,
+        -1.4405156873453784e-06,
+        -8.395464800581287e-07
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_064",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        80.49884086289968,
+        14.99939544319044,
+        7.4997419120977264
+      ],
+      "representative_quat_xyzw": [
+        -0.5000006860358213,
+        -0.4999994120423295,
+        0.500002661600038,
+        -0.49999724030629505
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_065",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        91.69962207346319,
+        10.84027866218481,
+        7.502007658569652
+      ],
+      "representative_quat_xyzw": [
+        -2.1962670410102803e-06,
+        -0.707105524274311,
+        -4.5488408559335447e-07,
+        0.7071080380929927
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_066",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        60.087607518442915,
+        15.000499730545197,
+        14.161607574447428
+      ],
+      "representative_quat_xyzw": [
+        -0.7071541539341727,
+        2.3422292263331917e-05,
+        2.2292409494267504e-05,
+        0.7070594045255951
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_067",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        36.49632327524605,
+        10.837108759080776,
+        14.998533095146975
+      ],
+      "representative_quat_xyzw": [
+        -4.9613035721640015e-09,
+        0.9999999999999291,
+        -3.6743666181893186e-07,
+        8.389076232344795e-08
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_068",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        33.63851538093049,
+        7.50108666176269,
+        14.997722828594933
+      ],
+      "representative_quat_xyzw": [
+        1.0698662758490407e-06,
+        -1.1658198623698546e-06,
+        -0.7071078705073547,
+        -0.7071056918622919
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_069",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        66.87150522185135,
+        10.838058587675611,
+        7.499782867375619
+      ],
+      "representative_quat_xyzw": [
+        2.5225140135309854e-06,
+        0.7071101777048028,
+        -3.978878587995727e-06,
+        0.7071033846362835
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_070",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        33.86143810971741,
+        7.500419944083764,
+        14.161737227044151
+      ],
+      "representative_quat_xyzw": [
+        -0.5000024034913129,
+        -0.49999873060462796,
+        0.49999938874034777,
+        0.49999947715567644
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_071",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        51.75788406297909,
+        16.638520813871047,
+        7.495370243193319
+      ],
+      "representative_quat_xyzw": [
+        -0.6647481695014981,
+        -0.24056055992688014,
+        0.6650023912783511,
+        -0.24085744278753068
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_072",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        6.9451132281312224,
+        7.49943806313567,
+        10.837926131043181
+      ],
+      "representative_quat_xyzw": [
+        0.49999976541229546,
+        0.5000003802184999,
+        0.5000002765670463,
+        0.4999995778017042
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_073",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        56.844871007991195,
+        14.163102498272849,
+        7.501970160913165
+      ],
+      "representative_quat_xyzw": [
+        0.7071048460768901,
+        5.703403947454611e-07,
+        -0.7071087162875949,
+        -2.0885579966600787e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_074",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        63.73977543738549,
+        14.998933054770143,
+        14.160726098088217
+      ],
+      "representative_quat_xyzw": [
+        0.7070846064255535,
+        -3.269170762641497e-06,
+        -2.6477336388508127e-06,
+        -0.7071289552396524
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_075",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        57.59913771950388,
+        7.496051338359114,
+        10.836430664852521
+      ],
+      "representative_quat_xyzw": [
+        -0.5000017751085359,
+        0.4999982302563026,
+        0.5000017572735443,
+        -0.49999823734913906
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_076",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        36.10765110128823,
+        11.39838278090098,
+        13.896391035643756
+      ],
+      "representative_quat_xyzw": [
+        0.6269396610104175,
+        0.3264250106820023,
+        -0.6274325736308412,
+        -0.32668293405131593
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_077",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        35.88270406653561,
+        7.501647190206006,
+        15.001989523186856
+      ],
+      "representative_quat_xyzw": [
+        -1.6004249642764812e-06,
+        7.318932586652949e-07,
+        -0.7071084263736094,
+        0.707105135993468
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_078",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        44.03884400687067,
+        14.161762444555235,
+        7.5003712198605745
+      ],
+      "representative_quat_xyzw": [
+        0.7071089627167062,
+        7.223962945612783e-07,
+        -0.7071045996492034,
+        -3.4911608176591e-07
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_079",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        75.92947251610994,
+        7.497951688624948,
+        14.999126715000143
+      ],
+      "representative_quat_xyzw": [
+        -0.7071079551670482,
+        -0.707105607203552,
+        5.893520728939005e-07,
+        6.515174758026098e-07
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_080",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        49.04226835343296,
+        7.499458418725814,
+        14.160712550860605
+      ],
+      "representative_quat_xyzw": [
+        0.4999988109479325,
+        -0.4999971548991736,
+        0.5000033271145968,
+        -0.5000007070172192
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_081",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        19.840760420396595,
+        7.496957659247904,
+        14.158685956232613
+      ],
+      "representative_quat_xyzw": [
+        -0.5000025233406038,
+        0.49999927954387224,
+        -0.5000014776637933,
+        0.49999671943189883
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_082",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        13.97140747835075,
+        14.155746773376666,
+        7.494482437251704
+      ],
+      "representative_quat_xyzw": [
+        -0.7071108314457146,
+        -6.661722196321663e-06,
+        0.7071027308639717,
+        -3.5334765318695287e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_083",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        37.132662913793894,
+        7.500181823556186,
+        16.640000785269724
+      ],
+      "representative_quat_xyzw": [
+        0.29991565286790295,
+        -0.29991003831253427,
+        0.6403579620964245,
+        -0.6403485382695178
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_084",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        59.20357787800164,
+        7.498514207679521,
+        14.159966186407395
+      ],
+      "representative_quat_xyzw": [
+        0.5000037435827793,
+        0.5000064238793749,
+        -0.4999960192565134,
+        -0.49999381317192854
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_085",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        10.474455530466784,
+        14.159984309681196,
+        7.498564063850961
+      ],
+      "representative_quat_xyzw": [
+        0.7071098252764043,
+        -6.783993963588308e-06,
+        0.7071037369910123,
+        9.213895292459195e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_086",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        88.28102540686336,
+        7.499459887095304,
+        14.160738743205735
+      ],
+      "representative_quat_xyzw": [
+        -0.4999961464795635,
+        0.4999975630322676,
+        -0.5000031384602035,
+        0.500003151987392
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_087",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        56.23558683192357,
+        14.161158884233773,
+        14.999918796648403
+      ],
+      "representative_quat_xyzw": [
+        -1.3101181530719585e-07,
+        2.2572064631853905e-06,
+        0.9999999999847349,
+        5.041634215520301e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_088",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        50.59764961095805,
+        10.837152054327527,
+        7.498559037006053
+      ],
+      "representative_quat_xyzw": [
+        -1.5943934507656184e-06,
+        0.7071094920039369,
+        -2.6346600984494813e-06,
+        -0.7071040703520599
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_089",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        82.50153249397572,
+        10.840278662184831,
+        7.502007658569672
+      ],
+      "representative_quat_xyzw": [
+        -4.54884085759888e-07,
+        -0.7071080380929928,
+        2.196267041176814e-06,
+        -0.707105524274311
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_090",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        57.94823369155241,
+        14.158345098915932,
+        7.497317969651297
+      ],
+      "representative_quat_xyzw": [
+        0.7071078637297915,
+        2.9946099877886656e-06,
+        -0.707105698632507,
+        -1.9893078113120133e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_091",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        47.90606837025834,
+        7.49863919261074,
+        10.837741325190887
+      ],
+      "representative_quat_xyzw": [
+        -0.5000244720322679,
+        -0.49997552676991286,
+        -0.5000244720322679,
+        -0.49997552676991286
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_092",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        54.68362057939086,
+        10.83804678076829,
+        14.99932830082827
+      ],
+      "representative_quat_xyzw": [
+        -4.513459086039247e-09,
+        -0.9999999999998276,
+        5.821741906886224e-07,
+        7.651475740834586e-08
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_093",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        40.16633403541635,
+        7.499438063135662,
+        10.837926131043174
+      ],
+      "representative_quat_xyzw": [
+        -0.4999997654122954,
+        0.5000003802184999,
+        0.5000002765670462,
+        -0.49999957780170423
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_094",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        36.22133529989919,
+        10.838058587675599,
+        7.499782867375619
+      ],
+      "representative_quat_xyzw": [
+        -2.5225140128648516e-06,
+        0.7071101777048022,
+        -3.978878587773682e-06,
+        -0.707103384636284
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_095",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        53.64188557975276,
+        15.00041227584994,
+        7.50036224091188
+      ],
+      "representative_quat_xyzw": [
+        0.49999967549137325,
+        -0.5000002929018705,
+        0.5000005946293334,
+        0.49999943697656124
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_096",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        65.0166989472789,
+        14.161759281324919,
+        7.500375366348167
+      ],
+      "representative_quat_xyzw": [
+        0.7071039240372922,
+        8.260454459341204e-07,
+        0.7071096383225078,
+        1.3391600455769925e-06
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_097",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        49.2277640992291,
+        7.5016471902060315,
+        15.001989523186896
+      ],
+      "representative_quat_xyzw": [
+        -0.7071084263736094,
+        -0.7071051359934679,
+        1.6004249643319923e-06,
+        7.318932585542726e-07
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_098",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        63.37525267804264,
+        10.838058587675617,
+        7.49978286737562
+      ],
+      "representative_quat_xyzw": [
+        -3.978878587496126e-06,
+        0.7071033846362839,
+        2.5225140130591406e-06,
+        0.7071101777048023
+      ],
+      "representative_source": "observed"
+    },
+    {
+      "category": "pose",
+      "ci_high": 0.054486196178705315,
+      "ci_low": 0.0017674320641406505,
+      "count": 1,
+      "group_id": null,
+      "match_status": "unmatched",
+      "pose_id": "trial_099",
+      "probability": 0.01,
+      "reference_pose_id": null,
+      "representative_pos_chute_mm": [
+        32.11543278924102,
+        7.498504177493653,
+        14.998532481048713
+      ],
+      "representative_quat_xyzw": [
+        -1.8006456323216291e-06,
+        1.4725072478016799e-06,
+        -0.7071094444337226,
+        0.7071041179255158
+      ],
+      "representative_source": "observed"
+    }
+  ],
+  "requested_trials": 100,
+  "roughness_impulse_count": 256,
+  "roughness_surface_counts": {
+    "belt": 124,
+    "wall": 132
+  },
+  "settled_trials": 100,
+  "stability_curves": [],
+  "stability_ranking": [],
+  "status_counts": {
+    "settled_stationary": 100
+  }
+}

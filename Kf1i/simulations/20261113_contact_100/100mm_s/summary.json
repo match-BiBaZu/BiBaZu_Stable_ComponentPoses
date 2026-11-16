@@ -1,0 +1,48 @@
+{
+  "belt_mode": "running",
+  "belt_stop_observation": {
+    "enabled": true,
+    "observed_trials": 100,
+    "settled_transport_then_unsettled": 0,
+    "status_counts": {
+      "settled": 100
+    },
+    "unsettled_transport_then_settled": 100
+  },
+  "cancelled": false,
+  "completed_trials": 100,
+  "compute_stability": false,
+  "disturbance_trials": 0,
+  "friction_cone": "elliptic",
+  "group_ordering": null,
+  "group_poses": false,
+  "grouping_barrier_mm": 0.5,
+  "grouping_max_angle_deg": 60.0,
+  "grouping_minimum_frequency_percent": 1.0,
+  "grouping_model": null,
+  "interpretation": "Fractions are conditional on the configured release and virtual 0.5 m chute; friction values are uncalibrated assumptions.",
+  "observed_groups": 0,
+  "pose_frequencies": [
+    {
+      "category": "unassigned",
+      "ci_high": 1.0,
+      "ci_low": 0.9630065017930143,
+      "count": 100,
+      "group_id": null,
+      "pose_id": "unsettled",
+      "probability": 1.0
+    }
+  ],
+  "requested_trials": 100,
+  "roughness_impulse_count": 242,
+  "roughness_surface_counts": {
+    "belt": 113,
+    "wall": 129
+  },
+  "settled_trials": 0,
+  "stability_curves": [],
+  "stability_ranking": [],
+  "status_counts": {
+    "unsettled": 100
+  }
+}

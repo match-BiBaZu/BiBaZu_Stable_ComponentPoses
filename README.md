@@ -142,10 +142,58 @@ Each of these six workpieces adds 100 stationary and 100 moving-belt drops (1,20
 
 A rounded support family ignores circumferential roll while retaining the extrusion-axis direction and broad cut-feature supports. The pinned meshes use source Z as their extrusion axis. Axis alignment uses 10°, and broad-support normals use 5°. A side hull facet is broad when its area is at least twice the median side-strip area. Kk2i retains broad wall/belt support distinctions. Kl2a also merges end-on-belt azimuths. Kk4a retains the signed axis direction; tilted observations stay separate for review. This simple geometric classification does not claim a 0.5 mm energy barrier or add rotational recognition symmetry.
 
-Only Kk2i, Kl2a and Kk4a were regrouped. Kf4i, Kl4i, Kf2a and all other workpieces retain exactly the previous grouping, numbering and representative behavior. All 39 workpieces passed fresh 100 stationary and 100 moving-drop checks (7,800 drops). Only the three revised workpieces' 600 drops are published; the other 7,200 remain local. The other 36 directories are byte-for-byte unchanged.
+Only Kk2i, Kl2a and Kk4a were regrouped. Kf4i, Kl4i, Kf2a and all other workpieces retain exactly the previous grouping, numbering and representative behavior. All 39 workpieces passed fresh 100 stationary and 100 moving-drop checks (7,800 drops). The three revised workpieces' 600 drops were published first. The remaining 7,200 validation drops are now published below; existing catalogue files and grouping assignments remain unchanged.
 
 | Workpiece | Current groups and evidence | New validation |
 | --- | --- | --- |
 | Kk2i | [Groups](Kk2i/grouping/20261113_contact/README.md) | [200 drops](Kk2i/simulations/20261113_contact_100/README.md) |
 | Kk4a | [Groups](Kk4a/grouping/20261113_contact/README.md) | [200 drops](Kk4a/simulations/20261113_contact_100/README.md) |
 | Kl2a | [Groups](Kl2a/grouping/20261113_contact/README.md) | [200 drops](Kl2a/simulations/20261113_contact_100/README.md) |
+
+## Complete grouping validation publication (16 November 2026)
+
+The remaining 36 workpieces' paired 100-drop validation runs are now available: **72 runs and 7,200 drops**. Together with Kk2i, Kl2a and Kk4a, all **39 workpieces and 7,800 drops** in the latest validation study are published. These are the completed 13 November runs; no simulations were rerun for publication. Every remaining workpiece passed an exact comparison with the previous grouping engine. Existing pose catalogues, memberships, numbering, recognition and representatives are unchanged. Saved-catalogue comparison reports accompany each newly published workpiece. Counts below use stationary/transport outcomes; moving-belt post-braking observations remain separate in each summary and archive. Raw records, grouping evidence, original validation receipts, provenance and SHA-256 checksums accompany each run.
+
+| Workpiece | Stationary settled / 100 | Moving settled / 100 | Validation |
+| --- | ---: | ---: | --- |
+| Df1a | 99 | 100 | [Results](Df1a/simulations/20261113_contact_100/README.md) |
+| Df2i | 100 | 100 | [Results](Df2i/simulations/20261113_contact_100/README.md) |
+| Df4a | 100 | 100 | [Results](Df4a/simulations/20261113_contact_100/README.md) |
+| Dk1i | 100 | 100 | [Results](Dk1i/simulations/20261113_contact_100/README.md) |
+| Dk2a | 100 | 100 | [Results](Dk2a/simulations/20261113_contact_100/README.md) |
+| Dk4i | 99 | 96 | [Results](Dk4i/simulations/20261113_contact_100/README.md) |
+| Dl1a | 100 | 100 | [Results](Dl1a/simulations/20261113_contact_100/README.md) |
+| Dl2i | 100 | 100 | [Results](Dl2i/simulations/20261113_contact_100/README.md) |
+| Dl4a | 100 | 100 | [Results](Dl4a/simulations/20261113_contact_100/README.md) |
+| Kf1i | 100 | 0 | [Results](Kf1i/simulations/20261113_contact_100/README.md) |
+| Kf2a | 100 | 94 | [Results](Kf2a/simulations/20261113_contact_100/README.md) |
+| Kf4i | 87 | 88 | [Results](Kf4i/simulations/20261113_contact_100/README.md) |
+| Kk1a | 96 | 91 | [Results](Kk1a/simulations/20261113_contact_100/README.md) |
+| Kk2i | 100 | 92 | [Results](Kk2i/simulations/20261113_contact_100/README.md) |
+| Kk4a | 100 | 100 | [Results](Kk4a/simulations/20261113_contact_100/README.md) |
+| Kl1i | 100 | 100 | [Results](Kl1i/simulations/20261113_contact_100/README.md) |
+| Kl2a | 100 | 100 | [Results](Kl2a/simulations/20261113_contact_100/README.md) |
+| Kl4i | 100 | 99 | [Results](Kl4i/simulations/20261113_contact_100/README.md) |
+| Qf1i | 100 | 100 | [Results](Qf1i/simulations/20261113_contact_100/README.md) |
+| Qf2a | 100 | 100 | [Results](Qf2a/simulations/20261113_contact_100/README.md) |
+| Qf4i | 100 | 100 | [Results](Qf4i/simulations/20261113_contact_100/README.md) |
+| Qk1a | 100 | 99 | [Results](Qk1a/simulations/20261113_contact_100/README.md) |
+| Qk2i | 100 | 100 | [Results](Qk2i/simulations/20261113_contact_100/README.md) |
+| Qk4a | 100 | 100 | [Results](Qk4a/simulations/20261113_contact_100/README.md) |
+| Ql1i | 100 | 100 | [Results](Ql1i/simulations/20261113_contact_100/README.md) |
+| Ql2a | 100 | 100 | [Results](Ql2a/simulations/20261113_contact_100/README.md) |
+| Ql4i | 100 | 100 | [Results](Ql4i/simulations/20261113_contact_100/README.md) |
+| Rf1a | 100 | 100 | [Results](Rf1a/simulations/20261113_contact_100/README.md) |
+| Rf2i | 100 | 99 | [Results](Rf2i/simulations/20261113_contact_100/README.md) |
+| Rf3a | 100 | 100 | [Results](Rf3a/simulations/20261113_contact_100/README.md) |
+| Rf4i | 100 | 100 | [Results](Rf4i/simulations/20261113_contact_100/README.md) |
+| Rk1a | 98 | 100 | [Results](Rk1a/simulations/20261113_contact_100/README.md) |
+| Rk2i | 100 | 100 | [Results](Rk2i/simulations/20261113_contact_100/README.md) |
+| Rk3a | 100 | 100 | [Results](Rk3a/simulations/20261113_contact_100/README.md) |
+| Rk4i | 100 | 100 | [Results](Rk4i/simulations/20261113_contact_100/README.md) |
+| Rl1a | 100 | 100 | [Results](Rl1a/simulations/20261113_contact_100/README.md) |
+| Rl2i | 100 | 99 | [Results](Rl2i/simulations/20261113_contact_100/README.md) |
+| Rl3a | 100 | 100 | [Results](Rl3a/simulations/20261113_contact_100/README.md) |
+| Rl4i | 99 | 100 | [Results](Rl4i/simulations/20261113_contact_100/README.md) |
+
+Kf1i's saved transport catalogue and moving transport sample contain no settled poses, so their comparisons are empty. Its separate post-braking outcomes remain available in the archived run; no occupied transport-group validation is inferred.

@@ -1,0 +1,56 @@
+{
+  "groups": [
+    {
+      "basin_id": "group_001",
+      "count": 50,
+      "group_id": 0,
+      "incidence_percent": 50.0,
+      "members": [
+        "Dl1a_0002",
+        "Dl1a_0003"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_000",
+      "count": 47,
+      "group_id": 1,
+      "incidence_percent": 47.0,
+      "members": [
+        "Dl1a_0001",
+        "Dl1a_0004"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_003",
+      "count": 2,
+      "group_id": 2,
+      "incidence_percent": 2.0,
+      "members": [
+        "Dl1a_0006"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    },
+    {
+      "basin_id": "group_002",
+      "count": 1,
+      "group_id": 3,
+      "incidence_percent": 1.0,
+      "members": [
+        "Dl1a_0005"
+      ],
+      "representative_assessment": "not performed; individual source poses retained",
+      "representative_source_pose_id": null,
+      "requires_review": false
+    }
+  ],
+  "model": "observed-seated-geodesic-basins-v1",
+  "review": []
+}
