@@ -1,6 +1,6 @@
 # Rk1a: 10,000-drop paper study
 
-[Workpiece catalogue](../../README.md) · [Earlier 1,000-drop comparison](../README.md)
+[Workpiece catalogue](../../README.md)
 
 Each condition has a separate ungrouped simulation run. The settled counts use each condition’s primary observation.
 

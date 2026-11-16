@@ -4,7 +4,7 @@ The catalogue covers **39 workpieces** and **780,000 simulated drops** across 78
 
 Moving outcomes are recorded at the virtual exit. Stationary outcomes are recorded after 10 s. The separate post-braking observations remain in the moving raw run archives.
 
-[Workpiece results](#workpieces) · [Grouping method](#catalogue-grouping) · [Simulator settings](#simulator-settings) · [Batch timings](#completed-batches-and-timings) · [Contact validation](#complete-grouping-validation-publication-16-november-2026)
+[Workpiece results](#workpieces) · [Grouping method](#catalogue-grouping) · [Simulator settings](#simulator-settings) · [Batch timings](#completed-batches-and-timings) · [Archive](#archive)
 
 ## Workpieces
 
@@ -98,7 +98,7 @@ Moving outcomes are recorded at the virtual exit. Stationary outcomes are record
 
 ## Catalogue grouping
 
-Each belt condition is processed independently from its saved trial outcomes. Pose recognition accounts for the recorded workpiece symmetry with a 5° tolerance and a 1° ambiguity margin. The seated tipping-barrier method uses directed absorption with a 0.5 mm equivalent lift threshold, a 60° whole-group diameter limit, and 0.1° path sampling. Kf2a, Kf4i and Kl4i use persistent seated-energy minima with a 60° local path limit. Kk2i, Kk4a and Kl2a use the rounded support-family rules described below.
+Each belt condition is processed independently from its saved trial outcomes. Pose recognition accounts for the recorded workpiece symmetry with a 5° tolerance and a 1° ambiguity margin. The seated tipping-barrier method uses directed absorption with a 0.5 mm equivalent lift threshold, a 60° whole-group diameter limit, and 0.1° path sampling. Kf2a, Kf4i and Kl4i use persistent seated-energy minima with a 60° local path limit. Kk2i, Kk4a and Kl2a use the [published rounded support-family rules](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/blob/e121b95f71fb07bf8fad76ed4091d9c3b5e1b3b1/README.md#current-rounded-support-family-refinement).
 
 Pose ranks follow individual incidence and group ranks follow combined incidence. Ties follow the source pose IDs. The denominator includes all 10,000 trials for each condition, and the results include groups below 1%. The case catalogue JSON records the original pose IDs, group memberships and run provenance. The adjacent evidence file records the grouping analysis. [Simulator and grouping code](https://github.com/match-BiBaZu/BiBaZu_PoseFindingDropSim)
 
@@ -167,71 +167,6 @@ Extract an archive with:
 python -m tarfile -e simulation_results.tar.xz extracted
 ```
 
-## Initial rolling-surface validation (13 November 2026)
+## Archive
 
-The initial six-workpiece update used persistent seated-energy minima and minimax-height assignments. The 60° limit applies to each path, with 0.1° sampling and a 0.5 mm escape barrier. A pose reaching multiple minima stays separate for review. The paired validation used 100 stationary and 100 moving-belt drops per workpiece.
-
-| Workpiece | Grouping evidence | Paired validation |
-| --- | --- | --- |
-| Kk2i | [Groups](Kk2i/grouping/20261113/README.md) | [200 drops](Kk2i/simulations/20261113_rolling_100/README.md) |
-| Kk4a | [Groups](Kk4a/grouping/20261113/README.md) | [200 drops](Kk4a/simulations/20261113_rolling_100/README.md) |
-| Kl4i | [Groups](Kl4i/grouping/20261113/README.md) | [200 drops](Kl4i/simulations/20261113_rolling_100/README.md) |
-| Kl2a | [Groups](Kl2a/grouping/20261113/README.md) | [200 drops](Kl2a/simulations/20261113_rolling_100/README.md) |
-| Kf2a | [Groups](Kf2a/grouping/20261113/README.md) | [200 drops](Kf2a/simulations/20261113_rolling_100/README.md) |
-| Kf4i | [Groups](Kf4i/grouping/20261113/README.md) | [200 drops](Kf4i/simulations/20261113_rolling_100/README.md) |
-
-## Current rounded support-family refinement
-
-A rounded support family ignores circumferential roll while retaining the extrusion-axis direction and broad cut-feature supports. The pinned meshes use source Z as their extrusion axis. Axis alignment uses 10°, and broad-support normals use 5°. A side hull facet is broad when its area is at least twice the median side-strip area. Kk2i retains broad wall/belt support distinctions. Kl2a also merges end-on-belt azimuths. Kk4a retains the signed axis direction; tilted observations stay separate for review. This simple geometric classification does not claim a 0.5 mm energy barrier or add rotational recognition symmetry.
-
-| Workpiece | Current groups and evidence | New validation |
-| --- | --- | --- |
-| Kk2i | [Groups](Kk2i/grouping/20261113_contact/README.md) | [200 drops](Kk2i/simulations/20261113_contact_100/README.md) |
-| Kk4a | [Groups](Kk4a/grouping/20261113_contact/README.md) | [200 drops](Kk4a/simulations/20261113_contact_100/README.md) |
-| Kl2a | [Groups](Kl2a/grouping/20261113_contact/README.md) | [200 drops](Kl2a/simulations/20261113_contact_100/README.md) |
-
-## Complete grouping validation publication (16 November 2026)
-
-This separate validation study contains 100 stationary and 100 moving-belt drops for each of the 39 workpieces, for 7,800 drops altogether. The links include the raw records, grouping evidence, validation receipts, provenance and checksums. Moving counts refer to the transport result, with post-braking observations recorded separately.
-
-| Workpiece | Stationary settled / 100 | Moving settled / 100 | Validation |
-| --- | ---: | ---: | --- |
-| Df1a | 99 | 100 | [Results](Df1a/simulations/20261113_contact_100/README.md) |
-| Df2i | 100 | 100 | [Results](Df2i/simulations/20261113_contact_100/README.md) |
-| Df4a | 100 | 100 | [Results](Df4a/simulations/20261113_contact_100/README.md) |
-| Dk1i | 100 | 100 | [Results](Dk1i/simulations/20261113_contact_100/README.md) |
-| Dk2a | 100 | 100 | [Results](Dk2a/simulations/20261113_contact_100/README.md) |
-| Dk4i | 99 | 96 | [Results](Dk4i/simulations/20261113_contact_100/README.md) |
-| Dl1a | 100 | 100 | [Results](Dl1a/simulations/20261113_contact_100/README.md) |
-| Dl2i | 100 | 100 | [Results](Dl2i/simulations/20261113_contact_100/README.md) |
-| Dl4a | 100 | 100 | [Results](Dl4a/simulations/20261113_contact_100/README.md) |
-| Kf1i | 100 | 0 | [Results](Kf1i/simulations/20261113_contact_100/README.md) |
-| Kf2a | 100 | 94 | [Results](Kf2a/simulations/20261113_contact_100/README.md) |
-| Kf4i | 87 | 88 | [Results](Kf4i/simulations/20261113_contact_100/README.md) |
-| Kk1a | 96 | 91 | [Results](Kk1a/simulations/20261113_contact_100/README.md) |
-| Kk2i | 100 | 92 | [Results](Kk2i/simulations/20261113_contact_100/README.md) |
-| Kk4a | 100 | 100 | [Results](Kk4a/simulations/20261113_contact_100/README.md) |
-| Kl1i | 100 | 100 | [Results](Kl1i/simulations/20261113_contact_100/README.md) |
-| Kl2a | 100 | 100 | [Results](Kl2a/simulations/20261113_contact_100/README.md) |
-| Kl4i | 100 | 99 | [Results](Kl4i/simulations/20261113_contact_100/README.md) |
-| Qf1i | 100 | 100 | [Results](Qf1i/simulations/20261113_contact_100/README.md) |
-| Qf2a | 100 | 100 | [Results](Qf2a/simulations/20261113_contact_100/README.md) |
-| Qf4i | 100 | 100 | [Results](Qf4i/simulations/20261113_contact_100/README.md) |
-| Qk1a | 100 | 99 | [Results](Qk1a/simulations/20261113_contact_100/README.md) |
-| Qk2i | 100 | 100 | [Results](Qk2i/simulations/20261113_contact_100/README.md) |
-| Qk4a | 100 | 100 | [Results](Qk4a/simulations/20261113_contact_100/README.md) |
-| Ql1i | 100 | 100 | [Results](Ql1i/simulations/20261113_contact_100/README.md) |
-| Ql2a | 100 | 100 | [Results](Ql2a/simulations/20261113_contact_100/README.md) |
-| Ql4i | 100 | 100 | [Results](Ql4i/simulations/20261113_contact_100/README.md) |
-| Rf1a | 100 | 100 | [Results](Rf1a/simulations/20261113_contact_100/README.md) |
-| Rf2i | 100 | 99 | [Results](Rf2i/simulations/20261113_contact_100/README.md) |
-| Rf3a | 100 | 100 | [Results](Rf3a/simulations/20261113_contact_100/README.md) |
-| Rf4i | 100 | 100 | [Results](Rf4i/simulations/20261113_contact_100/README.md) |
-| Rk1a | 98 | 100 | [Results](Rk1a/simulations/20261113_contact_100/README.md) |
-| Rk2i | 100 | 100 | [Results](Rk2i/simulations/20261113_contact_100/README.md) |
-| Rk3a | 100 | 100 | [Results](Rk3a/simulations/20261113_contact_100/README.md) |
-| Rk4i | 100 | 100 | [Results](Rk4i/simulations/20261113_contact_100/README.md) |
-| Rl1a | 100 | 100 | [Results](Rl1a/simulations/20261113_contact_100/README.md) |
-| Rl2i | 100 | 99 | [Results](Rl2i/simulations/20261113_contact_100/README.md) |
-| Rl3a | 100 | 100 | [Results](Rl3a/simulations/20261113_contact_100/README.md) |
-| Rl4i | 99 | 100 | [Results](Rl4i/simulations/20261113_contact_100/README.md) |
+[Archived runs, pilot validation, and superseded catalogues](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/tree/e121b95f71fb07bf8fad76ed4091d9c3b5e1b3b1).

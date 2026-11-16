@@ -1,9 +1,0 @@
-{
-  "engine_commit": "e890ae90998c17bac7e3a67b6dfaf2deea8047b9",
-  "new_simulation_trials": 0,
-  "operation": "derive_catalogue_from_completed_run",
-  "previous_catalogue_commit": "21b23e91c03406c01e7437c84e48021ad6c6f47f",
-  "source_archive_sha256": "a42e6cadf1d931b9c3f53eaccec8094457ed1cb0ff6a6a2f67e2c07950e9768e",
-  "source_path": "Kf4i/simulations/20261110_10000/100mm_s",
-  "source_trials": 10000
-}
