@@ -2,6 +2,53 @@
 
 [Workpiece index](../README.md#workpieces)
 
+## Geometric pose groups from the 10,000-drop paper runs
+
+Every observed simulated group is included. Moving outcomes are taken at the virtual exit. The stationary runs use a stopped belt from release.
+
+| Belt condition | Observed poses | Geometric groups | Settled drops |
+| --- | ---: | ---: | ---: |
+| [Moving belt at virtual exit](simulations/20261107_10000/100mm_s/README.md) | 6 | 6 | 8,201 / 10,000 |
+| [Stationary belt from release](simulations/20261107_10000/static/README.md) | 15 | 14 | 9,676 / 10,000 |
+
+Each condition is grouped independently. Simulation ranks start at zero and follow descending incidence. The paper label aligns groups through the physical reference orientations where a match is available. Incidence is based on all 10,000 drops.
+
+<details>
+<summary>Moving belt at virtual exit: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Kk1a_0001` | 2,521 | 25.21% |
+| 1 | G1 | `Kk1a_0006` | 2,445 | 24.45% |
+| 2 | G2 | `Kk1a_0005` | 1,573 | 15.73% |
+| 3 | G3 | `Kk1a_0004` | 1,383 | 13.83% |
+| 4 | G4 | `Kk1a_0003` | 278 | 2.78% |
+| 5 | — | `Kk1a_0002` | 1 | 0.01% |
+
+</details>
+
+<details>
+<summary>Stationary belt from release: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Kk1a_0001` | 2,421 | 24.21% |
+| 1 | G1 | `Kk1a_0015` | 2,212 | 22.12% |
+| 2 | G2 | `Kk1a_0008` | 1,656 | 16.56% |
+| 3 | G3 | `Kk1a_0007` | 1,371 | 13.71% |
+| 4 | G4 | `Kk1a_0005` | 1,046 | 10.46% |
+| 5 | G5 | `Kk1a_0006` | 943 | 9.43% |
+| 6 | — | `Kk1a_0012`, `Kk1a_0014` | 8 | 0.08% |
+| 7 | — | `Kk1a_0002` | 4 | 0.04% |
+| 8 | — | `Kk1a_0010` | 4 | 0.04% |
+| 9 | — | `Kk1a_0003` | 3 | 0.03% |
+| 10 | — | `Kk1a_0004` | 3 | 0.03% |
+| 11 | — | `Kk1a_0013` | 3 | 0.03% |
+| 12 | — | `Kk1a_0009` | 1 | 0.01% |
+| 13 | — | `Kk1a_0011` | 1 | 0.01% |
+
+</details>
+
 ## 10,000-drop paper study
 
 The stationary series recorded **9,676** settled outcomes. The moving series recorded **8,201** settled outcomes at the virtual exit. Each series contains 10,000 drops.

@@ -2,6 +2,53 @@
 
 [Workpiece index](../README.md#workpieces)
 
+## Geometric pose groups from the 10,000-drop paper runs
+
+Every observed simulated group is included. Moving outcomes are taken at the virtual exit. The stationary runs use a stopped belt from release.
+
+| Belt condition | Observed poses | Geometric groups | Settled drops |
+| --- | ---: | ---: | ---: |
+| [Moving belt at virtual exit](simulations/20261107_10000/100mm_s/README.md) | 10 | 10 | 9,999 / 10,000 |
+| [Stationary belt from release](simulations/20261107_10000/static/README.md) | 13 | 10 | 9,975 / 10,000 |
+
+Each condition is grouped independently. Simulation ranks start at zero and follow descending incidence. The paper label aligns groups through the physical reference orientations where a match is available. Incidence is based on all 10,000 drops.
+
+<details>
+<summary>Moving belt at virtual exit: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Df1a_0004` | 2,975 | 29.75% |
+| 1 | G1 | `Df1a_0007` | 2,715 | 27.15% |
+| 2 | G2 | `Df1a_0010` | 2,240 | 22.40% |
+| 3 | G3 | `Df1a_0001` | 2,030 | 20.30% |
+| 4 | — | `Df1a_0009` | 13 | 0.13% |
+| 5 | — | `Df1a_0008` | 9 | 0.09% |
+| 6 | — | `Df1a_0002` | 5 | 0.05% |
+| 7 | — | `Df1a_0003` | 5 | 0.05% |
+| 8 | — | `Df1a_0006` | 4 | 0.04% |
+| 9 | — | `Df1a_0005` | 3 | 0.03% |
+
+</details>
+
+<details>
+<summary>Stationary belt from release: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Df1a_0004` | 2,985 | 29.85% |
+| 1 | G1 | `Df1a_0007` | 2,745 | 27.45% |
+| 2 | G2 | `Df1a_0008`, `Df1a_0013` | 2,212 | 22.12% |
+| 3 | G3 | `Df1a_0001` | 1,975 | 19.75% |
+| 4 | — | `Df1a_0010`, `Df1a_0012` | 26 | 0.26% |
+| 5 | — | `Df1a_0009`, `Df1a_0011` | 23 | 0.23% |
+| 6 | — | `Df1a_0005` | 3 | 0.03% |
+| 7 | — | `Df1a_0006` | 3 | 0.03% |
+| 8 | — | `Df1a_0003` | 2 | 0.02% |
+| 9 | — | `Df1a_0002` | 1 | 0.01% |
+
+</details>
+
 ## 10,000-drop paper study
 
 The stationary series recorded **9,975** settled outcomes. The moving series recorded **9,999** settled outcomes at the virtual exit. Each series contains 10,000 drops.
