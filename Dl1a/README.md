@@ -2,6 +2,45 @@
 
 [Workpiece index](../README.md#workpieces)
 
+## Geometric pose groups from the 10,000-drop paper runs
+
+Every observed simulated group is included. Moving outcomes are taken at the virtual exit. The stationary runs use a stopped belt from release.
+
+| Belt condition | Observed poses | Geometric groups | Settled drops |
+| --- | ---: | ---: | ---: |
+| [Moving belt at virtual exit](simulations/20261107_10000/100mm_s/README.md) | 16 | 6 | 10,000 / 10,000 |
+| [Stationary belt from release](simulations/20261107_10000/static/README.md) | 28 | 6 | 9,992 / 10,000 |
+
+Each condition is grouped independently. Simulation ranks start at zero and follow descending incidence. The paper label aligns groups through the physical reference orientations where a match is available. Incidence is based on all 10,000 drops.
+
+<details>
+<summary>Moving belt at virtual exit: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Dl1a_0005`, `Dl1a_0006`, `Dl1a_0009`, `Dl1a_0011` | 4,794 | 47.94% |
+| 1 | G1 | `Dl1a_0004`, `Dl1a_0007`, `Dl1a_0010`, `Dl1a_0012` | 4,738 | 47.38% |
+| 2 | G2 | `Dl1a_0001`, `Dl1a_0002` | 177 | 1.77% |
+| 3 | G3 | `Dl1a_0015`, `Dl1a_0016` | 132 | 1.32% |
+| 4 | G4 | `Dl1a_0013`, `Dl1a_0014` | 102 | 1.02% |
+| 5 | G5 | `Dl1a_0003`, `Dl1a_0008` | 57 | 0.57% |
+
+</details>
+
+<details>
+<summary>Stationary belt from release: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Dl1a_0008`, `Dl1a_0010`, `Dl1a_0012`, `Dl1a_0014` | 4,788 | 47.88% |
+| 1 | G1 | `Dl1a_0007`, `Dl1a_0009`, `Dl1a_0013`, `Dl1a_0015` | 4,718 | 47.18% |
+| 2 | G2 | `Dl1a_0001`, `Dl1a_0002`, `Dl1a_0003`, `Dl1a_0004` | 195 | 1.95% |
+| 3 | G3 | `Dl1a_0023`, `Dl1a_0024`, `Dl1a_0025`, `Dl1a_0026`, `Dl1a_0027`, `Dl1a_0028` | 138 | 1.38% |
+| 4 | G4 | `Dl1a_0016`, `Dl1a_0017`, `Dl1a_0018`, `Dl1a_0019`, `Dl1a_0020`, `Dl1a_0021`, `Dl1a_0022` | 97 | 0.97% |
+| 5 | G5 | `Dl1a_0005`, `Dl1a_0006`, `Dl1a_0011` | 56 | 0.56% |
+
+</details>
+
 ## 10,000-drop paper study
 
 The stationary series recorded **9,992** settled outcomes. The moving series recorded **10,000** settled outcomes at the virtual exit. Each series contains 10,000 drops.

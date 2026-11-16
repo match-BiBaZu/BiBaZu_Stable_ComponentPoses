@@ -2,6 +2,45 @@
 
 [Workpiece index](../README.md#workpieces)
 
+## Geometric pose groups from the 10,000-drop paper runs
+
+Every observed simulated group is included. Moving outcomes are taken at the virtual exit. The stationary runs use a stopped belt from release.
+
+| Belt condition | Observed poses | Geometric groups | Settled drops |
+| --- | ---: | ---: | ---: |
+| [Moving belt at virtual exit](simulations/20261107_10000/100mm_s/README.md) | 6 | 6 | 9,991 / 10,000 |
+| [Stationary belt from release](simulations/20261107_10000/static/README.md) | 10 | 6 | 9,943 / 10,000 |
+
+Each condition is grouped independently. Simulation ranks start at zero and follow descending incidence. The paper label aligns groups through the physical reference orientations where a match is available. Incidence is based on all 10,000 drops.
+
+<details>
+<summary>Moving belt at virtual exit: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Qf1i_0002` | 2,649 | 26.49% |
+| 1 | G1 | `Qf1i_0005` | 2,591 | 25.91% |
+| 2 | G2 | `Qf1i_0006` | 2,498 | 24.98% |
+| 3 | G3 | `Qf1i_0001` | 2,234 | 22.34% |
+| 4 | — | `Qf1i_0003` | 12 | 0.12% |
+| 5 | — | `Qf1i_0004` | 7 | 0.07% |
+
+</details>
+
+<details>
+<summary>Stationary belt from release: group incidence and member poses</summary>
+
+| Simulation rank | Paper label | Member pose IDs | Settled drops | Incidence |
+| ---: | :---: | --- | ---: | ---: |
+| 0 | G0 | `Qf1i_0003`, `Qf1i_0006` | 2,679 | 26.79% |
+| 1 | G1 | `Qf1i_0008`, `Qf1i_0010` | 2,592 | 25.92% |
+| 2 | G2 | `Qf1i_0007`, `Qf1i_0009` | 2,479 | 24.79% |
+| 3 | G3 | `Qf1i_0001`, `Qf1i_0002` | 2,181 | 21.81% |
+| 4 | — | `Qf1i_0004` | 8 | 0.08% |
+| 5 | — | `Qf1i_0005` | 4 | 0.04% |
+
+</details>
+
 ## 10,000-drop paper study
 
 The stationary series recorded **9,943** settled outcomes. The moving series recorded **9,991** settled outcomes at the virtual exit. Each series contains 10,000 drops.

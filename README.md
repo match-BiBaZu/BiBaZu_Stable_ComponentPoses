@@ -49,6 +49,24 @@ Both batches used the same archived simulator settings, revision, and dependency
 | Remaining-workpiece extension (`20261110_10000`) | 27 | 54 | 540,000 | 42 h 30 min 01 s | [Plan](timing/20261110_10000/run_plan.json) · [Timings](timing/20261110_10000/status.json) · [Validation](timing/20261110_10000/batch_validation.json) |
 | **Total** | **39** | **78** | **780,000** | **55 h 16 min 43 s** | Both batches |
 
+## Grouped 10,000-drop results for the paper workpieces
+
+Saved outcomes from the paper runs were classified with recorded workpiece symmetry and grouped using the seated tipping-barrier procedure. Counts include every observed group. See each workpiece for memberships and incidence.
+
+| Workpiece | Moving poses | Moving groups | Stationary poses | Stationary groups |
+| --- | ---: | ---: | ---: | ---: |
+| [Df1a](Df1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 10 | 10 | 13 | 10 |
+| [Dk1i](Dk1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 8 | 6 | 32 | 21 |
+| [Dl1a](Dl1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 16 | 6 | 28 | 6 |
+| [Kf1i](Kf1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | — | — | 9 | 6 |
+| [Kk1a](Kk1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 15 | 14 |
+| [Kl1i](Kl1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 7 | 6 |
+| [Qf1i](Qf1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 10 | 6 |
+| [Qk1a](Qk1a/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 21 | 8 | 75 | 41 |
+| [Ql1i](Ql1i/README.md#geometric-pose-groups-from-the-10000-drop-paper-runs) | 6 | 6 | 7 | 6 |
+
+Kf1i moving was excluded from the experimental comparison (9 settled drops).
+
 ## Workpieces
 
 Each count below is the number of settled outcomes out of **10,000 trials** in that condition. Moving counts use the virtual-exit outcome, separately from the post-braking observation. Catalogue pages describe saved pose catalogues (Dk1i, Kf2a and Kf4i were refreshed from these source runs on 16 November 2026); run links open the completed ungrouped 10,000-drop datasets.
