@@ -11,7 +11,14 @@
           "settled": 9999,
           "poses": 10,
           "groups": 10,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 6,
+            "medium": 4,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Df1a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Df1a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -19,7 +26,14 @@
           "settled": 9975,
           "poses": 13,
           "groups": 10,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 8,
+            "low": 1,
+            "unknown": 0
+          },
+          "pose_quality_report": "Df1a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -65,7 +79,14 @@
           "settled": 9999,
           "poses": 11,
           "groups": 11,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 6,
+            "medium": 5,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Df2i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Df2i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -73,7 +94,14 @@
           "settled": 9998,
           "poses": 16,
           "groups": 12,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 6,
+            "medium": 5,
+            "low": 5,
+            "unknown": 0
+          },
+          "pose_quality_report": "Df2i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -119,7 +147,14 @@
           "settled": 10000,
           "poses": 18,
           "groups": 18,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 6,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Df4a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Df4a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -127,7 +162,14 @@
           "settled": 9998,
           "poses": 20,
           "groups": 20,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 7,
+            "low": 1,
+            "unknown": 0
+          },
+          "pose_quality_report": "Df4a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -172,7 +214,14 @@
           "settled": 9950,
           "poses": 8,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 4,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dk1i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Dk1i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -180,7 +229,14 @@
           "settled": 10000,
           "poses": 32,
           "groups": 21,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 4,
+            "low": 24,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dk1i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -225,7 +281,14 @@
           "settled": 9998,
           "poses": 18,
           "groups": 12,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 6,
+            "low": 4,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dk2a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Dk2a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -233,7 +296,14 @@
           "settled": 9962,
           "poses": 47,
           "groups": 41,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 6,
+            "medium": 8,
+            "low": 33,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dk2a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -279,7 +349,14 @@
           "settled": 9906,
           "poses": 24,
           "groups": 18,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 12,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dk4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Dk4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -287,7 +364,14 @@
           "settled": 9995,
           "poses": 53,
           "groups": 39,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 12,
+            "low": 29,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dk4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -333,7 +417,14 @@
           "settled": 10000,
           "poses": 16,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 4,
+            "low": 8,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dl1a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Dl1a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -341,7 +432,14 @@
           "settled": 9992,
           "poses": 28,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 4,
+            "low": 20,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dl1a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -386,7 +484,14 @@
           "settled": 9999,
           "poses": 12,
           "groups": 9,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dl2i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Dl2i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -394,7 +499,14 @@
           "settled": 10000,
           "poses": 13,
           "groups": 9,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 1,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dl2i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -439,7 +551,14 @@
           "settled": 9999,
           "poses": 24,
           "groups": 18,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 16,
+            "medium": 4,
+            "low": 4,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dl4a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Dl4a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -447,7 +566,14 @@
           "settled": 9999,
           "poses": 30,
           "groups": 18,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 16,
+            "medium": 4,
+            "low": 10,
+            "unknown": 0
+          },
+          "pose_quality_report": "Dl4a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -493,7 +619,14 @@
           "settled": 9,
           "poses": 2,
           "groups": 2,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 0,
+            "medium": 2,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kf1i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kf1i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -501,7 +634,14 @@
           "settled": 10000,
           "poses": 9,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 1,
+            "low": 4,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kf1i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -546,7 +686,14 @@
           "settled": 8763,
           "poses": 52,
           "groups": 9,
-          "grouping_model": "scoped-persistent-seated-energy-basins-v2"
+          "grouping_model": "scoped-persistent-seated-energy-basins-v2",
+          "stability_counts": {
+            "high": 4,
+            "medium": 6,
+            "low": 42,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kf2a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kf2a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -554,7 +701,14 @@
           "settled": 9936,
           "poses": 120,
           "groups": 49,
-          "grouping_model": "scoped-persistent-seated-energy-basins-v2"
+          "grouping_model": "scoped-persistent-seated-energy-basins-v2",
+          "stability_counts": {
+            "high": 2,
+            "medium": 4,
+            "low": 114,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kf2a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -600,7 +754,14 @@
           "settled": 8997,
           "poses": 98,
           "groups": 7,
-          "grouping_model": "scoped-persistent-seated-energy-basins-v2"
+          "grouping_model": "scoped-persistent-seated-energy-basins-v2",
+          "stability_counts": {
+            "high": 0,
+            "medium": 2,
+            "low": 96,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kf4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kf4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -608,7 +769,14 @@
           "settled": 8982,
           "poses": 209,
           "groups": 19,
-          "grouping_model": "scoped-persistent-seated-energy-basins-v2"
+          "grouping_model": "scoped-persistent-seated-energy-basins-v2",
+          "stability_counts": {
+            "high": 0,
+            "medium": 2,
+            "low": 207,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kf4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -655,7 +823,14 @@
           "settled": 8201,
           "poses": 6,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 5,
+            "medium": 0,
+            "low": 1,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kk1a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kk1a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -663,7 +838,14 @@
           "settled": 9676,
           "poses": 15,
           "groups": 14,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 6,
+            "medium": 0,
+            "low": 9,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kk1a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -709,7 +891,14 @@
           "settled": 9385,
           "poses": 64,
           "groups": 7,
-          "grouping_model": "scoped-rounded-support-families-v3"
+          "grouping_model": "scoped-rounded-support-families-v3",
+          "stability_counts": {
+            "high": 4,
+            "medium": 0,
+            "low": 60,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kk2i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kk2i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -717,7 +906,14 @@
           "settled": 9978,
           "poses": 134,
           "groups": 17,
-          "grouping_model": "scoped-rounded-support-families-v3"
+          "grouping_model": "scoped-rounded-support-families-v3",
+          "stability_counts": {
+            "high": 4,
+            "medium": 0,
+            "low": 130,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kk2i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -763,7 +959,14 @@
           "settled": 9988,
           "poses": 190,
           "groups": 8,
-          "grouping_model": "scoped-rounded-support-families-v3"
+          "grouping_model": "scoped-rounded-support-families-v3",
+          "stability_counts": {
+            "high": 0,
+            "medium": 0,
+            "low": 190,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kk4a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kk4a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -771,7 +974,14 @@
           "settled": 9995,
           "poses": 242,
           "groups": 12,
-          "grouping_model": "scoped-rounded-support-families-v3"
+          "grouping_model": "scoped-rounded-support-families-v3",
+          "stability_counts": {
+            "high": 0,
+            "medium": 0,
+            "low": 242,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kk4a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -817,7 +1027,14 @@
           "settled": 9999,
           "poses": 6,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 2,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kl1i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kl1i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -825,7 +1042,14 @@
           "settled": 9997,
           "poses": 7,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 2,
+            "low": 1,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kl1i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -871,7 +1095,14 @@
           "settled": 9994,
           "poses": 53,
           "groups": 6,
-          "grouping_model": "scoped-rounded-support-families-v3"
+          "grouping_model": "scoped-rounded-support-families-v3",
+          "stability_counts": {
+            "high": 0,
+            "medium": 9,
+            "low": 44,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kl2a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kl2a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -879,7 +1110,14 @@
           "settled": 9989,
           "poses": 79,
           "groups": 16,
-          "grouping_model": "scoped-rounded-support-families-v3"
+          "grouping_model": "scoped-rounded-support-families-v3",
+          "stability_counts": {
+            "high": 0,
+            "medium": 8,
+            "low": 71,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kl2a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -925,7 +1163,14 @@
           "settled": 9939,
           "poses": 87,
           "groups": 8,
-          "grouping_model": "scoped-persistent-seated-energy-basins-v2"
+          "grouping_model": "scoped-persistent-seated-energy-basins-v2",
+          "stability_counts": {
+            "high": 0,
+            "medium": 0,
+            "low": 87,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kl4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Kl4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -933,7 +1178,14 @@
           "settled": 9995,
           "poses": 174,
           "groups": 39,
-          "grouping_model": "scoped-persistent-seated-energy-basins-v2"
+          "grouping_model": "scoped-persistent-seated-energy-basins-v2",
+          "stability_counts": {
+            "high": 0,
+            "medium": 0,
+            "low": 174,
+            "unknown": 0
+          },
+          "pose_quality_report": "Kl4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -979,7 +1231,14 @@
           "settled": 9991,
           "poses": 6,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 2,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qf1i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Qf1i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -987,7 +1246,14 @@
           "settled": 9943,
           "poses": 10,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 4,
+            "medium": 2,
+            "low": 4,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qf1i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1033,7 +1299,14 @@
           "settled": 9997,
           "poses": 12,
           "groups": 12,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 10,
+            "medium": 2,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qf2a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Qf2a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1041,7 +1314,14 @@
           "settled": 9971,
           "poses": 29,
           "groups": 22,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 10,
+            "medium": 3,
+            "low": 16,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qf2a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1088,7 +1368,14 @@
           "settled": 9997,
           "poses": 21,
           "groups": 21,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 16,
+            "medium": 5,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qf4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Qf4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1096,7 +1383,14 @@
           "settled": 9994,
           "poses": 29,
           "groups": 29,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 16,
+            "medium": 6,
+            "low": 7,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qf4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1142,7 +1436,14 @@
           "settled": 9953,
           "poses": 21,
           "groups": 8,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 2,
+            "medium": 11,
+            "low": 8,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qk1a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Qk1a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1150,7 +1451,14 @@
           "settled": 9899,
           "poses": 75,
           "groups": 41,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 2,
+            "medium": 8,
+            "low": 65,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qk1a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1196,7 +1504,14 @@
           "settled": 9998,
           "poses": 19,
           "groups": 19,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 1,
+            "low": 6,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qk2i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Qk2i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1204,7 +1519,14 @@
           "settled": 9977,
           "poses": 46,
           "groups": 34,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 1,
+            "low": 33,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qk2i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1250,7 +1572,14 @@
           "settled": 9993,
           "poses": 27,
           "groups": 27,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 24,
+            "medium": 0,
+            "low": 3,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qk4a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Qk4a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1258,7 +1587,14 @@
           "settled": 9984,
           "poses": 46,
           "groups": 40,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 24,
+            "medium": 0,
+            "low": 22,
+            "unknown": 0
+          },
+          "pose_quality_report": "Qk4a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1304,7 +1640,14 @@
           "settled": 9992,
           "poses": 6,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 6,
+            "medium": 0,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Ql1i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Ql1i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1312,7 +1655,14 @@
           "settled": 9995,
           "poses": 7,
           "groups": 6,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 6,
+            "medium": 0,
+            "low": 1,
+            "unknown": 0
+          },
+          "pose_quality_report": "Ql1i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1358,7 +1708,14 @@
           "settled": 9997,
           "poses": 14,
           "groups": 14,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 0,
+            "low": 2,
+            "unknown": 0
+          },
+          "pose_quality_report": "Ql2a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Ql2a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1366,7 +1723,14 @@
           "settled": 9997,
           "poses": 22,
           "groups": 18,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 0,
+            "low": 10,
+            "unknown": 0
+          },
+          "pose_quality_report": "Ql2a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1412,7 +1776,14 @@
           "settled": 10000,
           "poses": 24,
           "groups": 24,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 24,
+            "medium": 0,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Ql4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Ql4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1420,7 +1791,14 @@
           "settled": 9997,
           "poses": 40,
           "groups": 26,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 24,
+            "medium": 0,
+            "low": 16,
+            "unknown": 0
+          },
+          "pose_quality_report": "Ql4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1465,7 +1843,14 @@
           "settled": 10000,
           "poses": 23,
           "groups": 21,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 10,
+            "low": 1,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf1a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rf1a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1473,7 +1858,14 @@
           "settled": 9988,
           "poses": 33,
           "groups": 27,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 7,
+            "low": 14,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf1a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1518,7 +1910,14 @@
           "settled": 9999,
           "poses": 14,
           "groups": 14,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 2,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf2i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rf2i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1526,7 +1925,14 @@
           "settled": 9989,
           "poses": 26,
           "groups": 17,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 14,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf2i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1572,7 +1978,14 @@
           "settled": 10000,
           "poses": 16,
           "groups": 14,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 4,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf3a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rf3a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1580,7 +1993,14 @@
           "settled": 9993,
           "poses": 17,
           "groups": 15,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 5,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf3a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1625,7 +2045,14 @@
           "settled": 10000,
           "poses": 20,
           "groups": 20,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 16,
+            "medium": 0,
+            "low": 4,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rf4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1633,7 +2060,14 @@
           "settled": 9995,
           "poses": 26,
           "groups": 25,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 16,
+            "medium": 0,
+            "low": 10,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rf4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1678,7 +2112,14 @@
           "settled": 9998,
           "poses": 42,
           "groups": 34,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 24,
+            "medium": 2,
+            "low": 16,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk1a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rk1a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1686,7 +2127,14 @@
           "settled": 9970,
           "poses": 107,
           "groups": 89,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 23,
+            "medium": 3,
+            "low": 81,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk1a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1732,7 +2180,14 @@
           "settled": 9997,
           "poses": 12,
           "groups": 12,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 0,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk2i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rk2i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1740,7 +2195,14 @@
           "settled": 9985,
           "poses": 24,
           "groups": 18,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 12,
+            "medium": 0,
+            "low": 12,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk2i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1786,7 +2248,14 @@
           "settled": 9995,
           "poses": 21,
           "groups": 17,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 10,
+            "medium": 3,
+            "low": 8,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk3a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rk3a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1794,7 +2263,14 @@
           "settled": 9975,
           "poses": 48,
           "groups": 29,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 10,
+            "medium": 2,
+            "low": 36,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk3a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1840,7 +2316,14 @@
           "settled": 9996,
           "poses": 24,
           "groups": 24,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 24,
+            "medium": 0,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rk4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1848,7 +2331,14 @@
           "settled": 9965,
           "poses": 63,
           "groups": 43,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 24,
+            "medium": 0,
+            "low": 39,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rk4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1894,7 +2384,14 @@
           "settled": 9996,
           "poses": 31,
           "groups": 27,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 9,
+            "medium": 6,
+            "low": 16,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl1a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rl1a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1902,7 +2399,14 @@
           "settled": 9994,
           "poses": 46,
           "groups": 39,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 9,
+            "low": 29,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl1a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -1948,7 +2452,14 @@
           "settled": 9985,
           "poses": 12,
           "groups": 12,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl2i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rl2i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -1956,7 +2467,14 @@
           "settled": 9995,
           "poses": 27,
           "groups": 12,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 4,
+            "low": 15,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl2i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -2002,7 +2520,14 @@
           "settled": 10000,
           "poses": 20,
           "groups": 15,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 6,
+            "low": 6,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl3a/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rl3a/catalogue/grouped_10000/stationary/catalogue.json",
@@ -2010,7 +2535,14 @@
           "settled": 9997,
           "poses": 30,
           "groups": 15,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 8,
+            "medium": 6,
+            "low": 16,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl3a/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {
@@ -2055,7 +2587,14 @@
           "settled": 10000,
           "poses": 22,
           "groups": 21,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 17,
+            "medium": 5,
+            "low": 0,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl4i/catalogue/grouped_10000/moving/pose_quality.json"
         },
         "stationary": {
           "path": "Rl4i/catalogue/grouped_10000/stationary/catalogue.json",
@@ -2063,7 +2602,14 @@
           "settled": 9999,
           "poses": 29,
           "groups": 24,
-          "grouping_model": "observed-seated-geodesic-basins-v1"
+          "grouping_model": "observed-seated-geodesic-basins-v1",
+          "stability_counts": {
+            "high": 18,
+            "medium": 5,
+            "low": 6,
+            "unknown": 0
+          },
+          "pose_quality_report": "Rl4i/catalogue/grouped_10000/stationary/pose_quality.json"
         }
       },
       "ungrouped_10000_simulations": {

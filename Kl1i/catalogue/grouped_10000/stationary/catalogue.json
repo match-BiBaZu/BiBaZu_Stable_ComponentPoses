@@ -4739,7 +4739,21 @@
         9999
       ],
       "image": "poses/P000.png",
-      "image_sha256": "5cc7ac204203bf33322526a2443b83111c4e0393a4e57083293de5f23955482f"
+      "image_sha256": "5cc7ac204203bf33322526a2443b83111c4e0393a4e57083293de5f23955482f",
+      "pose_quality": {
+        "label": "resistant",
+        "stability": "high",
+        "escape_lift_mm": 17.381447472524687,
+        "escape_target_source_id": "Kl1i_0003",
+        "escape_within_group": false,
+        "source_group_id": "G0",
+        "path_angle_deg": 90.00202279073913,
+        "peak_angle_deg": 73.22029157115627,
+        "path_origin": "calculated_path",
+        "observed_count": 4596,
+        "observed_frequency_percent": 45.96,
+        "reason": "Sampled geometric escape to another recorded pose; not a dynamic stability guarantee."
+      }
     },
     {
       "id": "Kl1i_0007",
@@ -9359,7 +9373,21 @@
         9997
       ],
       "image": "poses/P001.png",
-      "image_sha256": "6a183c0fe4cd1c88937a92617b911b9b94b265e5c7570580d5df1e4002279947"
+      "image_sha256": "6a183c0fe4cd1c88937a92617b911b9b94b265e5c7570580d5df1e4002279947",
+      "pose_quality": {
+        "label": "resistant",
+        "stability": "high",
+        "escape_lift_mm": 17.351268090177435,
+        "escape_target_source_id": "Kl1i_0006",
+        "escape_within_group": false,
+        "source_group_id": "G1",
+        "path_angle_deg": 70.29664223821007,
+        "peak_angle_deg": 70.29664223821007,
+        "path_origin": "calculated_path",
+        "observed_count": 4596,
+        "observed_frequency_percent": 45.96,
+        "reason": "Sampled geometric escape to another recorded pose; not a dynamic stability guarantee."
+      }
     },
     {
       "id": "Kl1i_0004",
@@ -9802,7 +9830,21 @@
         9990
       ],
       "image": "poses/P002.png",
-      "image_sha256": "10d1ddf20db370e837fc462649db62abd43ad5620301b2f079721ac39f36bd7f"
+      "image_sha256": "10d1ddf20db370e837fc462649db62abd43ad5620301b2f079721ac39f36bd7f",
+      "pose_quality": {
+        "label": "resistant",
+        "stability": "high",
+        "escape_lift_mm": 1.0376976721104754,
+        "escape_target_source_id": "Kl1i_0007",
+        "escape_within_group": false,
+        "source_group_id": "G2",
+        "path_angle_deg": 89.99960068797732,
+        "peak_angle_deg": 16.799925461755766,
+        "path_origin": "calculated_path",
+        "observed_count": 419,
+        "observed_frequency_percent": 4.19,
+        "reason": "Sampled geometric escape to another recorded pose; not a dynamic stability guarantee."
+      }
     },
     {
       "id": "Kl1i_0003",
@@ -10146,7 +10188,21 @@
         9949
       ],
       "image": "poses/P003.png",
-      "image_sha256": "d7e48f1f3453ee94a53eb41b40920acd25edefabe9d62160be3f617a85db98fd"
+      "image_sha256": "d7e48f1f3453ee94a53eb41b40920acd25edefabe9d62160be3f617a85db98fd",
+      "pose_quality": {
+        "label": "resistant",
+        "stability": "high",
+        "escape_lift_mm": 1.037729855495968,
+        "escape_target_source_id": "Kl1i_0007",
+        "escape_within_group": false,
+        "source_group_id": "G3",
+        "path_angle_deg": 90.00029181475202,
+        "peak_angle_deg": 16.781408462684062,
+        "path_origin": "calculated_path",
+        "observed_count": 320,
+        "observed_frequency_percent": 3.2,
+        "reason": "Sampled geometric escape to another recorded pose; not a dynamic stability guarantee."
+      }
     },
     {
       "id": "Kl1i_0002",
@@ -10210,7 +10266,21 @@
         9440
       ],
       "image": "poses/P004.png",
-      "image_sha256": "a4239aeba4fc2fd260d123b222c27e253a27fcdda322cf13ce8890f23e1cbdc7"
+      "image_sha256": "a4239aeba4fc2fd260d123b222c27e253a27fcdda322cf13ce8890f23e1cbdc7",
+      "pose_quality": {
+        "label": "marginal",
+        "stability": "medium",
+        "escape_lift_mm": 0.1864086711354176,
+        "escape_target_source_id": "Kl1i_0007",
+        "escape_within_group": false,
+        "source_group_id": "G4",
+        "path_angle_deg": 89.99961523281337,
+        "peak_angle_deg": 6.0999739213351285,
+        "path_origin": "calculated_path",
+        "observed_count": 40,
+        "observed_frequency_percent": 0.4,
+        "reason": "Sampled geometric escape to another recorded pose; not a dynamic stability guarantee."
+      }
     },
     {
       "id": "Kl1i_0005",
@@ -10259,7 +10329,21 @@
         9967
       ],
       "image": "poses/P005.png",
-      "image_sha256": "a566fc3af054f0a533070d668c6551e2ddf3c3206b70cbb1661a3d265d69062e"
+      "image_sha256": "a566fc3af054f0a533070d668c6551e2ddf3c3206b70cbb1661a3d265d69062e",
+      "pose_quality": {
+        "label": "marginal",
+        "stability": "medium",
+        "escape_lift_mm": 0.18637925061858596,
+        "escape_target_source_id": "Kl1i_0001",
+        "escape_within_group": false,
+        "source_group_id": "G5",
+        "path_angle_deg": 89.99757412656555,
+        "peak_angle_deg": 6.099835579689447,
+        "path_origin": "calculated_path",
+        "observed_count": 25,
+        "observed_frequency_percent": 0.25,
+        "reason": "Sampled geometric escape to another recorded pose; not a dynamic stability guarantee."
+      }
     },
     {
       "id": "Kl1i_0006",
@@ -10284,9 +10368,66 @@
         6767
       ],
       "image": "poses/P006.png",
-      "image_sha256": "4ed17ba6320271bf98668b0cda45627cb42e42103bc2da16f0092aa1d2ebe999"
+      "image_sha256": "4ed17ba6320271bf98668b0cda45627cb42e42103bc2da16f0092aa1d2ebe999",
+      "pose_quality": {
+        "label": "fragile",
+        "stability": "low",
+        "escape_lift_mm": 0.0,
+        "escape_target_source_id": "Kl1i_0007",
+        "escape_within_group": false,
+        "source_group_id": "G3",
+        "path_angle_deg": 70.29664223821007,
+        "peak_angle_deg": 0.0,
+        "path_origin": "calculated_path",
+        "observed_count": 1,
+        "observed_frequency_percent": 0.01,
+        "reason": "Sampled geometric escape to another recorded pose; not a dynamic stability guarantee."
+      }
     }
   ],
   "grouping_evidence": "grouping-evidence.json",
-  "grouping_evidence_sha256": "59023a93f2402b1ebdd5bc451ff13b6b17766a7d6c87c730cbc61251348006ca"
+  "grouping_evidence_sha256": "59023a93f2402b1ebdd5bc451ff13b6b17766a7d6c87c730cbc61251348006ca",
+  "pose_quality_assessment": {
+    "schema_version": 1,
+    "method": "sampled_seated_escape_lift",
+    "method_version": 1,
+    "producer": "dashas_drop_sim",
+    "engine_sha256": "820aefcafd3cba97df6969aac763c6062db93196d5cbe81322e3bdb20a184420",
+    "input_signature": "1c608943d9829e3a3d17ae785a2bf0a3cc5b109ec76b6360560b6ba05cbc5e0d",
+    "mesh_sha256": "920ebed11289ff32d7dc0bab88a34e01e0fe5a57dd1fd4abc89360b83f595037",
+    "angular_step_deg": 0.1,
+    "thresholds_mm": {
+      "fragile": 0.1,
+      "resistant": 0.5
+    },
+    "alpha_deg": 45.0,
+    "beta_deg": 0.0,
+    "symmetry_source": "saved_recognition",
+    "symmetry_symbol": "Cinf",
+    "frequency_independent": true,
+    "automatic_filtering": false,
+    "uniform_density_assumed": true,
+    "interpretation": "Sampled geometric tipping resistance, not dynamic survival or a proven minimum-energy path. Group membership and observations are unchanged.",
+    "path_counts": {
+      "reused": 1,
+      "calculated": 20,
+      "symmetry_equivalent": 0
+    },
+    "label_counts": {
+      "resistant": 4,
+      "marginal": 2,
+      "fragile": 1,
+      "unknown": 0
+    },
+    "stability_counts": {
+      "high": 4,
+      "medium": 2,
+      "low": 1,
+      "unknown": 0
+    },
+    "workpiece": "Kl1i",
+    "condition": "stationary",
+    "config_sha256": "7330c481845b2b3238e7f83463a252488f0385ddd0f08910972f8dc922347c69"
+  },
+  "pose_quality_report": "pose_quality.json"
 }

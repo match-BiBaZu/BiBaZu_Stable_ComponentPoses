@@ -1,6 +1,7 @@
 {
-  "catalogue.json": "e7938a1e7f1d5d4af48609187ff3f5f88343a3de9bd43ba1635d6c9f376600f5",
+  "catalogue.json": "bc3e92d45415f53b475d01b390871b331a72468eb48bb538bf9730f93faf91df",
   "grouping-evidence.json": "66ea4a779ebef21f0ceb9a68e2b18958be4d27005e96a7baee7d30e22af32208",
+  "pose_quality.json": "a2bbe52bf9d186db9503863e10670fd2ba94c1c9db775b69dff3a55c68e23b0e",
   "poses/P000.png": "5ef8a7574862df3d4b658da5da2cb93ca3c9e67d30723c1be305c490336699c9",
   "poses/P001.png": "9d3ce8aae2567cec806580361e99229db69ce746d1b45bc68e11e02c25d8f173",
   "poses/P002.png": "98daa5c0b4ceb1d90e13e07e2d1a8c2cb25c9fbd653e498685f5111f95a16407",

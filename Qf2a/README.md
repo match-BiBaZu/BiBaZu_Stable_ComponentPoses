@@ -10,20 +10,20 @@ Each condition has its own pose ranks (`P000` first) and group IDs (`G0` first),
 
 9,997 of 10,000 trials settled. The catalogue contains 12 poses in 12 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
-| --- | --- | --- | ---: | ---: | ---: | ---: |
-| P000<br><code>Qf2a_0003</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/moving/poses/P000.png) | 1,607 | 16.07% | 1,607 | 16.07% |
-| P001<br><code>Qf2a_0011</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/moving/poses/P001.png) | 1,499 | 14.99% | 1,499 | 14.99% |
-| P002<br><code>Qf2a_0012</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/moving/poses/P002.png) | 1,468 | 14.68% | 1,468 | 14.68% |
-| P003<br><code>Qf2a_0001</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/moving/poses/P003.png) | 1,361 | 13.61% | 1,361 | 13.61% |
-| P004<br><code>Qf2a_0008</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/moving/poses/P004.png) | 1,190 | 11.90% | 1,190 | 11.90% |
-| P005<br><code>Qf2a_0004</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/moving/poses/P005.png) | 1,080 | 10.80% | 1,080 | 10.80% |
-| P006<br><code>Qf2a_0006</code> | G6 | [<img src="catalogue/grouped_10000/moving/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/moving/poses/P006.png) | 494 | 4.94% | 494 | 4.94% |
-| P007<br><code>Qf2a_0010</code> | G7 | [<img src="catalogue/grouped_10000/moving/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/moving/poses/P007.png) | 437 | 4.37% | 437 | 4.37% |
-| P008<br><code>Qf2a_0007</code> | G8 | [<img src="catalogue/grouped_10000/moving/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/moving/poses/P008.png) | 434 | 4.34% | 434 | 4.34% |
-| P009<br><code>Qf2a_0002</code> | G9 | [<img src="catalogue/grouped_10000/moving/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/moving/poses/P009.png) | 424 | 4.24% | 424 | 4.24% |
-| P010<br><code>Qf2a_0009</code> | G10 | [<img src="catalogue/grouped_10000/moving/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/moving/poses/P010.png) | 2 | 0.02% | 2 | 0.02% |
-| P011<br><code>Qf2a_0005</code> | G11 | [<img src="catalogue/grouped_10000/moving/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/moving/poses/P011.png) | 1 | 0.01% | 1 | 0.01% |
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence | Stability | Lift to tip (mm) | Easiest target |
+| --- | --- | --- | ---: | ---: | ---: | ---: | --- | ---: | --- |
+| P000<br><code>Qf2a_0003</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/moving/poses/P000.png) | 1,607 | 16.07% | 1,607 | 16.07% | High | 9.6284 | Qf2a_0006 |
+| P001<br><code>Qf2a_0011</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/moving/poses/P001.png) | 1,499 | 14.99% | 1,499 | 14.99% | High | 9.6285 | Qf2a_0010 |
+| P002<br><code>Qf2a_0012</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/moving/poses/P002.png) | 1,468 | 14.68% | 1,468 | 14.68% | High | 9.6290 | Qf2a_0007 |
+| P003<br><code>Qf2a_0001</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/moving/poses/P003.png) | 1,361 | 13.61% | 1,361 | 13.61% | High | 9.6280 | Qf2a_0002 |
+| P004<br><code>Qf2a_0008</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/moving/poses/P004.png) | 1,190 | 11.90% | 1,190 | 11.90% | High | 10.8786 | Qf2a_0006 |
+| P005<br><code>Qf2a_0004</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/moving/poses/P005.png) | 1,080 | 10.80% | 1,080 | 10.80% | High | 10.8803 | Qf2a_0001 |
+| P006<br><code>Qf2a_0006</code> | G6 | [<img src="catalogue/grouped_10000/moving/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/moving/poses/P006.png) | 494 | 4.94% | 494 | 4.94% | High | 1.9282 | Qf2a_0003 |
+| P007<br><code>Qf2a_0010</code> | G7 | [<img src="catalogue/grouped_10000/moving/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/moving/poses/P007.png) | 437 | 4.37% | 437 | 4.37% | High | 1.9298 | Qf2a_0011 |
+| P008<br><code>Qf2a_0007</code> | G8 | [<img src="catalogue/grouped_10000/moving/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/moving/poses/P008.png) | 434 | 4.34% | 434 | 4.34% | High | 1.9279 | Qf2a_0012 |
+| P009<br><code>Qf2a_0002</code> | G9 | [<img src="catalogue/grouped_10000/moving/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/moving/poses/P009.png) | 424 | 4.24% | 424 | 4.24% | High | 1.9257 | Qf2a_0001 |
+| P010<br><code>Qf2a_0009</code> | G10 | [<img src="catalogue/grouped_10000/moving/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/moving/poses/P010.png) | 2 | 0.02% | 2 | 0.02% | Medium | 0.1985 | Qf2a_0011 |
+| P011<br><code>Qf2a_0005</code> | G11 | [<img src="catalogue/grouped_10000/moving/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/moving/poses/P011.png) | 1 | 0.01% | 1 | 0.01% | Medium | 0.1985 | Qf2a_0001 |
 
 Outcomes from the archived run: settled 9,997, stalled 1, unsettled 2.
 
@@ -31,37 +31,37 @@ Outcomes from the archived run: settled 9,997, stalled 1, unsettled 2.
 
 9,971 of 10,000 trials settled. The catalogue contains 29 poses in 22 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
-| --- | --- | --- | ---: | ---: | ---: | ---: |
-| P000<br><code>Qf2a_0005</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/stationary/poses/P000.png) | 1,573 | 15.73% | 1,573 | 15.73% |
-| P001<br><code>Qf2a_0025</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/stationary/poses/P001.png) | 1,539 | 15.39% | 1,539 | 15.39% |
-| P002<br><code>Qf2a_0024</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/stationary/poses/P002.png) | 1,457 | 14.57% | 1,457 | 14.57% |
-| P003<br><code>Qf2a_0001</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/stationary/poses/P003.png) | 1,373 | 13.73% | 1,373 | 13.73% |
-| P004<br><code>Qf2a_0015</code> | G4 | [<img src="catalogue/grouped_10000/stationary/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/stationary/poses/P004.png) | 1,151 | 11.51% | 1,151 | 11.51% |
-| P005<br><code>Qf2a_0006</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/stationary/poses/P005.png) | 1,078 | 10.78% | 1,078 | 10.78% |
-| P006<br><code>Qf2a_0020</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/stationary/poses/P006.png) | 473 | 4.73% | 473 | 4.73% |
-| P007<br><code>Qf2a_0011</code> | G7 | [<img src="catalogue/grouped_10000/stationary/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/stationary/poses/P007.png) | 471 | 4.71% | 471 | 4.71% |
-| P008<br><code>Qf2a_0014</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/stationary/poses/P008.png) | 397 | 3.97% | 397 | 3.97% |
-| P009<br><code>Qf2a_0003</code> | G9 | [<img src="catalogue/grouped_10000/stationary/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/stationary/poses/P009.png) | 392 | 3.92% | 392 | 3.92% |
-| P010<br><code>Qf2a_0007</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/stationary/poses/P010.png) | 18 | 0.18% | 22 | 0.22% |
-| P011<br><code>Qf2a_0013</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/stationary/poses/P011.png) | 14 | 0.14% | 18 | 0.18% |
-| P012<br><code>Qf2a_0010</code> | G12 | [<img src="catalogue/grouped_10000/stationary/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/stationary/poses/P012.png) | 4 | 0.04% | 4 | 0.04% |
-| P013<br><code>Qf2a_0023</code> | G13 | [<img src="catalogue/grouped_10000/stationary/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/stationary/poses/P013.png) | 4 | 0.04% | 4 | 0.04% |
-| P014<br><code>Qf2a_0002</code> | G14 | [<img src="catalogue/grouped_10000/stationary/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/stationary/poses/P014.png) | 3 | 0.03% | 3 | 0.03% |
-| P015<br><code>Qf2a_0004</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/stationary/poses/P015.png) | 3 | 0.03% | 22 | 0.22% |
-| P016<br><code>Qf2a_0009</code> | G15 | [<img src="catalogue/grouped_10000/stationary/poses/P016.png" width="180" alt="P016">](catalogue/grouped_10000/stationary/poses/P016.png) | 3 | 0.03% | 3 | 0.03% |
-| P017<br><code>Qf2a_0016</code> | G16 | [<img src="catalogue/grouped_10000/stationary/poses/P017.png" width="180" alt="P017">](catalogue/grouped_10000/stationary/poses/P017.png) | 3 | 0.03% | 3 | 0.03% |
-| P018<br><code>Qf2a_0008</code> | G19 | [<img src="catalogue/grouped_10000/stationary/poses/P018.png" width="180" alt="P018">](catalogue/grouped_10000/stationary/poses/P018.png) | 2 | 0.02% | 2 | 0.02% |
-| P019<br><code>Qf2a_0012</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P019.png" width="180" alt="P019">](catalogue/grouped_10000/stationary/poses/P019.png) | 2 | 0.02% | 18 | 0.18% |
-| P020<br><code>Qf2a_0017</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P020.png" width="180" alt="P020">](catalogue/grouped_10000/stationary/poses/P020.png) | 2 | 0.02% | 18 | 0.18% |
-| P021<br><code>Qf2a_0027</code> | G18 | [<img src="catalogue/grouped_10000/stationary/poses/P021.png" width="180" alt="P021">](catalogue/grouped_10000/stationary/poses/P021.png) | 2 | 0.02% | 3 | 0.03% |
-| P022<br><code>Qf2a_0018</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P022.png" width="180" alt="P022">](catalogue/grouped_10000/stationary/poses/P022.png) | 1 | 0.01% | 3 | 0.03% |
-| P023<br><code>Qf2a_0019</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P023.png" width="180" alt="P023">](catalogue/grouped_10000/stationary/poses/P023.png) | 1 | 0.01% | 3 | 0.03% |
-| P024<br><code>Qf2a_0021</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P024.png" width="180" alt="P024">](catalogue/grouped_10000/stationary/poses/P024.png) | 1 | 0.01% | 3 | 0.03% |
-| P025<br><code>Qf2a_0022</code> | G20 | [<img src="catalogue/grouped_10000/stationary/poses/P025.png" width="180" alt="P025">](catalogue/grouped_10000/stationary/poses/P025.png) | 1 | 0.01% | 1 | 0.01% |
-| P026<br><code>Qf2a_0026</code> | G21 | [<img src="catalogue/grouped_10000/stationary/poses/P026.png" width="180" alt="P026">](catalogue/grouped_10000/stationary/poses/P026.png) | 1 | 0.01% | 1 | 0.01% |
-| P027<br><code>Qf2a_0028</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P027.png" width="180" alt="P027">](catalogue/grouped_10000/stationary/poses/P027.png) | 1 | 0.01% | 22 | 0.22% |
-| P028<br><code>Qf2a_0029</code> | G18 | [<img src="catalogue/grouped_10000/stationary/poses/P028.png" width="180" alt="P028">](catalogue/grouped_10000/stationary/poses/P028.png) | 1 | 0.01% | 3 | 0.03% |
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence | Stability | Lift to tip (mm) | Easiest target |
+| --- | --- | --- | ---: | ---: | ---: | ---: | --- | ---: | --- |
+| P000<br><code>Qf2a_0005</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/stationary/poses/P000.png) | 1,573 | 15.73% | 1,573 | 15.73% | High | 9.6302 | Qf2a_0011 |
+| P001<br><code>Qf2a_0025</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/stationary/poses/P001.png) | 1,539 | 15.39% | 1,539 | 15.39% | High | 9.6303 | Qf2a_0020 |
+| P002<br><code>Qf2a_0024</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/stationary/poses/P002.png) | 1,457 | 14.57% | 1,457 | 14.57% | High | 9.3402 | Qf2a_0027 |
+| P003<br><code>Qf2a_0001</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/stationary/poses/P003.png) | 1,373 | 13.73% | 1,373 | 13.73% | High | 9.6303 | Qf2a_0003 |
+| P004<br><code>Qf2a_0015</code> | G4 | [<img src="catalogue/grouped_10000/stationary/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/stationary/poses/P004.png) | 1,151 | 11.51% | 1,151 | 11.51% | High | 10.8805 | Qf2a_0025 |
+| P005<br><code>Qf2a_0006</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/stationary/poses/P005.png) | 1,078 | 10.78% | 1,078 | 10.78% | High | 10.7676 | Qf2a_0018 |
+| P006<br><code>Qf2a_0020</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/stationary/poses/P006.png) | 473 | 4.73% | 473 | 4.73% | High | 1.9271 | Qf2a_0025 |
+| P007<br><code>Qf2a_0011</code> | G7 | [<img src="catalogue/grouped_10000/stationary/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/stationary/poses/P007.png) | 471 | 4.71% | 471 | 4.71% | High | 1.9166 | Qf2a_0009 |
+| P008<br><code>Qf2a_0014</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/stationary/poses/P008.png) | 397 | 3.97% | 397 | 3.97% | High | 1.9069 | Qf2a_0029 |
+| P009<br><code>Qf2a_0003</code> | G9 | [<img src="catalogue/grouped_10000/stationary/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/stationary/poses/P009.png) | 392 | 3.92% | 392 | 3.92% | High | 1.9271 | Qf2a_0001 |
+| P017<br><code>Qf2a_0016</code> | G16 | [<img src="catalogue/grouped_10000/stationary/poses/P017.png" width="180" alt="P017">](catalogue/grouped_10000/stationary/poses/P017.png) | 3 | 0.03% | 3 | 0.03% | Medium | 0.1989 | Qf2a_0025 |
+| P018<br><code>Qf2a_0008</code> | G19 | [<img src="catalogue/grouped_10000/stationary/poses/P018.png" width="180" alt="P018">](catalogue/grouped_10000/stationary/poses/P018.png) | 2 | 0.02% | 2 | 0.02% | Medium | 0.1989 | Qf2a_0001 |
+| P026<br><code>Qf2a_0026</code> | G21 | [<img src="catalogue/grouped_10000/stationary/poses/P026.png" width="180" alt="P026">](catalogue/grouped_10000/stationary/poses/P026.png) | 1 | 0.01% | 1 | 0.01% | Medium | 0.1586 | Qf2a_0024 |
+| P010<br><code>Qf2a_0007</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/stationary/poses/P010.png) | 18 | 0.18% | 22 | 0.22% | Low | 0.0370 | Qf2a_0003 |
+| P011<br><code>Qf2a_0013</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/stationary/poses/P011.png) | 14 | 0.14% | 18 | 0.18% | Low | 0.0369 | Qf2a_0017 (rocking within group) |
+| P012<br><code>Qf2a_0010</code> | G12 | [<img src="catalogue/grouped_10000/stationary/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/stationary/poses/P012.png) | 4 | 0.04% | 4 | 0.04% | Low | 0.0000 | Qf2a_0005 |
+| P013<br><code>Qf2a_0023</code> | G13 | [<img src="catalogue/grouped_10000/stationary/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/stationary/poses/P013.png) | 4 | 0.04% | 4 | 0.04% | Low | 0.0000 | Qf2a_0020 |
+| P014<br><code>Qf2a_0002</code> | G14 | [<img src="catalogue/grouped_10000/stationary/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/stationary/poses/P014.png) | 3 | 0.03% | 3 | 0.03% | Low | 0.0000 | Qf2a_0003 |
+| P015<br><code>Qf2a_0004</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/stationary/poses/P015.png) | 3 | 0.03% | 22 | 0.22% | Low | 0.0000 | Qf2a_0001 |
+| P016<br><code>Qf2a_0009</code> | G15 | [<img src="catalogue/grouped_10000/stationary/poses/P016.png" width="180" alt="P016">](catalogue/grouped_10000/stationary/poses/P016.png) | 3 | 0.03% | 3 | 0.03% | Low | 0.0000 | Qf2a_0011 |
+| P019<br><code>Qf2a_0012</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P019.png" width="180" alt="P019">](catalogue/grouped_10000/stationary/poses/P019.png) | 2 | 0.02% | 18 | 0.18% | Low | 0.0000 | Qf2a_0005 |
+| P020<br><code>Qf2a_0017</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P020.png" width="180" alt="P020">](catalogue/grouped_10000/stationary/poses/P020.png) | 2 | 0.02% | 18 | 0.18% | Low | 0.0000 | Qf2a_0020 |
+| P021<br><code>Qf2a_0027</code> | G18 | [<img src="catalogue/grouped_10000/stationary/poses/P021.png" width="180" alt="P021">](catalogue/grouped_10000/stationary/poses/P021.png) | 2 | 0.02% | 3 | 0.03% | Low | 0.0000 | Qf2a_0024 |
+| P022<br><code>Qf2a_0018</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P022.png" width="180" alt="P022">](catalogue/grouped_10000/stationary/poses/P022.png) | 1 | 0.01% | 3 | 0.03% | Low | 0.0000 | Qf2a_0006 |
+| P023<br><code>Qf2a_0019</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P023.png" width="180" alt="P023">](catalogue/grouped_10000/stationary/poses/P023.png) | 1 | 0.01% | 3 | 0.03% | Low | 0.0000 | Qf2a_0003 |
+| P024<br><code>Qf2a_0021</code> | G17 | [<img src="catalogue/grouped_10000/stationary/poses/P024.png" width="180" alt="P024">](catalogue/grouped_10000/stationary/poses/P024.png) | 1 | 0.01% | 3 | 0.03% | Low | 0.0000 | Qf2a_0002 |
+| P025<br><code>Qf2a_0022</code> | G20 | [<img src="catalogue/grouped_10000/stationary/poses/P025.png" width="180" alt="P025">](catalogue/grouped_10000/stationary/poses/P025.png) | 1 | 0.01% | 1 | 0.01% | Low | 0.0000 | Qf2a_0005 |
+| P027<br><code>Qf2a_0028</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P027.png" width="180" alt="P027">](catalogue/grouped_10000/stationary/poses/P027.png) | 1 | 0.01% | 22 | 0.22% | Low | 0.0000 | Qf2a_0014 |
+| P028<br><code>Qf2a_0029</code> | G18 | [<img src="catalogue/grouped_10000/stationary/poses/P028.png" width="180" alt="P028">](catalogue/grouped_10000/stationary/poses/P028.png) | 1 | 0.01% | 3 | 0.03% | Low | 0.0000 | Qf2a_0014 |
 
 Outcomes from the archived run: settled stationary 9,971, unsettled stationary 29.
 
@@ -69,3 +69,10 @@ Outcomes from the archived run: settled stationary 9,971, unsettled stationary 2
 
 - **Moving belt** · [Catalogue JSON](catalogue/grouped_10000/moving/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/moving/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/moving/files.sha256.json) · [Source run and validation](simulations/20261110_10000/100mm_s/README.md) · [Raw run archive](simulations/20261110_10000/100mm_s/simulation_results.tar.xz)
 - **Stationary belt** · [Catalogue JSON](catalogue/grouped_10000/stationary/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/stationary/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/stationary/files.sha256.json) · [Source run and validation](simulations/20261110_10000/static/README.md) · [Raw run archive](simulations/20261110_10000/static/simulation_results.tar.xz)
+
+## Geometric stability
+
+Stability is shown High, Medium, then Low. High needs at least 0.5 mm of sampled centre-of-mass lift to tip; Medium needs 0.1 to below 0.5 mm; Low needs below 0.1 mm. Unknown means no distinct destination could be assessed. Frequency, pose ranks and groups are unchanged. Within-group rocking does not classify the whole group as unstable. These geometry-only estimates are not measured transport survival probabilities.
+
+[Moving stability report](catalogue/grouped_10000/moving/pose_quality.json)
+[Stationary stability report](catalogue/grouped_10000/stationary/pose_quality.json)

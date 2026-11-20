@@ -10,19 +10,19 @@ Each condition has its own pose ranks (`P000` first) and group IDs (`G0` first),
 
 9,999 of 10,000 trials settled. The catalogue contains 11 poses in 11 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
-| --- | --- | --- | ---: | ---: | ---: | ---: |
-| P000<br><code>Df2i_0004</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/moving/poses/P000.png) | 1,912 | 19.12% | 1,912 | 19.12% |
-| P001<br><code>Df2i_0005</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/moving/poses/P001.png) | 1,901 | 19.01% | 1,901 | 19.01% |
-| P002<br><code>Df2i_0002</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/moving/poses/P002.png) | 1,775 | 17.75% | 1,775 | 17.75% |
-| P003<br><code>Df2i_0001</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/moving/poses/P003.png) | 1,719 | 17.19% | 1,719 | 17.19% |
-| P004<br><code>Df2i_0008</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/moving/poses/P004.png) | 1,413 | 14.13% | 1,413 | 14.13% |
-| P005<br><code>Df2i_0007</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/moving/poses/P005.png) | 1,267 | 12.67% | 1,267 | 12.67% |
-| P006<br><code>Df2i_0003</code> | G6 | [<img src="catalogue/grouped_10000/moving/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/moving/poses/P006.png) | 3 | 0.03% | 3 | 0.03% |
-| P007<br><code>Df2i_0006</code> | G7 | [<img src="catalogue/grouped_10000/moving/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/moving/poses/P007.png) | 3 | 0.03% | 3 | 0.03% |
-| P008<br><code>Df2i_0011</code> | G8 | [<img src="catalogue/grouped_10000/moving/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/moving/poses/P008.png) | 3 | 0.03% | 3 | 0.03% |
-| P009<br><code>Df2i_0009</code> | G9 | [<img src="catalogue/grouped_10000/moving/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/moving/poses/P009.png) | 2 | 0.02% | 2 | 0.02% |
-| P010<br><code>Df2i_0010</code> | G10 | [<img src="catalogue/grouped_10000/moving/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/moving/poses/P010.png) | 1 | 0.01% | 1 | 0.01% |
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence | Stability | Lift to tip (mm) | Easiest target |
+| --- | --- | --- | ---: | ---: | ---: | ---: | --- | ---: | --- |
+| P000<br><code>Df2i_0004</code> | G0 | [<img src="catalogue/grouped_10000/moving/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/moving/poses/P000.png) | 1,912 | 19.12% | 1,912 | 19.12% | High | 7.7883 | Df2i_0002 |
+| P001<br><code>Df2i_0005</code> | G1 | [<img src="catalogue/grouped_10000/moving/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/moving/poses/P001.png) | 1,901 | 19.01% | 1,901 | 19.01% | High | 7.7850 | Df2i_0001 |
+| P002<br><code>Df2i_0002</code> | G2 | [<img src="catalogue/grouped_10000/moving/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/moving/poses/P002.png) | 1,775 | 17.75% | 1,775 | 17.75% | High | 7.7835 | Df2i_0004 |
+| P003<br><code>Df2i_0001</code> | G3 | [<img src="catalogue/grouped_10000/moving/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/moving/poses/P003.png) | 1,719 | 17.19% | 1,719 | 17.19% | High | 7.7854 | Df2i_0005 |
+| P004<br><code>Df2i_0008</code> | G4 | [<img src="catalogue/grouped_10000/moving/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/moving/poses/P004.png) | 1,413 | 14.13% | 1,413 | 14.13% | High | 9.1103 | Df2i_0007 |
+| P005<br><code>Df2i_0007</code> | G5 | [<img src="catalogue/grouped_10000/moving/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/moving/poses/P005.png) | 1,267 | 12.67% | 1,267 | 12.67% | High | 9.1094 | Df2i_0008 |
+| P006<br><code>Df2i_0003</code> | G6 | [<img src="catalogue/grouped_10000/moving/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/moving/poses/P006.png) | 3 | 0.03% | 3 | 0.03% | Medium | 0.2352 | Df2i_0005 |
+| P007<br><code>Df2i_0006</code> | G7 | [<img src="catalogue/grouped_10000/moving/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/moving/poses/P007.png) | 3 | 0.03% | 3 | 0.03% | Medium | 0.2351 | Df2i_0001 |
+| P008<br><code>Df2i_0011</code> | G8 | [<img src="catalogue/grouped_10000/moving/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/moving/poses/P008.png) | 3 | 0.03% | 3 | 0.03% | Medium | 0.2063 | Df2i_0001 |
+| P009<br><code>Df2i_0009</code> | G9 | [<img src="catalogue/grouped_10000/moving/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/moving/poses/P009.png) | 2 | 0.02% | 2 | 0.02% | Medium | 0.2186 | Df2i_0007 |
+| P010<br><code>Df2i_0010</code> | G10 | [<img src="catalogue/grouped_10000/moving/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/moving/poses/P010.png) | 1 | 0.01% | 1 | 0.01% | Medium | 0.2202 | Df2i_0008 |
 
 Outcomes from the archived run: settled 9,999, unsettled 1.
 
@@ -30,24 +30,24 @@ Outcomes from the archived run: settled 9,999, unsettled 1.
 
 9,998 of 10,000 trials settled. The catalogue contains 16 poses in 12 groups. This condition uses seated tipping-barrier grouping with a whole-group diameter limit.
 
-| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence |
-| --- | --- | --- | ---: | ---: | ---: | ---: |
-| P000<br><code>Df2i_0007</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/stationary/poses/P000.png) | 1,943 | 19.43% | 1,944 | 19.44% |
-| P001<br><code>Df2i_0008</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/stationary/poses/P001.png) | 1,894 | 18.94% | 1,894 | 18.94% |
-| P002<br><code>Df2i_0003</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/stationary/poses/P002.png) | 1,761 | 17.61% | 1,761 | 17.61% |
-| P003<br><code>Df2i_0002</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/stationary/poses/P003.png) | 1,746 | 17.46% | 1,746 | 17.46% |
-| P004<br><code>Df2i_0011</code> | G4 | [<img src="catalogue/grouped_10000/stationary/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/stationary/poses/P004.png) | 1,398 | 13.98% | 1,398 | 13.98% |
-| P005<br><code>Df2i_0012</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/stationary/poses/P005.png) | 1,235 | 12.35% | 1,236 | 12.36% |
-| P006<br><code>Df2i_0006</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/stationary/poses/P006.png) | 4 | 0.04% | 5 | 0.05% |
-| P007<br><code>Df2i_0016</code> | G7 | [<img src="catalogue/grouped_10000/stationary/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/stationary/poses/P007.png) | 4 | 0.04% | 4 | 0.04% |
-| P008<br><code>Df2i_0009</code> | G9 | [<img src="catalogue/grouped_10000/stationary/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/stationary/poses/P008.png) | 3 | 0.03% | 3 | 0.03% |
-| P009<br><code>Df2i_0015</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/stationary/poses/P009.png) | 3 | 0.03% | 3 | 0.03% |
-| P010<br><code>Df2i_0001</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/stationary/poses/P010.png) | 2 | 0.02% | 3 | 0.03% |
-| P011<br><code>Df2i_0004</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/stationary/poses/P011.png) | 1 | 0.01% | 1,944 | 19.44% |
-| P012<br><code>Df2i_0005</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/stationary/poses/P012.png) | 1 | 0.01% | 5 | 0.05% |
-| P013<br><code>Df2i_0010</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/stationary/poses/P013.png) | 1 | 0.01% | 1 | 0.01% |
-| P014<br><code>Df2i_0013</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/stationary/poses/P014.png) | 1 | 0.01% | 1,236 | 12.36% |
-| P015<br><code>Df2i_0014</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/stationary/poses/P015.png) | 1 | 0.01% | 3 | 0.03% |
+| Pose | Group | Preview | Pose drops | Pose incidence | Group drops | Group incidence | Stability | Lift to tip (mm) | Easiest target |
+| --- | --- | --- | ---: | ---: | ---: | ---: | --- | ---: | --- |
+| P000<br><code>Df2i_0007</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P000.png" width="180" alt="P000">](catalogue/grouped_10000/stationary/poses/P000.png) | 1,943 | 19.43% | 1,944 | 19.44% | High | 7.7875 | Df2i_0003 |
+| P001<br><code>Df2i_0008</code> | G1 | [<img src="catalogue/grouped_10000/stationary/poses/P001.png" width="180" alt="P001">](catalogue/grouped_10000/stationary/poses/P001.png) | 1,894 | 18.94% | 1,894 | 18.94% | High | 7.7862 | Df2i_0002 |
+| P002<br><code>Df2i_0003</code> | G2 | [<img src="catalogue/grouped_10000/stationary/poses/P002.png" width="180" alt="P002">](catalogue/grouped_10000/stationary/poses/P002.png) | 1,761 | 17.61% | 1,761 | 17.61% | High | 7.7860 | Df2i_0007 |
+| P003<br><code>Df2i_0002</code> | G3 | [<img src="catalogue/grouped_10000/stationary/poses/P003.png" width="180" alt="P003">](catalogue/grouped_10000/stationary/poses/P003.png) | 1,746 | 17.46% | 1,746 | 17.46% | High | 7.7870 | Df2i_0008 |
+| P004<br><code>Df2i_0011</code> | G4 | [<img src="catalogue/grouped_10000/stationary/poses/P004.png" width="180" alt="P004">](catalogue/grouped_10000/stationary/poses/P004.png) | 1,398 | 13.98% | 1,398 | 13.98% | High | 9.1122 | Df2i_0012 |
+| P005<br><code>Df2i_0012</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P005.png" width="180" alt="P005">](catalogue/grouped_10000/stationary/poses/P005.png) | 1,235 | 12.35% | 1,236 | 12.36% | High | 9.1124 | Df2i_0011 |
+| P006<br><code>Df2i_0006</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P006.png" width="180" alt="P006">](catalogue/grouped_10000/stationary/poses/P006.png) | 4 | 0.04% | 5 | 0.05% | Medium | 0.2353 | Df2i_0007 |
+| P007<br><code>Df2i_0016</code> | G7 | [<img src="catalogue/grouped_10000/stationary/poses/P007.png" width="180" alt="P007">](catalogue/grouped_10000/stationary/poses/P007.png) | 4 | 0.04% | 4 | 0.04% | Medium | 0.2065 | Df2i_0003 |
+| P008<br><code>Df2i_0009</code> | G9 | [<img src="catalogue/grouped_10000/stationary/poses/P008.png" width="180" alt="P008">](catalogue/grouped_10000/stationary/poses/P008.png) | 3 | 0.03% | 3 | 0.03% | Medium | 0.2353 | Df2i_0002 |
+| P009<br><code>Df2i_0015</code> | G10 | [<img src="catalogue/grouped_10000/stationary/poses/P009.png" width="180" alt="P009">](catalogue/grouped_10000/stationary/poses/P009.png) | 3 | 0.03% | 3 | 0.03% | Medium | 0.2201 | Df2i_0011 |
+| P013<br><code>Df2i_0010</code> | G11 | [<img src="catalogue/grouped_10000/stationary/poses/P013.png" width="180" alt="P013">](catalogue/grouped_10000/stationary/poses/P013.png) | 1 | 0.01% | 1 | 0.01% | Medium | 0.2067 | Df2i_0007 |
+| P010<br><code>Df2i_0001</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P010.png" width="180" alt="P010">](catalogue/grouped_10000/stationary/poses/P010.png) | 2 | 0.02% | 3 | 0.03% | Low | 0.0000 | Df2i_0003 |
+| P011<br><code>Df2i_0004</code> | G0 | [<img src="catalogue/grouped_10000/stationary/poses/P011.png" width="180" alt="P011">](catalogue/grouped_10000/stationary/poses/P011.png) | 1 | 0.01% | 1,944 | 19.44% | Low | 0.0000 | Df2i_0007 (rocking within group) |
+| P012<br><code>Df2i_0005</code> | G6 | [<img src="catalogue/grouped_10000/stationary/poses/P012.png" width="180" alt="P012">](catalogue/grouped_10000/stationary/poses/P012.png) | 1 | 0.01% | 5 | 0.05% | Low | 0.0000 | Df2i_0008 |
+| P014<br><code>Df2i_0013</code> | G5 | [<img src="catalogue/grouped_10000/stationary/poses/P014.png" width="180" alt="P014">](catalogue/grouped_10000/stationary/poses/P014.png) | 1 | 0.01% | 1,236 | 12.36% | Low | 0.0000 | Df2i_0012 (rocking within group) |
+| P015<br><code>Df2i_0014</code> | G8 | [<img src="catalogue/grouped_10000/stationary/poses/P015.png" width="180" alt="P015">](catalogue/grouped_10000/stationary/poses/P015.png) | 1 | 0.01% | 3 | 0.03% | Low | 0.0000 | Df2i_0002 |
 
 Outcomes from the archived run: settled stationary 9,998, unsettled stationary 2.
 
@@ -55,3 +55,10 @@ Outcomes from the archived run: settled stationary 9,998, unsettled stationary 2
 
 - **Moving belt** · [Catalogue JSON](catalogue/grouped_10000/moving/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/moving/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/moving/files.sha256.json) · [Source run and validation](simulations/20261110_10000/100mm_s/README.md) · [Raw run archive](simulations/20261110_10000/100mm_s/simulation_results.tar.xz)
 - **Stationary belt** · [Catalogue JSON](catalogue/grouped_10000/stationary/catalogue.json) · [Grouping evidence](catalogue/grouped_10000/stationary/grouping-evidence.json) · [Checksums](catalogue/grouped_10000/stationary/files.sha256.json) · [Source run and validation](simulations/20261110_10000/static/README.md) · [Raw run archive](simulations/20261110_10000/static/simulation_results.tar.xz)
+
+## Geometric stability
+
+Stability is shown High, Medium, then Low. High needs at least 0.5 mm of sampled centre-of-mass lift to tip; Medium needs 0.1 to below 0.5 mm; Low needs below 0.1 mm. Unknown means no distinct destination could be assessed. Frequency, pose ranks and groups are unchanged. Within-group rocking does not classify the whole group as unstable. These geometry-only estimates are not measured transport survival probabilities.
+
+[Moving stability report](catalogue/grouped_10000/moving/pose_quality.json)
+[Stationary stability report](catalogue/grouped_10000/stationary/pose_quality.json)

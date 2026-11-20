@@ -170,3 +170,7 @@ python -m tarfile -e simulation_results.tar.xz extracted
 ## Archive
 
 [Archived runs, pilot validation, and superseded catalogues](https://github.com/match-BiBaZu/BiBaZu_Stable_ComponentPoses/tree/e121b95f71fb07bf8fad76ed4091d9c3b5e1b3b1).
+
+## Geometric stability
+
+Every current moving and stationary catalogue includes pose stability computed by DropSim after grouping. High: lift ≥ 0.5 mm; Medium: 0.1–<0.5 mm; Low: <0.1 mm. Unknown is reported when no distinct destination is assessable. See the Stability column and detached stability reports for each workpiece. Original poses, incidence and grouping are unchanged.
